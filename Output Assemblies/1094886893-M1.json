@@ -1,0 +1,2400 @@
+﻿{
+  "assembly_metadata": {
+    "assembly_name": "1094886893-M1.iam",
+    "full_file_name": "C:\\Users\\hrish\\Downloads\\Assemblies for Training ML model\\Assembly 10\\Workspaces\\1094886893-M1\\1094886893-M1.iam",
+    "internal_name": "{681EDEAE-410A-CE9C-EC57-3B9E38DCB26E}",
+    "total_occurrences": 13,
+    "total_constraints": 11
+  },
+  "physics": {
+    "mass_kg": 7.81757905674466,
+    "center_of_mass": [
+      17.313988315359875,
+      -51.998035854865563,
+      185.58412108950571
+    ],
+    "inertia_tensor": [
+      6749.39934652555,
+      2592.9629799072145,
+      6060.8330863475912,
+      147.79487453085557,
+      -0.2285239627212286,
+      233.13211627591028
+    ]
+  },
+  "assembly_graph": {
+    "nodes": [
+      {
+        "node_id": "1094886893-M2:1",
+        "file_name": "C:\\Users\\hrish\\Downloads\\Assemblies for Training ML model\\Assembly 10\\Workspaces\\1094886893-M1\\1094886893-M2.ipt",
+        "component_type": "kPartDocumentObject",
+        "grounded": true,
+        "suppressed": false,
+        "visible": true,
+        "adaptive": false,
+        "flexible": false,
+        "dof_translation": 0,
+        "dof_rotation": 0,
+        "fully_constrained": false,
+        "transform": {
+          "rotation_matrix": [
+            [
+              -8.5258103781196391E-15,
+              -8.8017729841343618E-14,
+              0.99999999999999734
+            ],
+            [
+              0.99999999999999822,
+              4.9960036108132044E-16,
+              7.2559927937047252E-15
+            ],
+            [
+              -1.27675647831893E-15,
+              1.0,
+              8.755841290626117E-14
+            ]
+          ],
+          "translation_cm": [
+            -0.39999999999983732,
+            -53.599999999999291,
+            50.000000000006374
+          ]
+        }
+      },
+      {
+        "node_id": "1094886893-M3:1",
+        "file_name": "C:\\Users\\hrish\\Downloads\\Assemblies for Training ML model\\Assembly 10\\Workspaces\\1094886893-M1\\1094886893-M3.iam",
+        "component_type": "kAssemblyDocumentObject",
+        "grounded": false,
+        "suppressed": false,
+        "visible": true,
+        "adaptive": false,
+        "flexible": false,
+        "dof_translation": 0,
+        "dof_rotation": 0,
+        "fully_constrained": true,
+        "transform": {
+          "rotation_matrix": [
+            [
+              0.99999999999999956,
+              1.6366710448331458E-16,
+              -1.4146292339399642E-15
+            ],
+            [
+              -1.4287458243856897E-15,
+              9.6138563554708524E-15,
+              -1.0000000000000013
+            ],
+            [
+              -3.3020055817697816E-16,
+              1.0000000000000018,
+              9.5006374509900056E-15
+            ]
+          ],
+          "translation_cm": [
+            32.750000000000568,
+            -16.449999969036945,
+            170.0000000000048
+          ]
+        }
+      },
+      {
+        "node_id": "1094886893-M3:1/1094886893-P1:1",
+        "file_name": "C:\\Users\\hrish\\Downloads\\Assemblies for Training ML model\\Assembly 10\\Workspaces\\1094886893-M1\\1094886893-P1.ipt",
+        "component_type": "kPartDocumentObject",
+        "grounded": true,
+        "suppressed": false,
+        "visible": true,
+        "adaptive": false,
+        "flexible": false,
+        "dof_translation": 0,
+        "dof_rotation": 0,
+        "fully_constrained": false,
+        "transform": {
+          "rotation_matrix": [
+            [
+              0.99999999999999956,
+              1.6366710448331458E-16,
+              -1.4146292339399642E-15
+            ],
+            [
+              -1.4287458243856897E-15,
+              9.6138563554708524E-15,
+              -1.0000000000000013
+            ],
+            [
+              -3.3020055817697816E-16,
+              1.0000000000000018,
+              9.5006374509900056E-15
+            ]
+          ],
+          "translation_cm": [
+            32.750000000000568,
+            -16.449999969036945,
+            170.0000000000048
+          ]
+        }
+      },
+      {
+        "node_id": "1094886893-M4:1",
+        "file_name": "C:\\Users\\hrish\\Downloads\\Assemblies for Training ML model\\Assembly 10\\Workspaces\\1094886893-M1\\1094886893-M4.iam",
+        "component_type": "kAssemblyDocumentObject",
+        "grounded": false,
+        "suppressed": false,
+        "visible": true,
+        "adaptive": false,
+        "flexible": false,
+        "dof_translation": 0,
+        "dof_rotation": 0,
+        "fully_constrained": true,
+        "transform": {
+          "rotation_matrix": [
+            [
+              -8.52581037811967E-15,
+              -2.4441535446059408E-18,
+              0.99999999999999978
+            ],
+            [
+              1.0000000000000016,
+              9.5019910197082227E-15,
+              8.5258103781165783E-15
+            ],
+            [
+              -9.5019910197082511E-15,
+              1.000000000000002,
+              2.4441535445302591E-18
+            ]
+          ],
+          "translation_cm": [
+            4.2500000000001608,
+            -53.449999999997758,
+            184.50000000000534
+          ]
+        }
+      },
+      {
+        "node_id": "1094886893-M4:1/1094886893-P2:1",
+        "file_name": "C:\\Users\\hrish\\Downloads\\Assemblies for Training ML model\\Assembly 10\\Workspaces\\1094886893-M1\\1094886893-P2.ipt",
+        "component_type": "kPartDocumentObject",
+        "grounded": true,
+        "suppressed": false,
+        "visible": true,
+        "adaptive": false,
+        "flexible": false,
+        "dof_translation": 0,
+        "dof_rotation": 0,
+        "fully_constrained": false,
+        "transform": {
+          "rotation_matrix": [
+            [
+              -8.52581037811967E-15,
+              -2.4441535446059408E-18,
+              0.99999999999999978
+            ],
+            [
+              1.0000000000000016,
+              9.5019910197082227E-15,
+              8.5258103781165783E-15
+            ],
+            [
+              -9.5019910197082511E-15,
+              1.000000000000002,
+              2.4441535445302591E-18
+            ]
+          ],
+          "translation_cm": [
+            4.2500000000001608,
+            -53.449999999997758,
+            184.50000000000534
+          ]
+        }
+      },
+      {
+        "node_id": "1094886893-M4:1/0298100025-M1:1",
+        "file_name": "C:\\Users\\hrish\\Downloads\\Assemblies for Training ML model\\Assembly 10\\Workspaces\\1094886893-M1\\0298100025-M1.ipt",
+        "component_type": "kPartDocumentObject",
+        "grounded": false,
+        "suppressed": false,
+        "visible": true,
+        "adaptive": false,
+        "flexible": false,
+        "dof_translation": 0,
+        "dof_rotation": 0,
+        "fully_constrained": true,
+        "transform": {
+          "rotation_matrix": [
+            [
+              8.66957558619125E-15,
+              1.0000000000000011,
+              8.820004927216291E-15
+            ],
+            [
+              -1.0000000000000018,
+              8.6859260124555428E-15,
+              9.5575021709395546E-15
+            ],
+            [
+              9.5019910197082511E-15,
+              -8.8181077034993843E-15,
+              1.0000000000000018
+            ]
+          ],
+          "translation_cm": [
+            6.4000000000004169,
+            -83.449999999997658,
+            198.92000000000564
+          ]
+        }
+      },
+      {
+        "node_id": "1094886893-M4:1/0298100025-M1:2",
+        "file_name": "C:\\Users\\hrish\\Downloads\\Assemblies for Training ML model\\Assembly 10\\Workspaces\\1094886893-M1\\0298100025-M1.ipt",
+        "component_type": "kPartDocumentObject",
+        "grounded": false,
+        "suppressed": false,
+        "visible": true,
+        "adaptive": false,
+        "flexible": false,
+        "dof_translation": 0,
+        "dof_rotation": 0,
+        "fully_constrained": true,
+        "transform": {
+          "rotation_matrix": [
+            [
+              8.52581037811967E-15,
+              1.0000000000000004,
+              8.8181077034992849E-15
+            ],
+            [
+              -1.0000000000000016,
+              8.525810378116501E-15,
+              9.5019910197083047E-15
+            ],
+            [
+              9.5019910197082511E-15,
+              -8.81810770349938E-15,
+              1.0000000000000027
+            ]
+          ],
+          "translation_cm": [
+            6.4000000000001611,
+            -53.449999999997608,
+            198.92000000000536
+          ]
+        }
+      },
+      {
+        "node_id": "1094886893-M4:1/0298100025-M1:3",
+        "file_name": "C:\\Users\\hrish\\Downloads\\Assemblies for Training ML model\\Assembly 10\\Workspaces\\1094886893-M1\\0298100025-M1.ipt",
+        "component_type": "kPartDocumentObject",
+        "grounded": false,
+        "suppressed": false,
+        "visible": true,
+        "adaptive": false,
+        "flexible": false,
+        "dof_translation": 0,
+        "dof_rotation": 0,
+        "fully_constrained": true,
+        "transform": {
+          "rotation_matrix": [
+            [
+              8.52581037811967E-15,
+              1.0000000000000004,
+              8.8181077034992849E-15
+            ],
+            [
+              -1.0000000000000016,
+              8.525810378116501E-15,
+              9.5019910197083047E-15
+            ],
+            [
+              9.5019910197082511E-15,
+              -8.81810770349938E-15,
+              1.0000000000000027
+            ]
+          ],
+          "translation_cm": [
+            6.3999999999999053,
+            -23.449999999997562,
+            198.92000000000507
+          ]
+        }
+      },
+      {
+        "node_id": "1094886893-M4:1/0298100025-M1:6",
+        "file_name": "C:\\Users\\hrish\\Downloads\\Assemblies for Training ML model\\Assembly 10\\Workspaces\\1094886893-M1\\0298100025-M1.ipt",
+        "component_type": "kPartDocumentObject",
+        "grounded": false,
+        "suppressed": false,
+        "visible": true,
+        "adaptive": false,
+        "flexible": false,
+        "dof_translation": 0,
+        "dof_rotation": 0,
+        "fully_constrained": true,
+        "transform": {
+          "rotation_matrix": [
+            [
+              -2.17687569675366E-17,
+              3.1506158067750953E-14,
+              0.9999999999999889
+            ],
+            [
+              9.55750217094322E-15,
+              -1.0000000000000011,
+              3.1580350347878189E-14
+            ],
+            [
+              1.000000000000006,
+              9.5019910197103431E-15,
+              7.1039787942638172E-16
+            ]
+          ],
+          "translation_cm": [
+            32.670000000001636,
+            -88.949999999996066,
+            181.62500000000571
+          ]
+        }
+      },
+      {
+        "node_id": "1094886893-M4:1/0298100025-M1:7",
+        "file_name": "C:\\Users\\hrish\\Downloads\\Assemblies for Training ML model\\Assembly 10\\Workspaces\\1094886893-M1\\0298100025-M1.ipt",
+        "component_type": "kPartDocumentObject",
+        "grounded": false,
+        "suppressed": false,
+        "visible": true,
+        "adaptive": false,
+        "flexible": false,
+        "dof_translation": 0,
+        "dof_rotation": 0,
+        "fully_constrained": true,
+        "transform": {
+          "rotation_matrix": [
+            [
+              -2.1768756967531174E-17,
+              3.1506158067750966E-14,
+              0.9999999999999889
+            ],
+            [
+              9.555315555543466E-15,
+              -1.0000000000000016,
+              3.1580350347878297E-14
+            ],
+            [
+              1.0000000000000064,
+              9.4998044043122966E-15,
+              7.10397879426379E-16
+            ]
+          ],
+          "translation_cm": [
+            32.670000000000478,
+            -88.949999999996152,
+            173.62500000000568
+          ]
+        }
+      },
+      {
+        "node_id": "1094886893-M4:1/0298100025-M1:9",
+        "file_name": "C:\\Users\\hrish\\Downloads\\Assemblies for Training ML model\\Assembly 10\\Workspaces\\1094886893-M1\\0298100025-M1.ipt",
+        "component_type": "kPartDocumentObject",
+        "grounded": false,
+        "suppressed": false,
+        "visible": true,
+        "adaptive": false,
+        "flexible": false,
+        "dof_translation": 0,
+        "dof_rotation": 0,
+        "fully_constrained": true,
+        "transform": {
+          "rotation_matrix": [
+            [
+              -1.5145390176105954E-17,
+              1.4454537311511631E-14,
+              0.9999999999999889
+            ],
+            [
+              -9.61301332217069E-15,
+              1.0000000000000018,
+              -1.4528729591645392E-14
+            ],
+            [
+              -1.0000000000000067,
+              -9.4464798684768938E-15,
+              -7.0377451263510877E-16
+            ]
+          ],
+          "translation_cm": [
+            32.66999999999986,
+            -17.949999999998397,
+            173.62500000000483
+          ]
+        }
+      },
+      {
+        "node_id": "1094886893-M4:1/0298100025-M1:8",
+        "file_name": "C:\\Users\\hrish\\Downloads\\Assemblies for Training ML model\\Assembly 10\\Workspaces\\1094886893-M1\\0298100025-M1.ipt",
+        "component_type": "kPartDocumentObject",
+        "grounded": false,
+        "suppressed": false,
+        "visible": true,
+        "adaptive": false,
+        "flexible": false,
+        "dof_translation": 0,
+        "dof_rotation": 0,
+        "fully_constrained": true,
+        "transform": {
+          "rotation_matrix": [
+            [
+              -1.5145390176105667E-17,
+              1.4454537311511631E-14,
+              0.9999999999999889
+            ],
+            [
+              -9.6108267067749984E-15,
+              1.0000000000000018,
+              -1.45287295916454E-14
+            ],
+            [
+              -1.0000000000000069,
+              -9.4998044043122981E-15,
+              -7.0377451263510818E-16
+            ]
+          ],
+          "translation_cm": [
+            32.66999999999986,
+            -17.949999999998305,
+            181.62500000000486
+          ]
+        }
+      },
+      {
+        "node_id": "1094886893-M4:1/0129327026-M2:1",
+        "file_name": "C:\\Users\\hrish\\Downloads\\Assemblies for Training ML model\\Assembly 10\\Workspaces\\1094886893-M1\\0129327026-M2.ipt",
+        "component_type": "kPartDocumentObject",
+        "grounded": true,
+        "suppressed": false,
+        "visible": true,
+        "adaptive": false,
+        "flexible": false,
+        "dof_translation": 0,
+        "dof_rotation": 0,
+        "fully_constrained": false,
+        "transform": {
+          "rotation_matrix": [
+            [
+              0.64456322342152106,
+              0.76455101269467707,
+              -2.1708970345841179E-14
+            ],
+            [
+              0.7645510126946784,
+              -0.64456322342152228,
+              -9.50199101970843E-15
+            ],
+            [
+              -2.1257560760011511E-14,
+              -1.0472981301886068E-14,
+              -1.0000000000000022
+            ]
+          ],
+          "translation_cm": [
+            6.3999999999983066,
+            -17.949999999997864,
+            199.00000000000503
+          ]
+        }
+      },
+      {
+        "node_id": "1094886893-M4:1/0129327026-M2:2",
+        "file_name": "C:\\Users\\hrish\\Downloads\\Assemblies for Training ML model\\Assembly 10\\Workspaces\\1094886893-M1\\0129327026-M2.ipt",
+        "component_type": "kPartDocumentObject",
+        "grounded": false,
+        "suppressed": false,
+        "visible": true,
+        "adaptive": false,
+        "flexible": false,
+        "dof_translation": 0,
+        "dof_rotation": 0,
+        "fully_constrained": true,
+        "transform": {
+          "rotation_matrix": [
+            [
+              0.39904323417807952,
+              0.91693211158553012,
+              9.0982819394681268E-15
+            ],
+            [
+              0.91693211158552479,
+              -0.399043234178084,
+              -9.6338290267365558E-15
+            ],
+            [
+              -5.0650794988479522E-15,
+              1.1929578223245607E-14,
+              -1.0000000000000016
+            ]
+          ],
+          "translation_cm": [
+            5.7499999999998543,
+            -17.949999999997821,
+            170.250000000005
+          ]
+        }
+      },
+      {
+        "node_id": "1094886893-M4:1/0129327026-M2:3",
+        "file_name": "C:\\Users\\hrish\\Downloads\\Assemblies for Training ML model\\Assembly 10\\Workspaces\\1094886893-M1\\0129327026-M2.ipt",
+        "component_type": "kPartDocumentObject",
+        "grounded": false,
+        "suppressed": false,
+        "visible": true,
+        "adaptive": false,
+        "flexible": false,
+        "dof_translation": 0,
+        "dof_rotation": 0,
+        "fully_constrained": true,
+        "transform": {
+          "rotation_matrix": [
+            [
+              1.6628755675495766E-14,
+              -1.8834168811028043E-14,
+              -0.99999999999999978
+            ],
+            [
+              -0.66140169675687033,
+              0.75003186300792279,
+              -2.5124513940266331E-14
+            ],
+            [
+              0.75003186300792291,
+              0.66140169675687066,
+              1.514539017644411E-17
+            ]
+          ],
+          "translation_cm": [
+            32.749999999999616,
+            -17.949999999998134,
+            183.98838834765323
+          ]
+        }
+      },
+      {
+        "node_id": "1094886893-M4:1/0129327026-M2:4",
+        "file_name": "C:\\Users\\hrish\\Downloads\\Assemblies for Training ML model\\Assembly 10\\Workspaces\\1094886893-M1\\0129327026-M2.ipt",
+        "component_type": "kPartDocumentObject",
+        "grounded": false,
+        "suppressed": false,
+        "visible": true,
+        "adaptive": false,
+        "flexible": false,
+        "dof_translation": 0,
+        "dof_rotation": 0,
+        "fully_constrained": true,
+        "transform": {
+          "rotation_matrix": [
+            [
+              0.64456322342152106,
+              0.76455101269467707,
+              -2.3989907963030205E-14
+            ],
+            [
+              0.7645510126946784,
+              -0.64456322342152228,
+              -9.501991019708311E-15
+            ],
+            [
+              -2.2727769262970281E-14,
+              -1.2216874467001324E-14,
+              -1.0000000000000022
+            ]
+          ],
+          "translation_cm": [
+            17.899999999998521,
+            -17.949999999997509,
+            198.87500000000435
+          ]
+        }
+      },
+      {
+        "node_id": "1094886893-M4:1/0129327026-M2:5",
+        "file_name": "C:\\Users\\hrish\\Downloads\\Assemblies for Training ML model\\Assembly 10\\Workspaces\\1094886893-M1\\0129327026-M2.ipt",
+        "component_type": "kPartDocumentObject",
+        "grounded": false,
+        "suppressed": false,
+        "visible": true,
+        "adaptive": false,
+        "flexible": false,
+        "dof_translation": 0,
+        "dof_rotation": 0,
+        "fully_constrained": true,
+        "transform": {
+          "rotation_matrix": [
+            [
+              0.64456322342152106,
+              0.76455101269467707,
+              5.4144360188186938E-15
+            ],
+            [
+              0.7645510126946784,
+              -0.64456322342152228,
+              -9.5019910197082116E-15
+            ],
+            [
+              -3.7748105234343409E-15,
+              1.0264246501943776E-14,
+              -1.0000000000000022
+            ]
+          ],
+          "translation_cm": [
+            31.750000000000217,
+            -17.94999999999834,
+            170.27500000000413
+          ]
+        }
+      },
+      {
+        "node_id": "1094886893-M4:1/0129327026-M2:11",
+        "file_name": "C:\\Users\\hrish\\Downloads\\Assemblies for Training ML model\\Assembly 10\\Workspaces\\1094886893-M1\\0129327026-M2.ipt",
+        "component_type": "kPartDocumentObject",
+        "grounded": false,
+        "suppressed": false,
+        "visible": true,
+        "adaptive": false,
+        "flexible": false,
+        "dof_translation": 0,
+        "dof_rotation": 0,
+        "fully_constrained": true,
+        "transform": {
+          "rotation_matrix": [
+            [
+              0.64456322342152106,
+              0.76455101269467707,
+              -2.1708970345841179E-14
+            ],
+            [
+              0.7645510126946784,
+              -0.64456322342152228,
+              -9.50199101970843E-15
+            ],
+            [
+              -2.1257560760011511E-14,
+              -1.0472981301886068E-14,
+              -1.0000000000000022
+            ]
+          ],
+          "translation_cm": [
+            6.3999999999989114,
+            -88.949999999998,
+            199.00000000000568
+          ]
+        }
+      },
+      {
+        "node_id": "1094886893-M4:1/0129327026-M2:12",
+        "file_name": "C:\\Users\\hrish\\Downloads\\Assemblies for Training ML model\\Assembly 10\\Workspaces\\1094886893-M1\\0129327026-M2.ipt",
+        "component_type": "kPartDocumentObject",
+        "grounded": false,
+        "suppressed": false,
+        "visible": true,
+        "adaptive": false,
+        "flexible": false,
+        "dof_translation": 0,
+        "dof_rotation": 0,
+        "fully_constrained": true,
+        "transform": {
+          "rotation_matrix": [
+            [
+              0.39904323417807952,
+              0.91693211158553012,
+              9.0982819394681268E-15
+            ],
+            [
+              0.91693211158552479,
+              -0.399043234178084,
+              -9.6338290267365558E-15
+            ],
+            [
+              -5.0650794988479522E-15,
+              1.1929578223245607E-14,
+              -1.0000000000000016
+            ]
+          ],
+          "translation_cm": [
+            5.75000000000046,
+            -88.949999999997942,
+            170.25000000000568
+          ]
+        }
+      },
+      {
+        "node_id": "1094886893-M4:1/0129327026-M2:13",
+        "file_name": "C:\\Users\\hrish\\Downloads\\Assemblies for Training ML model\\Assembly 10\\Workspaces\\1094886893-M1\\0129327026-M2.ipt",
+        "component_type": "kPartDocumentObject",
+        "grounded": false,
+        "suppressed": false,
+        "visible": true,
+        "adaptive": false,
+        "flexible": false,
+        "dof_translation": 0,
+        "dof_rotation": 0,
+        "fully_constrained": true,
+        "transform": {
+          "rotation_matrix": [
+            [
+              1.6628755675495766E-14,
+              -1.8834168811028043E-14,
+              -0.99999999999999978
+            ],
+            [
+              -0.66140169675687033,
+              0.75003186300792279,
+              -2.5124513940266331E-14
+            ],
+            [
+              0.75003186300792291,
+              0.66140169675687066,
+              1.514539017644411E-17
+            ]
+          ],
+          "translation_cm": [
+            32.75000000000022,
+            -88.949999999998255,
+            183.98838834765391
+          ]
+        }
+      },
+      {
+        "node_id": "1094886893-M4:1/0129327026-M2:14",
+        "file_name": "C:\\Users\\hrish\\Downloads\\Assemblies for Training ML model\\Assembly 10\\Workspaces\\1094886893-M1\\0129327026-M2.ipt",
+        "component_type": "kPartDocumentObject",
+        "grounded": false,
+        "suppressed": false,
+        "visible": true,
+        "adaptive": false,
+        "flexible": false,
+        "dof_translation": 0,
+        "dof_rotation": 0,
+        "fully_constrained": true,
+        "transform": {
+          "rotation_matrix": [
+            [
+              0.64456322342152106,
+              0.76455101269467707,
+              -2.3989907963030205E-14
+            ],
+            [
+              0.7645510126946784,
+              -0.64456322342152228,
+              -9.501991019708311E-15
+            ],
+            [
+              -2.2727769262970281E-14,
+              -1.2216874467001324E-14,
+              -1.0000000000000022
+            ]
+          ],
+          "translation_cm": [
+            17.899999999999128,
+            -88.94999999999763,
+            198.875000000005
+          ]
+        }
+      },
+      {
+        "node_id": "1094886893-M4:1/0129327026-M2:15",
+        "file_name": "C:\\Users\\hrish\\Downloads\\Assemblies for Training ML model\\Assembly 10\\Workspaces\\1094886893-M1\\0129327026-M2.ipt",
+        "component_type": "kPartDocumentObject",
+        "grounded": false,
+        "suppressed": false,
+        "visible": true,
+        "adaptive": false,
+        "flexible": false,
+        "dof_translation": 0,
+        "dof_rotation": 0,
+        "fully_constrained": true,
+        "transform": {
+          "rotation_matrix": [
+            [
+              0.64456322342152106,
+              0.76455101269467707,
+              5.4144360188186938E-15
+            ],
+            [
+              0.7645510126946784,
+              -0.64456322342152228,
+              -9.5019910197082116E-15
+            ],
+            [
+              -3.7748105234343409E-15,
+              1.0264246501943776E-14,
+              -1.0000000000000022
+            ]
+          ],
+          "translation_cm": [
+            31.750000000000817,
+            -88.949999999998454,
+            170.27500000000481
+          ]
+        }
+      },
+      {
+        "node_id": "0298100025-M1:1",
+        "file_name": "C:\\Users\\hrish\\Downloads\\Assemblies for Training ML model\\Assembly 10\\Workspaces\\1094886893-M1\\0298100025-M1.ipt",
+        "component_type": "kPartDocumentObject",
+        "grounded": false,
+        "suppressed": false,
+        "visible": true,
+        "adaptive": false,
+        "flexible": false,
+        "dof_translation": 3,
+        "dof_rotation": 3,
+        "fully_constrained": false,
+        "transform": {
+          "rotation_matrix": [
+            [
+              8.311791072286837E-13,
+              -0.99999999999999856,
+              1.7045576488949696E-13
+            ],
+            [
+              -0.99999999999999933,
+              -8.3117910722865553E-13,
+              -1.2767564783180211E-15
+            ],
+            [
+              1.2767564784598417E-15,
+              -1.7045576488949547E-13,
+              -1.0000000000000038
+            ]
+          ],
+          "translation_cm": [
+            30.619999999994938,
+            -17.599999999999131,
+            50.080000000009058
+          ]
+        }
+      },
+      {
+        "node_id": "0298100025-M1:2",
+        "file_name": "C:\\Users\\hrish\\Downloads\\Assemblies for Training ML model\\Assembly 10\\Workspaces\\1094886893-M1\\0298100025-M1.ipt",
+        "component_type": "kPartDocumentObject",
+        "grounded": false,
+        "suppressed": false,
+        "visible": true,
+        "adaptive": false,
+        "flexible": false,
+        "dof_translation": 0,
+        "dof_rotation": 0,
+        "fully_constrained": true,
+        "transform": {
+          "rotation_matrix": [
+            [
+              8.311791072286837E-13,
+              -0.99999999999999856,
+              1.7045576488949696E-13
+            ],
+            [
+              -0.99999999999999933,
+              -8.3117910722865553E-13,
+              -1.2767564783180211E-15
+            ],
+            [
+              1.2767564784598417E-15,
+              -1.7045576488949547E-13,
+              -1.0000000000000038
+            ]
+          ],
+          "translation_cm": [
+            30.619999999995215,
+            -49.599999999999127,
+            50.080000000009107
+          ]
+        }
+      },
+      {
+        "node_id": "0298100025-M1:3",
+        "file_name": "C:\\Users\\hrish\\Downloads\\Assemblies for Training ML model\\Assembly 10\\Workspaces\\1094886893-M1\\0298100025-M1.ipt",
+        "component_type": "kPartDocumentObject",
+        "grounded": false,
+        "suppressed": false,
+        "visible": true,
+        "adaptive": false,
+        "flexible": false,
+        "dof_translation": 0,
+        "dof_rotation": 0,
+        "fully_constrained": true,
+        "transform": {
+          "rotation_matrix": [
+            [
+              8.311791072286837E-13,
+              -0.99999999999999856,
+              1.7045576488949696E-13
+            ],
+            [
+              -0.99999999999999933,
+              -8.3117910722865553E-13,
+              -1.2767564783180211E-15
+            ],
+            [
+              1.2767564784598417E-15,
+              -1.7045576488949547E-13,
+              -1.0000000000000038
+            ]
+          ],
+          "translation_cm": [
+            13.619999999994938,
+            -17.599999999999252,
+            50.080000000007573
+          ]
+        }
+      },
+      {
+        "node_id": "0298100025-M1:4",
+        "file_name": "C:\\Users\\hrish\\Downloads\\Assemblies for Training ML model\\Assembly 10\\Workspaces\\1094886893-M1\\0298100025-M1.ipt",
+        "component_type": "kPartDocumentObject",
+        "grounded": false,
+        "suppressed": false,
+        "visible": true,
+        "adaptive": false,
+        "flexible": false,
+        "dof_translation": 0,
+        "dof_rotation": 0,
+        "fully_constrained": true,
+        "transform": {
+          "rotation_matrix": [
+            [
+              8.311791072286837E-13,
+              -0.99999999999999856,
+              1.7045576488949696E-13
+            ],
+            [
+              -0.99999999999999933,
+              -8.3117910722865553E-13,
+              -1.2767564783180211E-15
+            ],
+            [
+              1.2767564784598417E-15,
+              -1.7045576488949547E-13,
+              -1.0000000000000038
+            ]
+          ],
+          "translation_cm": [
+            13.619999999995215,
+            -49.599999999999255,
+            50.080000000007608
+          ]
+        }
+      },
+      {
+        "node_id": "0298100025-M1:5",
+        "file_name": "C:\\Users\\hrish\\Downloads\\Assemblies for Training ML model\\Assembly 10\\Workspaces\\1094886893-M1\\0298100025-M1.ipt",
+        "component_type": "kPartDocumentObject",
+        "grounded": false,
+        "suppressed": false,
+        "visible": true,
+        "adaptive": false,
+        "flexible": false,
+        "dof_translation": 0,
+        "dof_rotation": 0,
+        "fully_constrained": true,
+        "transform": {
+          "rotation_matrix": [
+            [
+              8.311791072286837E-13,
+              -0.99999999999999856,
+              1.7045576488949698E-13
+            ],
+            [
+              -0.99999999999999933,
+              -8.3117910722865563E-13,
+              -1.2767564783180213E-15
+            ],
+            [
+              1.2767564784598419E-15,
+              -1.7045576488949549E-13,
+              -1.0000000000000038
+            ]
+          ],
+          "translation_cm": [
+            30.619999999995283,
+            -57.599999999999127,
+            50.080000000009107
+          ]
+        }
+      },
+      {
+        "node_id": "0298100025-M1:6",
+        "file_name": "C:\\Users\\hrish\\Downloads\\Assemblies for Training ML model\\Assembly 10\\Workspaces\\1094886893-M1\\0298100025-M1.ipt",
+        "component_type": "kPartDocumentObject",
+        "grounded": false,
+        "suppressed": false,
+        "visible": true,
+        "adaptive": false,
+        "flexible": false,
+        "dof_translation": 0,
+        "dof_rotation": 0,
+        "fully_constrained": true,
+        "transform": {
+          "rotation_matrix": [
+            [
+              8.311791072286837E-13,
+              -0.99999999999999856,
+              1.7045576488949698E-13
+            ],
+            [
+              -0.99999999999999933,
+              -8.3117910722865563E-13,
+              -1.2767564783180213E-15
+            ],
+            [
+              1.2767564784598419E-15,
+              -1.7045576488949549E-13,
+              -1.0000000000000038
+            ]
+          ],
+          "translation_cm": [
+            30.619999999995564,
+            -89.599999999999113,
+            50.080000000009157
+          ]
+        }
+      },
+      {
+        "node_id": "0298100025-M1:7",
+        "file_name": "C:\\Users\\hrish\\Downloads\\Assemblies for Training ML model\\Assembly 10\\Workspaces\\1094886893-M1\\0298100025-M1.ipt",
+        "component_type": "kPartDocumentObject",
+        "grounded": false,
+        "suppressed": false,
+        "visible": true,
+        "adaptive": false,
+        "flexible": false,
+        "dof_translation": 0,
+        "dof_rotation": 0,
+        "fully_constrained": true,
+        "transform": {
+          "rotation_matrix": [
+            [
+              8.311791072286837E-13,
+              -0.99999999999999856,
+              1.7045576488949698E-13
+            ],
+            [
+              -0.99999999999999933,
+              -8.3117910722865563E-13,
+              -1.2767564783180213E-15
+            ],
+            [
+              1.2767564784598419E-15,
+              -1.7045576488949549E-13,
+              -1.0000000000000038
+            ]
+          ],
+          "translation_cm": [
+            13.619999999995283,
+            -57.599999999999255,
+            50.080000000007622
+          ]
+        }
+      },
+      {
+        "node_id": "0298100025-M1:8",
+        "file_name": "C:\\Users\\hrish\\Downloads\\Assemblies for Training ML model\\Assembly 10\\Workspaces\\1094886893-M1\\0298100025-M1.ipt",
+        "component_type": "kPartDocumentObject",
+        "grounded": false,
+        "suppressed": false,
+        "visible": true,
+        "adaptive": false,
+        "flexible": false,
+        "dof_translation": 0,
+        "dof_rotation": 0,
+        "fully_constrained": true,
+        "transform": {
+          "rotation_matrix": [
+            [
+              8.311791072286837E-13,
+              -0.99999999999999856,
+              1.7045576488949698E-13
+            ],
+            [
+              -0.99999999999999933,
+              -8.3117910722865563E-13,
+              -1.2767564783180213E-15
+            ],
+            [
+              1.2767564784598419E-15,
+              -1.7045576488949549E-13,
+              -1.0000000000000038
+            ]
+          ],
+          "translation_cm": [
+            13.619999999995564,
+            -89.599999999999255,
+            50.080000000007658
+          ]
+        }
+      },
+      {
+        "node_id": "1094886893-M5:1",
+        "file_name": "C:\\Users\\hrish\\Downloads\\Assemblies for Training ML model\\Assembly 10\\Workspaces\\1094886893-M1\\1094886893-M5.ipt",
+        "component_type": "kPartDocumentObject",
+        "grounded": false,
+        "suppressed": false,
+        "visible": true,
+        "adaptive": false,
+        "flexible": false,
+        "dof_translation": 0,
+        "dof_rotation": 0,
+        "fully_constrained": true,
+        "transform": {
+          "rotation_matrix": [
+            [
+              -1.7045576488950079E-13,
+              0.99999999999999922,
+              -8.215650382228577E-15
+            ],
+            [
+              1.2767564783181248E-15,
+              8.215650382222405E-15,
+              0.99999999999999922
+            ],
+            [
+              1.0,
+              1.7045576488950054E-13,
+              -1.276756478319582E-15
+            ]
+          ],
+          "translation_cm": [
+            12.619999999995674,
+            -16.599999999999284,
+            49.800000000005987
+          ]
+        }
+      },
+      {
+        "node_id": "1094886893-M5:2",
+        "file_name": "C:\\Users\\hrish\\Downloads\\Assemblies for Training ML model\\Assembly 10\\Workspaces\\1094886893-M1\\1094886893-M5.ipt",
+        "component_type": "kPartDocumentObject",
+        "grounded": false,
+        "suppressed": false,
+        "visible": true,
+        "adaptive": false,
+        "flexible": false,
+        "dof_translation": 0,
+        "dof_rotation": 0,
+        "fully_constrained": true,
+        "transform": {
+          "rotation_matrix": [
+            [
+              -1.7045576488950112E-13,
+              0.99999999999999967,
+              -7.1609385088347525E-15
+            ],
+            [
+              1.2767564783183449E-15,
+              7.1609385088286309E-15,
+              0.99999999999999967
+            ],
+            [
+              1.0,
+              1.704557648895013E-13,
+              -1.2767564783194061E-15
+            ]
+          ],
+          "translation_cm": [
+            12.619999999996045,
+            -56.599999999999184,
+            49.800000000007429
+          ]
+        }
+      }
+    ],
+    "constraint_edges": [
+      {
+        "constraint_name": "Mate:1",
+        "constraint_type": "kMateConstraint",
+        "suppressed": false,
+        "health_status": "kUpToDateHealth",
+        "node_one_id": "1094886893-M4:1",
+        "node_two_id": "1094886893-M2:1",
+        "offset_cm": 0.0,
+        "solution": "kNoSolutionType",
+        "entity_one": {
+          "entity_type": "67119520",
+          "proxy_context_occurrence": "1094886893-P2:1",
+          "owner_document": "C:\\Users\\hrish\\Downloads\\Assemblies for Training ML model\\Assembly 10\\Workspaces\\1094886893-M1\\1094886893-P2.ipt",
+          "reference_key_string": "AQQQAIgAAAAAAAAAAgAAAAEAAAADAAAABwAAAAYAAAAKAAAABgAAAAwAAAAGAAAADQAAAAYAAAATAAAABgAAABYAAAAGAAAAGAAAAAYAAAAZAAAABgAAABwAAAAGAAAAHwAAAAYAAAAmAAAABgAAACoAAAAGAAAALQAAAAYAAAAvAAAABgAAADAAAAAGAAAA",
+          "context_key_string": "nsIrpNQR6AFgAC2z7in7sAQAAB5AAADIMgIotS/9IIFFAwBkBQABAADtN0PA0xEdDmAAALgylIewAAABAQAAsS28CdARH+wACNywOz6oCQIBAACyBAAAAFQAZQBzAHQAjnxzdJVOpKeu7Wa+Wm2LJQD/////AAAAAAAABgBICM1Q4SAAYOo/XxjmxA==",
+          "surface_type": "kPlaneSurface",
+          "area_cm2": 72.949629591505328,
+          "face_normal_at_center": [
+            8.2252345413875777E-15,
+            -1.0,
+            -2.1963149019320598E-14
+          ],
+          "face_point_at_center": [
+            -35.3624999999997,
+            -14.499999999999664,
+            14.387499999999969
+          ],
+          "face_bbox_min": [
+            -36.724999999999994,
+            -14.500000000000451,
+            0.27499999999993818
+          ],
+          "face_bbox_max": [
+            -33.9999999999994,
+            -14.499999999998819,
+            28.5
+          ],
+          "loops": [
+            {
+              "is_outer": false,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAAAcAAAAGAAAA",
+                "AQQBABAAAAAAAAAAAgAAAAoAAAAGAAAA",
+                "AQQBABAAAAAAAAAAAgAAAAwAAAAGAAAA",
+                "AQQBABAAAAAAAAAAAgAAAA0AAAAGAAAA"
+              ]
+            },
+            {
+              "is_outer": false,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAABMAAAAGAAAA",
+                "AQQBABAAAAAAAAAAAgAAABYAAAAGAAAA",
+                "AQQBABAAAAAAAAAAAgAAABgAAAAGAAAA",
+                "AQQBABAAAAAAAAAAAgAAABkAAAAGAAAA"
+              ]
+            },
+            {
+              "is_outer": false,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAABwAAAAGAAAA"
+              ]
+            },
+            {
+              "is_outer": false,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAAB8AAAAGAAAA"
+              ]
+            },
+            {
+              "is_outer": true,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAACYAAAAGAAAA",
+                "AQQBABAAAAAAAAAAAgAAACoAAAAGAAAA",
+                "AQQBABAAAAAAAAAAAgAAAC0AAAAGAAAA",
+                "AQQBABAAAAAAAAAAAgAAAC8AAAAGAAAA",
+                "AQQBABAAAAAAAAAAAgAAADAAAAAGAAAA"
+              ]
+            }
+          ]
+        },
+        "entity_two": {
+          "entity_type": "67119520",
+          "proxy_context_occurrence": "1094886893-M2:1",
+          "owner_document": "C:\\Users\\hrish\\Downloads\\Assemblies for Training ML model\\Assembly 10\\Workspaces\\1094886893-M1\\1094886893-M2.ipt",
+          "reference_key_string": "AQQUAKgAAAAAAAAAAgAAAAEAAAADAAAABAAAAAYAAAAHAAAABgAAAAoAAAAGAAAADQAAAAYAAAAQAAAABgAAABMAAAAGAAAAFgAAAAYAAAAcAAAABgAAAB8AAAAGAAAAIgAAAAYAAAAlAAAABgAAACgAAAAGAAAAKwAAAAYAAAAtAAAABgAAAC4AAAAGAAAANAAAAAYAAAA3AAAABgAAADkAAAAGAAAAOgAAAAYAAAA=",
+          "context_key_string": "nsIrpNQR6AFgAC2z7in7sAQAAB5AAADIMgIotS/9IIFFAwBkBQABAADtN0PA0xEdDmAAALgylIewAAABAQAAsS28CdARH+wACNywOz6oCQIBAACyBAAAAFQAZQBzAHQAd6KALX5MBC893siZ81XkggD/////AAAAAAAABgBICM1Q4SAAYOo/XxjmxA==",
+          "surface_type": "kPlaneSurface",
+          "area_cm2": 2569.8367303987807,
+          "face_normal_at_center": [
+            0.0,
+            1.0,
+            0.0
+          ],
+          "face_point_at_center": [
+            -7.1054273576010019E-15,
+            120.0,
+            18.759999999999998
+          ],
+          "face_bbox_min": [
+            -40.000000000000007,
+            120.0,
+            0.0
+          ],
+          "face_bbox_max": [
+            39.999999999999993,
+            120.0,
+            37.519999999999996
+          ],
+          "loops": [
+            {
+              "is_outer": false,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAAAQAAAAGAAAA"
+              ]
+            },
+            {
+              "is_outer": false,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAAAcAAAAGAAAA"
+              ]
+            },
+            {
+              "is_outer": false,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAAAoAAAAGAAAA"
+              ]
+            },
+            {
+              "is_outer": false,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAAA0AAAAGAAAA"
+              ]
+            },
+            {
+              "is_outer": false,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAABAAAAAGAAAA"
+              ]
+            },
+            {
+              "is_outer": false,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAABMAAAAGAAAA"
+              ]
+            },
+            {
+              "is_outer": false,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAABYAAAAGAAAA"
+              ]
+            },
+            {
+              "is_outer": false,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAABwAAAAGAAAA",
+                "AQQBABAAAAAAAAAAAgAAAB8AAAAGAAAA",
+                "AQQBABAAAAAAAAAAAgAAACIAAAAGAAAA",
+                "AQQBABAAAAAAAAAAAgAAACUAAAAGAAAA",
+                "AQQBABAAAAAAAAAAAgAAACgAAAAGAAAA",
+                "AQQBABAAAAAAAAAAAgAAACsAAAAGAAAA",
+                "AQQBABAAAAAAAAAAAgAAAC0AAAAGAAAA",
+                "AQQBABAAAAAAAAAAAgAAAC4AAAAGAAAA"
+              ]
+            },
+            {
+              "is_outer": true,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAADQAAAAGAAAA",
+                "AQQBABAAAAAAAAAAAgAAADcAAAAGAAAA",
+                "AQQBABAAAAAAAAAAAgAAADkAAAAGAAAA",
+                "AQQBABAAAAAAAAAAAgAAADoAAAAGAAAA"
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "constraint_name": "Mate:2",
+        "constraint_type": "kMateConstraint",
+        "suppressed": false,
+        "health_status": "kUpToDateHealth",
+        "node_one_id": "1094886893-M3:1",
+        "node_two_id": "1094886893-M4:1",
+        "offset_cm": 0.0,
+        "solution": "kNoSolutionType",
+        "entity_one": {
+          "entity_type": "67119520",
+          "proxy_context_occurrence": "1094886893-P1:1",
+          "owner_document": "C:\\Users\\hrish\\Downloads\\Assemblies for Training ML model\\Assembly 10\\Workspaces\\1094886893-M1\\1094886893-P1.ipt",
+          "reference_key_string": "AQQTAKAAAAAAAAAAAgAAAAEAAAADAAAABwAAAAYAAAAKAAAABgAAAAwAAAAGAAAADQAAAAYAAAATAAAABgAAABYAAAAGAAAAGAAAAAYAAAAZAAAABgAAAB8AAAAGAAAAIgAAAAYAAAAkAAAABgAAACUAAAAGAAAAKwAAAAYAAAAuAAAABgAAADEAAAAGAAAANQAAAAYAAAA4AAAABgAAADkAAAAGAAAA",
+          "context_key_string": "nsIrpNQR6AFgAC2z7in7sAQAAB5AAADIMgIotS/9IIFFAwBkBQABAADtN0PA0xEdDmAAALgylIewAAABAQAAsS28CdARH+wACNywOz6oCQIBAACyBAAAAFQAZQBzAHQALi5I+xJIojkpXW2l9B2ojwD/////AAAAAAAABgBICM1Q4SAAYOo/XxjmxA==",
+          "surface_type": "kPlaneSurface",
+          "area_cm2": 1064.0915216451128,
+          "face_normal_at_center": [
+            -5.1033777893529393E-15,
+            -1.0,
+            1.53120646933068E-18
+          ],
+          "face_point_at_center": [
+            -21.281066017177956,
+            29.000000000000078,
+            37.0
+          ],
+          "face_bbox_min": [
+            -28.499999999999975,
+            28.999999999999986,
+            -5.5511151231257827E-17
+          ],
+          "face_bbox_max": [
+            -14.062132034355937,
+            29.000000000000121,
+            74.000000000000014
+          ],
+          "loops": [
+            {
+              "is_outer": false,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAAAcAAAAGAAAA",
+                "AQQBABAAAAAAAAAAAgAAAAoAAAAGAAAA",
+                "AQQBABAAAAAAAAAAAgAAAAwAAAAGAAAA",
+                "AQQBABAAAAAAAAAAAgAAAA0AAAAGAAAA"
+              ]
+            },
+            {
+              "is_outer": false,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAABMAAAAGAAAA",
+                "AQQBABAAAAAAAAAAAgAAABYAAAAGAAAA",
+                "AQQBABAAAAAAAAAAAgAAABgAAAAGAAAA",
+                "AQQBABAAAAAAAAAAAgAAABkAAAAGAAAA"
+              ]
+            },
+            {
+              "is_outer": false,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAAB8AAAAGAAAA",
+                "AQQBABAAAAAAAAAAAgAAACIAAAAGAAAA",
+                "AQQBABAAAAAAAAAAAgAAACQAAAAGAAAA",
+                "AQQBABAAAAAAAAAAAgAAACUAAAAGAAAA"
+              ]
+            },
+            {
+              "is_outer": true,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAACsAAAAGAAAA",
+                "AQQBABAAAAAAAAAAAgAAAC4AAAAGAAAA",
+                "AQQBABAAAAAAAAAAAgAAADEAAAAGAAAA",
+                "AQQBABAAAAAAAAAAAgAAADUAAAAGAAAA",
+                "AQQBABAAAAAAAAAAAgAAADgAAAAGAAAA",
+                "AQQBABAAAAAAAAAAAgAAADkAAAAGAAAA"
+              ]
+            }
+          ]
+        },
+        "entity_two": {
+          "entity_type": "67119520",
+          "proxy_context_occurrence": "1094886893-P2:1",
+          "owner_document": "C:\\Users\\hrish\\Downloads\\Assemblies for Training ML model\\Assembly 10\\Workspaces\\1094886893-M1\\1094886893-P2.ipt",
+          "reference_key_string": "AQQKAFgAAAAAAAAAAgAAADEAAAADAAAANAAAAAYAAAA3AAAABgAAADoAAAAGAAAAPQAAAAYAAABAAAAABgAAAEgAAAAGAAAASwAAAAYAAABNAAAABgAAAE4AAAAGAAAA",
+          "context_key_string": "nsIrpNQR6AFgAC2z7in7sAQAAB5AAADIMgIotS/9IIFFAwBkBQABAADtN0PA0xEdDmAAALgylIewAAABAQAAsS28CdARH+wACNywOz6oCQIBAACyBAAAAFQAZQBzAHQAjnxzdJVOpKeu7Wa+Wm2LJQD/////AAAAAAAABgBICM1Q4SAAYOo/XxjmxA==",
+          "surface_type": "kPlaneSurface",
+          "area_cm2": 307.57735642810906,
+          "face_normal_at_center": [
+            1.7763775099749149E-19,
+            1.0,
+            8.89497016412724E-15
+          ],
+          "face_point_at_center": [
+            -1.5043521983670871E-13,
+            14.499999999999988,
+            2.3875000000000028
+          ],
+          "face_bbox_min": [
+            -36.7250000000003,
+            14.499999999999726,
+            0.27500000000000213
+          ],
+          "face_bbox_max": [
+            36.725,
+            14.500000000000256,
+            4.5000000000000036
+          ],
+          "loops": [
+            {
+              "is_outer": false,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAADQAAAAGAAAA"
+              ]
+            },
+            {
+              "is_outer": false,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAADcAAAAGAAAA"
+              ]
+            },
+            {
+              "is_outer": false,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAADoAAAAGAAAA"
+              ]
+            },
+            {
+              "is_outer": false,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAAD0AAAAGAAAA"
+              ]
+            },
+            {
+              "is_outer": false,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAAEAAAAAGAAAA"
+              ]
+            },
+            {
+              "is_outer": true,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAAEgAAAAGAAAA",
+                "AQQBABAAAAAAAAAAAgAAAEsAAAAGAAAA",
+                "AQQBABAAAAAAAAAAAgAAAE0AAAAGAAAA",
+                "AQQBABAAAAAAAAAAAgAAAE4AAAAGAAAA"
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "constraint_name": "Mate:3",
+        "constraint_type": "kMateConstraint",
+        "suppressed": false,
+        "health_status": "kUpToDateHealth",
+        "node_one_id": "1094886893-M3:1",
+        "node_two_id": "1094886893-M4:1",
+        "offset_cm": 0.0,
+        "solution": "kNoSolutionType",
+        "entity_one": {
+          "entity_type": "67119520",
+          "proxy_context_occurrence": "1094886893-P1:1",
+          "owner_document": "C:\\Users\\hrish\\Downloads\\Assemblies for Training ML model\\Assembly 10\\Workspaces\\1094886893-M1\\1094886893-P1.ipt",
+          "reference_key_string": "AQQZANAAAAAAAAAAAgAAADoAAAADAAAAQAAAAAYAAABDAAAABgAAAEUAAAAGAAAARgAAAAYAAABMAAAABgAAAE8AAAAGAAAAUQAAAAYAAABSAAAABgAAAFgAAAAGAAAAWwAAAAYAAABdAAAABgAAAF4AAAAGAAAAZAAAAAYAAABnAAAABgAAAGkAAAAGAAAAagAAAAYAAABwAAAABgAAAHQAAAAGAAAAeAAAAAYAAAB7AAAABgAAAH0AAAAGAAAAgAAAAAYAAACDAAAABgAAAIYAAAAGAAAA",
+          "context_key_string": "nsIrpNQR6AFgAC2z7in7sAQAAB5AAADIMgIotS/9IIFFAwBkBQABAADtN0PA0xEdDmAAALgylIewAAABAQAAsS28CdARH+wACNywOz6oCQIBAACyBAAAAFQAZQBzAHQALi5I+xJIojkpXW2l9B2ojwD/////AAAAAAAABgBICM1Q4SAAYOo/XxjmxA==",
+          "surface_type": "kPlaneSurface",
+          "area_cm2": 1079.5967484817149,
+          "face_normal_at_center": [
+            -1.0,
+            -1.854358614508475E-16,
+            1.53120646933068E-18
+          ],
+          "face_point_at_center": [
+            -1.5184135371012867E-16,
+            7.4689339828220156,
+            37.0
+          ],
+          "face_bbox_min": [
+            -9.1384444910353817E-15,
+            -4.4408920985006262E-16,
+            -5.7176485768195562E-15
+          ],
+          "face_bbox_max": [
+            1.7441746798553435E-15,
+            14.937867965644035,
+            74.0
+          ],
+          "loops": [
+            {
+              "is_outer": false,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAAEAAAAAGAAAA",
+                "AQQBABAAAAAAAAAAAgAAAEMAAAAGAAAA",
+                "AQQBABAAAAAAAAAAAgAAAEUAAAAGAAAA",
+                "AQQBABAAAAAAAAAAAgAAAEYAAAAGAAAA"
+              ]
+            },
+            {
+              "is_outer": false,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAAEwAAAAGAAAA",
+                "AQQBABAAAAAAAAAAAgAAAE8AAAAGAAAA",
+                "AQQBABAAAAAAAAAAAgAAAFEAAAAGAAAA",
+                "AQQBABAAAAAAAAAAAgAAAFIAAAAGAAAA"
+              ]
+            },
+            {
+              "is_outer": false,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAAFgAAAAGAAAA",
+                "AQQBABAAAAAAAAAAAgAAAFsAAAAGAAAA",
+                "AQQBABAAAAAAAAAAAgAAAF0AAAAGAAAA",
+                "AQQBABAAAAAAAAAAAgAAAF4AAAAGAAAA"
+              ]
+            },
+            {
+              "is_outer": false,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAAGQAAAAGAAAA",
+                "AQQBABAAAAAAAAAAAgAAAGcAAAAGAAAA",
+                "AQQBABAAAAAAAAAAAgAAAGkAAAAGAAAA",
+                "AQQBABAAAAAAAAAAAgAAAGoAAAAGAAAA"
+              ]
+            },
+            {
+              "is_outer": true,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAAHAAAAAGAAAA",
+                "AQQBABAAAAAAAAAAAgAAAHQAAAAGAAAA",
+                "AQQBABAAAAAAAAAAAgAAAHgAAAAGAAAA",
+                "AQQBABAAAAAAAAAAAgAAAHsAAAAGAAAA",
+                "AQQBABAAAAAAAAAAAgAAAH0AAAAGAAAA",
+                "AQQBABAAAAAAAAAAAgAAAIAAAAAGAAAA",
+                "AQQBABAAAAAAAAAAAgAAAIMAAAAGAAAA",
+                "AQQBABAAAAAAAAAAAgAAAIYAAAAGAAAA",
+                "AQQBABAAAAAAAAAAAgAAAIoAAAAGAAAA",
+                "AQQBABAAAAAAAAAAAgAAAI4AAAAGAAAA",
+                "AQQBABAAAAAAAAAAAgAAAJEAAAAGAAAA",
+                "AQQBABAAAAAAAAAAAgAAAJQAAAAGAAAA",
+                "AQQBABAAAAAAAAAAAgAAAJYAAAAGAAAA",
+                "AQQBABAAAAAAAAAAAgAAAJcAAAAGAAAA"
+              ]
+            }
+          ]
+        },
+        "entity_two": {
+          "entity_type": "67119520",
+          "proxy_context_occurrence": "1094886893-P2:1",
+          "owner_document": "C:\\Users\\hrish\\Downloads\\Assemblies for Training ML model\\Assembly 10\\Workspaces\\1094886893-M1\\1094886893-P2.ipt",
+          "reference_key_string": "AQQIAEgAAAAAAAAAAgAAAE8AAAADAAAAUgAAAAYAAABVAAAABgAAAFgAAAAGAAAAYQAAAAYAAABkAAAABgAAAGcAAAAGAAAAaAAAAAYAAAA=",
+          "context_key_string": "nsIrpNQR6AFgAC2z7in7sAQAAB5AAADIMgIotS/9IIFFAwBkBQABAADtN0PA0xEdDmAAALgylIewAAABAQAAsS28CdARH+wACNywOz6oCQIBAACyBAAAAFQAZQBzAHQAjnxzdJVOpKeu7Wa+Wm2LJQD/////AAAAAAAABgBICM1Q4SAAYOo/XxjmxA==",
+          "surface_type": "kPlaneSurface",
+          "area_cm2": 37.472854132355664,
+          "face_normal_at_center": [
+            -9.9389084055903077E-15,
+            1.9324603422928641E-17,
+            1.0
+          ],
+          "face_point_at_center": [
+            -35.362499999999343,
+            -6.8749999999999867,
+            28.500000000000011
+          ],
+          "face_bbox_min": [
+            -36.724999999999348,
+            -14.07499999999999,
+            28.499999999999996
+          ],
+          "face_bbox_max": [
+            -33.999999999999346,
+            0.32500000000001705,
+            28.500000000000032
+          ],
+          "loops": [
+            {
+              "is_outer": false,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAAFIAAAAGAAAA"
+              ]
+            },
+            {
+              "is_outer": false,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAAFUAAAAGAAAA"
+              ]
+            },
+            {
+              "is_outer": false,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAAFgAAAAGAAAA"
+              ]
+            },
+            {
+              "is_outer": true,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAAGEAAAAGAAAA",
+                "AQQBABAAAAAAAAAAAgAAAGQAAAAGAAAA",
+                "AQQBABAAAAAAAAAAAgAAAGcAAAAGAAAA",
+                "AQQBABAAAAAAAAAAAgAAAGgAAAAGAAAA"
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "constraint_name": "Mate:4",
+        "constraint_type": "kMateConstraint",
+        "suppressed": false,
+        "health_status": "kUpToDateHealth",
+        "node_one_id": "1094886893-M4:1",
+        "node_two_id": "1094886893-M3:1",
+        "offset_cm": 0.5,
+        "solution": "kNoSolutionType",
+        "entity_one": {
+          "entity_type": "67119520",
+          "proxy_context_occurrence": "1094886893-P2:1",
+          "owner_document": "C:\\Users\\hrish\\Downloads\\Assemblies for Training ML model\\Assembly 10\\Workspaces\\1094886893-M1\\1094886893-P2.ipt",
+          "reference_key_string": "AQQDACAAAAAAAAAAAgAAAGoAAAADAAAAbAAAAAYAAAA6AAAABgAAAA==",
+          "context_key_string": "nsIrpNQR6AFgAC2z7in7sAQAAB5AAADIMgIotS/9IIFFAwBkBQABAADtN0PA0xEdDmAAALgylIewAAABAQAAsS28CdARH+wACNywOz6oCQIBAACyBAAAAFQAZQBzAHQAjnxzdJVOpKeu7Wa+Wm2LJQD/////AAAAAAAABgBICM1Q4SAAYOo/XxjmxA==",
+          "surface_type": "kCylinderSurface",
+          "area_cm2": 0.39269908169872414,
+          "face_normal_at_center": [
+            -1.0,
+            6.3128914791943709E-51,
+            -7.0939625307874952E-37
+          ],
+          "face_point_at_center": [
+            30.499999999999993,
+            14.437499999999989,
+            2.1500000000000021
+          ],
+          "face_bbox_min": [
+            29.499999999999993,
+            14.374999999999984,
+            1.6500000000000012
+          ],
+          "face_bbox_max": [
+            30.499999999999993,
+            14.499999999999995,
+            2.6500000000000026
+          ],
+          "radius_cm": 0.5,
+          "axis": [
+            0.0,
+            -1.0,
+            -8.8989636635331682E-15
+          ],
+          "loops": [
+            {
+              "is_outer": true,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAAGwAAAAGAAAA"
+              ]
+            },
+            {
+              "is_outer": true,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAADoAAAAGAAAA"
+              ]
+            }
+          ]
+        },
+        "entity_two": {
+          "entity_type": "67119520",
+          "proxy_context_occurrence": "1094886893-P1:1",
+          "owner_document": "C:\\Users\\hrish\\Downloads\\Assemblies for Training ML model\\Assembly 10\\Workspaces\\1094886893-M1\\1094886893-P1.ipt",
+          "reference_key_string": "AQQFADAAAAAAAAAAAgAAAAIAAAADAAAABwAAAAYAAACaAAAABgAAAJwAAAAGAAAAnQAAAAYAAAA=",
+          "context_key_string": "nsIrpNQR6AFgAC2z7in7sAQAAB5AAADIMgIotS/9IIFFAwBkBQABAADtN0PA0xEdDmAAALgylIewAAABAQAAsS28CdARH+wACNywOz6oCQIBAACyBAAAAFQAZQBzAHQALi5I+xJIojkpXW2l9B2ojwD/////AAAAAAAABgBICM1Q4SAAYOo/XxjmxA==",
+          "surface_type": "kPlaneSurface",
+          "area_cm2": 0.075000007740229968,
+          "face_normal_at_center": [
+            0.0,
+            0.0,
+            -1.0
+          ],
+          "face_point_at_center": [
+            -26.349999999999969,
+            29.062500000000103,
+            7.5000000309609192
+          ],
+          "face_bbox_min": [
+            -26.650000030960889,
+            29.000000000000103,
+            7.5000000309609192
+          ],
+          "face_bbox_max": [
+            -26.04999996903905,
+            29.125000000000107,
+            7.5000000309609192
+          ],
+          "loops": [
+            {
+              "is_outer": true,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAAAcAAAAGAAAA",
+                "AQQBABAAAAAAAAAAAgAAAJoAAAAGAAAA",
+                "AQQBABAAAAAAAAAAAgAAAJwAAAAGAAAA",
+                "AQQBABAAAAAAAAAAAgAAAJ0AAAAGAAAA"
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "constraint_name": "Insert:2",
+        "constraint_type": "kInsertConstraint",
+        "suppressed": false,
+        "health_status": "kUpToDateHealth",
+        "node_one_id": "1094886893-M5:1",
+        "node_two_id": "1094886893-M2:1",
+        "axes_opposed": true,
+        "lock_rotation": false,
+        "entity_one": {
+          "entity_type": "67120288",
+          "proxy_context_occurrence": "1094886893-M5:1",
+          "owner_document": "C:\\Users\\hrish\\Downloads\\Assemblies for Training ML model\\Assembly 10\\Workspaces\\1094886893-M1\\1094886893-M5.ipt",
+          "reference_key_string": "AQQBABAAAAAAAAAAAgAAAAQAAAAGAAAA",
+          "context_key_string": "nsIrpNQR6AFgAC2z7in7sAQAAB5AAADIMgIotS/9IIFFAwBkBQABAADtN0PA0xEdDmAAALgylIewAAABAQAAsS28CdARH+wACNywOz6oCQIBAACyBAAAAFQAZQBzAHQALize/OdDcNOO8/e/k5kV7QD/////AAAAAAAABgBICM1Q4SAAYOo/XxjmxA==",
+          "curve_type": "kCircleCurve",
+          "length_cm": 3.6128315516282585,
+          "edge_midpoint": [
+            0.2,
+            0.4250000000000077,
+            -33.0
+          ],
+          "edge_tangent_at_mid": [
+            0.0,
+            0.0,
+            1.0
+          ],
+          "edge_start_vertex": [
+            0.2,
+            1.5750000000000064,
+            -33.0
+          ],
+          "edge_end_vertex": [
+            0.2,
+            1.5750000000000064,
+            -33.0
+          ]
+        },
+        "entity_two": {
+          "entity_type": "67120288",
+          "proxy_context_occurrence": "1094886893-M2:1",
+          "owner_document": "C:\\Users\\hrish\\Downloads\\Assemblies for Training ML model\\Assembly 10\\Workspaces\\1094886893-M1\\1094886893-M2.ipt",
+          "reference_key_string": "AQQBABAAAAAAAAAAAgAAAD4AAAAGAAAA",
+          "context_key_string": "nsIrpNQR6AFgAC2z7in7sAQAAB5AAADIMgIotS/9IIFFAwBkBQABAADtN0PA0xEdDmAAALgylIewAAABAQAAsS28CdARH+wACNywOz6oCQIBAACyBAAAAFQAZQBzAHQAd6KALX5MBC893siZ81XkggD/////AAAAAAAABgBICM1Q4SAAYOo/XxjmxA==",
+          "curve_type": "kCircleCurve",
+          "length_cm": 3.6128315516282603,
+          "edge_midpoint": [
+            3.4250000000000003,
+            0.0,
+            14.019999999999992
+          ],
+          "edge_tangent_at_mid": [
+            -1.2246467991473532E-16,
+            0.0,
+            1.0
+          ],
+          "edge_start_vertex": [
+            4.5749999999999993,
+            0.0,
+            14.019999999999992
+          ],
+          "edge_end_vertex": [
+            4.5749999999999993,
+            0.0,
+            14.019999999999992
+          ]
+        }
+      },
+      {
+        "constraint_name": "Insert:3",
+        "constraint_type": "kInsertConstraint",
+        "suppressed": false,
+        "health_status": "kUpToDateHealth",
+        "node_one_id": "1094886893-M5:1",
+        "node_two_id": "1094886893-M2:1",
+        "axes_opposed": true,
+        "lock_rotation": false,
+        "entity_one": {
+          "entity_type": "67120288",
+          "proxy_context_occurrence": "1094886893-M5:1",
+          "owner_document": "C:\\Users\\hrish\\Downloads\\Assemblies for Training ML model\\Assembly 10\\Workspaces\\1094886893-M1\\1094886893-M5.ipt",
+          "reference_key_string": "AQQBABAAAAAAAAAAAgAAAAcAAAAGAAAA",
+          "context_key_string": "nsIrpNQR6AFgAC2z7in7sAQAAB5AAADIMgIotS/9IIFFAwBkBQABAADtN0PA0xEdDmAAALgylIewAAABAQAAsS28CdARH+wACNywOz6oCQIBAACyBAAAAFQAZQBzAHQALize/OdDcNOO8/e/k5kV7QD/////AAAAAAAABgBICM1Q4SAAYOo/XxjmxA==",
+          "curve_type": "kCircleCurve",
+          "length_cm": 3.6128315516282585,
+          "edge_midpoint": [
+            0.2,
+            17.425000000000004,
+            -1.0
+          ],
+          "edge_tangent_at_mid": [
+            0.0,
+            0.0,
+            1.0
+          ],
+          "edge_start_vertex": [
+            0.2,
+            18.575000000000003,
+            -1.0
+          ],
+          "edge_end_vertex": [
+            0.2,
+            18.575000000000003,
+            -1.0
+          ]
+        },
+        "entity_two": {
+          "entity_type": "67120288",
+          "proxy_context_occurrence": "1094886893-M2:1",
+          "owner_document": "C:\\Users\\hrish\\Downloads\\Assemblies for Training ML model\\Assembly 10\\Workspaces\\1094886893-M1\\1094886893-M2.ipt",
+          "reference_key_string": "AQQBABAAAAAAAAAAAgAAAEEAAAAGAAAA",
+          "context_key_string": "nsIrpNQR6AFgAC2z7in7sAQAAB5AAADIMgIotS/9IIFFAwBkBQABAADtN0PA0xEdDmAAALgylIewAAABAQAAsS28CdARH+wACNywOz6oCQIBAACyBAAAAFQAZQBzAHQAd6KALX5MBC893siZ81XkggD/////AAAAAAAABgBICM1Q4SAAYOo/XxjmxA==",
+          "curve_type": "kCircleCurve",
+          "length_cm": 3.6128315516282563,
+          "edge_midpoint": [
+            35.425000000000004,
+            0.0,
+            31.019999999999996
+          ],
+          "edge_tangent_at_mid": [
+            -1.2246467991473532E-16,
+            0.0,
+            1.0
+          ],
+          "edge_start_vertex": [
+            36.574999999999996,
+            0.0,
+            31.019999999999996
+          ],
+          "edge_end_vertex": [
+            36.574999999999996,
+            0.0,
+            31.019999999999996
+          ]
+        }
+      },
+      {
+        "constraint_name": "Insert:4",
+        "constraint_type": "kInsertConstraint",
+        "suppressed": false,
+        "health_status": "kUpToDateHealth",
+        "node_one_id": "1094886893-M5:2",
+        "node_two_id": "1094886893-M2:1",
+        "axes_opposed": true,
+        "lock_rotation": false,
+        "entity_one": {
+          "entity_type": "67120288",
+          "proxy_context_occurrence": "1094886893-M5:2",
+          "owner_document": "C:\\Users\\hrish\\Downloads\\Assemblies for Training ML model\\Assembly 10\\Workspaces\\1094886893-M1\\1094886893-M5.ipt",
+          "reference_key_string": "AQQBABAAAAAAAAAAAgAAAAoAAAAGAAAA",
+          "context_key_string": "nsIrpNQR6AFgAC2z7in7sAQAAB5AAADIMgIotS/9IIFFAwBkBQABAADtN0PA0xEdDmAAALgylIewAAABAQAAsS28CdARH+wACNywOz6oCQIBAACyBAAAAFQAZQBzAHQALize/OdDcNOO8/e/k5kV7QD/////AAAAAAAABgBICM1Q4SAAYOo/XxjmxA==",
+          "curve_type": "kCircleCurve",
+          "length_cm": 3.6128315516282585,
+          "edge_midpoint": [
+            0.2,
+            0.42500000000000415,
+            -1.0
+          ],
+          "edge_tangent_at_mid": [
+            0.0,
+            0.0,
+            1.0
+          ],
+          "edge_start_vertex": [
+            0.2,
+            1.5750000000000028,
+            -1.0
+          ],
+          "edge_end_vertex": [
+            0.2,
+            1.5750000000000028,
+            -1.0
+          ]
+        },
+        "entity_two": {
+          "entity_type": "67120288",
+          "proxy_context_occurrence": "1094886893-M2:1",
+          "owner_document": "C:\\Users\\hrish\\Downloads\\Assemblies for Training ML model\\Assembly 10\\Workspaces\\1094886893-M1\\1094886893-M2.ipt",
+          "reference_key_string": "AQQBABAAAAAAAAAAAgAAAEQAAAAGAAAA",
+          "context_key_string": "nsIrpNQR6AFgAC2z7in7sAQAAB5AAADIMgIotS/9IIFFAwBkBQABAADtN0PA0xEdDmAAALgylIewAAABAQAAsS28CdARH+wACNywOz6oCQIBAACyBAAAAFQAZQBzAHQAd6KALX5MBC893siZ81XkggD/////AAAAAAAABgBICM1Q4SAAYOo/XxjmxA==",
+          "curve_type": "kCircleCurve",
+          "length_cm": 3.6128315516282714,
+          "edge_midpoint": [
+            -4.5750000000000011,
+            0.0,
+            14.02
+          ],
+          "edge_tangent_at_mid": [
+            -1.2246467991473532E-16,
+            0.0,
+            1.0
+          ],
+          "edge_start_vertex": [
+            -3.4249999999999985,
+            0.0,
+            14.02
+          ],
+          "edge_end_vertex": [
+            -3.4249999999999985,
+            0.0,
+            14.02
+          ]
+        }
+      },
+      {
+        "constraint_name": "Insert:5",
+        "constraint_type": "kInsertConstraint",
+        "suppressed": false,
+        "health_status": "kUpToDateHealth",
+        "node_one_id": "1094886893-M5:2",
+        "node_two_id": "1094886893-M2:1",
+        "axes_opposed": true,
+        "lock_rotation": false,
+        "entity_one": {
+          "entity_type": "67120288",
+          "proxy_context_occurrence": "1094886893-M5:2",
+          "owner_document": "C:\\Users\\hrish\\Downloads\\Assemblies for Training ML model\\Assembly 10\\Workspaces\\1094886893-M1\\1094886893-M5.ipt",
+          "reference_key_string": "AQQBABAAAAAAAAAAAgAAAA0AAAAGAAAA",
+          "context_key_string": "nsIrpNQR6AFgAC2z7in7sAQAAB5AAADIMgIotS/9IIFFAwBkBQABAADtN0PA0xEdDmAAALgylIewAAABAQAAsS28CdARH+wACNywOz6oCQIBAACyBAAAAFQAZQBzAHQALize/OdDcNOO8/e/k5kV7QD/////AAAAAAAABgBICM1Q4SAAYOo/XxjmxA==",
+          "curve_type": "kCircleCurve",
+          "length_cm": 3.6128315516282585,
+          "edge_midpoint": [
+            0.2,
+            17.425000000000008,
+            -33.0
+          ],
+          "edge_tangent_at_mid": [
+            0.0,
+            0.0,
+            1.0
+          ],
+          "edge_start_vertex": [
+            0.2,
+            18.575000000000006,
+            -33.0
+          ],
+          "edge_end_vertex": [
+            0.2,
+            18.575000000000006,
+            -33.0
+          ]
+        },
+        "entity_two": {
+          "entity_type": "67120288",
+          "proxy_context_occurrence": "1094886893-M2:1",
+          "owner_document": "C:\\Users\\hrish\\Downloads\\Assemblies for Training ML model\\Assembly 10\\Workspaces\\1094886893-M1\\1094886893-M2.ipt",
+          "reference_key_string": "AQQBABAAAAAAAAAAAgAAAEcAAAAGAAAA",
+          "context_key_string": "nsIrpNQR6AFgAC2z7in7sAQAAB5AAADIMgIotS/9IIFFAwBkBQABAADtN0PA0xEdDmAAALgylIewAAABAQAAsS28CdARH+wACNywOz6oCQIBAACyBAAAAFQAZQBzAHQAd6KALX5MBC893siZ81XkggD/////AAAAAAAABgBICM1Q4SAAYOo/XxjmxA==",
+          "curve_type": "kCircleCurve",
+          "length_cm": 3.6128315516282612,
+          "edge_midpoint": [
+            -36.575,
+            0.0,
+            31.019999999999996
+          ],
+          "edge_tangent_at_mid": [
+            -1.2246467991473532E-16,
+            0.0,
+            1.0
+          ],
+          "edge_start_vertex": [
+            -35.425,
+            0.0,
+            31.019999999999996
+          ],
+          "edge_end_vertex": [
+            -35.425,
+            0.0,
+            31.019999999999996
+          ]
+        }
+      },
+      {
+        "constraint_name": "Flush:2",
+        "constraint_type": "kFlushConstraint",
+        "suppressed": false,
+        "health_status": "kUpToDateHealth",
+        "node_one_id": "1094886893-M4:1",
+        "node_two_id": "1094886893-M2:1",
+        "offset_cm": 4.65,
+        "entity_one": {
+          "entity_type": "67119520",
+          "proxy_context_occurrence": "1094886893-P2:1",
+          "owner_document": "C:\\Users\\hrish\\Downloads\\Assemblies for Training ML model\\Assembly 10\\Workspaces\\1094886893-M1\\1094886893-P2.ipt",
+          "reference_key_string": "AQQZANAAAAAAAAAAAgAAAG0AAAADAAAAcwAAAAYAAAB2AAAABgAAAHgAAAAGAAAAeQAAAAYAAAB/AAAABgAAAIIAAAAGAAAAhAAAAAYAAACFAAAABgAAAIsAAAAGAAAAjgAAAAYAAACQAAAABgAAAJEAAAAGAAAAlwAAAAYAAACaAAAABgAAAJwAAAAGAAAAnQAAAAYAAACjAAAABgAAAKYAAAAGAAAAqAAAAAYAAACpAAAABgAAAK4AAAAGAAAAsgAAAAYAAAC3AAAABgAAALwAAAAGAAAA",
+          "context_key_string": "nsIrpNQR6AFgAC2z7in7sAQAAB5AAADIMgIotS/9IIFFAwBkBQABAADtN0PA0xEdDmAAALgylIewAAABAQAAsS28CdARH+wACNywOz6oCQIBAACyBAAAAFQAZQBzAHQAjnxzdJVOpKeu7Wa+Wm2LJQD/////AAAAAAAABgBICM1Q4SAAYOo/XxjmxA==",
+          "surface_type": "kPlaneSurface",
+          "area_cm2": 1604.6096573464106,
+          "face_normal_at_center": [
+            0.0,
+            0.0,
+            -1.0
+          ],
+          "face_point_at_center": [
+            0.0,
+            0.062500000000006328,
+            0.0
+          ],
+          "face_bbox_min": [
+            -36.725000000000009,
+            -14.099999999999993,
+            0.0
+          ],
+          "face_bbox_max": [
+            36.725000000000009,
+            14.225000000000007,
+            2.4980018054066022E-15
+          ],
+          "loops": [
+            {
+              "is_outer": false,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAAHMAAAAGAAAA",
+                "AQQBABAAAAAAAAAAAgAAAHYAAAAGAAAA",
+                "AQQBABAAAAAAAAAAAgAAAHgAAAAGAAAA",
+                "AQQBABAAAAAAAAAAAgAAAHkAAAAGAAAA"
+              ]
+            },
+            {
+              "is_outer": false,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAAH8AAAAGAAAA",
+                "AQQBABAAAAAAAAAAAgAAAIIAAAAGAAAA",
+                "AQQBABAAAAAAAAAAAgAAAIQAAAAGAAAA",
+                "AQQBABAAAAAAAAAAAgAAAIUAAAAGAAAA"
+              ]
+            },
+            {
+              "is_outer": false,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAAIsAAAAGAAAA",
+                "AQQBABAAAAAAAAAAAgAAAI4AAAAGAAAA",
+                "AQQBABAAAAAAAAAAAgAAAJAAAAAGAAAA",
+                "AQQBABAAAAAAAAAAAgAAAJEAAAAGAAAA"
+              ]
+            },
+            {
+              "is_outer": false,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAAJcAAAAGAAAA",
+                "AQQBABAAAAAAAAAAAgAAAJoAAAAGAAAA",
+                "AQQBABAAAAAAAAAAAgAAAJwAAAAGAAAA",
+                "AQQBABAAAAAAAAAAAgAAAJ0AAAAGAAAA"
+              ]
+            },
+            {
+              "is_outer": false,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAAKMAAAAGAAAA",
+                "AQQBABAAAAAAAAAAAgAAAKYAAAAGAAAA",
+                "AQQBABAAAAAAAAAAAgAAAKgAAAAGAAAA",
+                "AQQBABAAAAAAAAAAAgAAAKkAAAAGAAAA"
+              ]
+            },
+            {
+              "is_outer": true,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAAK4AAAAGAAAA",
+                "AQQBABAAAAAAAAAAAgAAALIAAAAGAAAA",
+                "AQQBABAAAAAAAAAAAgAAALcAAAAGAAAA",
+                "AQQBABAAAAAAAAAAAgAAALwAAAAGAAAA",
+                "AQQBABAAAAAAAAAAAgAAAL8AAAAGAAAA",
+                "AQQBABAAAAAAAAAAAgAAAMAAAAAGAAAA"
+              ]
+            }
+          ]
+        },
+        "entity_two": {
+          "entity_type": "67119520",
+          "proxy_context_occurrence": "1094886893-M2:1",
+          "owner_document": "C:\\Users\\hrish\\Downloads\\Assemblies for Training ML model\\Assembly 10\\Workspaces\\1094886893-M1\\1094886893-M2.ipt",
+          "reference_key_string": "AQQLAGAAAAAAAAAAAgAAADUAAAADAAAASgAAAAYAAABNAAAABgAAAFAAAAAGAAAAUwAAAAYAAABWAAAABgAAAFkAAAAGAAAAXAAAAAYAAABdAAAABgAAADkAAAAGAAAAXgAAAAYAAAA=",
+          "context_key_string": "nsIrpNQR6AFgAC2z7in7sAQAAB5AAADIMgIotS/9IIFFAwBkBQABAADtN0PA0xEdDmAAALgylIewAAABAQAAsS28CdARH+wACNywOz6oCQIBAACyBAAAAFQAZQBzAHQAd6KALX5MBC893siZ81XkggD/////AAAAAAAABgBICM1Q4SAAYOo/XxjmxA==",
+          "surface_type": "kPlaneSurface",
+          "area_cm2": 9583.713861290058,
+          "face_normal_at_center": [
+            0.0,
+            0.0,
+            -1.0
+          ],
+          "face_point_at_center": [
+            0.0,
+            60.0,
+            0.0
+          ],
+          "face_bbox_min": [
+            -40.0,
+            0.0,
+            0.0
+          ],
+          "face_bbox_max": [
+            40.0,
+            120.0,
+            3.5527136788005009E-15
+          ],
+          "loops": [
+            {
+              "is_outer": false,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAAEoAAAAGAAAA"
+              ]
+            },
+            {
+              "is_outer": false,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAAE0AAAAGAAAA"
+              ]
+            },
+            {
+              "is_outer": false,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAAFAAAAAGAAAA"
+              ]
+            },
+            {
+              "is_outer": false,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAAFMAAAAGAAAA"
+              ]
+            },
+            {
+              "is_outer": false,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAAFYAAAAGAAAA"
+              ]
+            },
+            {
+              "is_outer": false,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAAFkAAAAGAAAA"
+              ]
+            },
+            {
+              "is_outer": true,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAAFwAAAAGAAAA",
+                "AQQBABAAAAAAAAAAAgAAAF0AAAAGAAAA",
+                "AQQBABAAAAAAAAAAAgAAADkAAAAGAAAA",
+                "AQQBABAAAAAAAAAAAgAAAF4AAAAGAAAA"
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "constraint_name": "Insert:6",
+        "constraint_type": "kInsertConstraint",
+        "suppressed": false,
+        "health_status": "kUpToDateHealth",
+        "node_one_id": "1094886893-M5:1",
+        "node_two_id": "1094886893-M2:1",
+        "axes_opposed": true,
+        "lock_rotation": false,
+        "entity_one": {
+          "entity_type": "67120288",
+          "proxy_context_occurrence": "1094886893-M5:1",
+          "owner_document": "C:\\Users\\hrish\\Downloads\\Assemblies for Training ML model\\Assembly 10\\Workspaces\\1094886893-M1\\1094886893-M5.ipt",
+          "reference_key_string": "AQQBABAAAAAAAAAAAgAAAAcAAAAGAAAA",
+          "context_key_string": "nsIrpNQR6AFgAC2z7in7sAQAAB5AAADIMgIotS/9IIFFAwBkBQABAADtN0PA0xEdDmAAALgylIewAAABAQAAsS28CdARH+wACNywOz6oCQIBAACyBAAAAFQAZQBzAHQALize/OdDcNOO8/e/k5kV7QD/////AAAAAAAABgBICM1Q4SAAYOo/XxjmxA==",
+          "curve_type": "kCircleCurve",
+          "length_cm": 3.6128315516282585,
+          "edge_midpoint": [
+            0.2,
+            17.425000000000004,
+            -1.0
+          ],
+          "edge_tangent_at_mid": [
+            0.0,
+            0.0,
+            1.0
+          ],
+          "edge_start_vertex": [
+            0.2,
+            18.575000000000003,
+            -1.0
+          ],
+          "edge_end_vertex": [
+            0.2,
+            18.575000000000003,
+            -1.0
+          ]
+        },
+        "entity_two": {
+          "entity_type": "67120288",
+          "proxy_context_occurrence": "1094886893-M2:1",
+          "owner_document": "C:\\Users\\hrish\\Downloads\\Assemblies for Training ML model\\Assembly 10\\Workspaces\\1094886893-M1\\1094886893-M2.ipt",
+          "reference_key_string": "AQQBABAAAAAAAAAAAgAAAEEAAAAGAAAA",
+          "context_key_string": "nsIrpNQR6AFgAC2z7in7sAQAAB5AAADIMgIotS/9IIFFAwBkBQABAADtN0PA0xEdDmAAALgylIewAAABAQAAsS28CdARH+wACNywOz6oCQIBAACyBAAAAFQAZQBzAHQAd6KALX5MBC893siZ81XkggD/////AAAAAAAABgBICM1Q4SAAYOo/XxjmxA==",
+          "curve_type": "kCircleCurve",
+          "length_cm": 3.6128315516282563,
+          "edge_midpoint": [
+            35.425000000000004,
+            0.0,
+            31.019999999999996
+          ],
+          "edge_tangent_at_mid": [
+            -1.2246467991473532E-16,
+            0.0,
+            1.0
+          ],
+          "edge_start_vertex": [
+            36.574999999999996,
+            0.0,
+            31.019999999999996
+          ],
+          "edge_end_vertex": [
+            36.574999999999996,
+            0.0,
+            31.019999999999996
+          ]
+        }
+      },
+      {
+        "constraint_name": "Flush:3",
+        "constraint_type": "kFlushConstraint",
+        "suppressed": false,
+        "health_status": "kUpToDateHealth",
+        "node_one_id": "1094886893-M4:1",
+        "node_two_id": "1094886893-M2:1",
+        "offset_cm": 3.1500000000000004,
+        "entity_one": {
+          "entity_type": "67119520",
+          "proxy_context_occurrence": "1094886893-P2:1",
+          "owner_document": "C:\\Users\\hrish\\Downloads\\Assemblies for Training ML model\\Assembly 10\\Workspaces\\1094886893-M1\\1094886893-P2.ipt",
+          "reference_key_string": "AQQKAFgAAAAAAAAAAgAAAMEAAAADAAAAyAAAAAYAAADMAAAABgAAANAAAAAGAAAA0wAAAAYAAADWAAAABgAAANgAAAAGAAAA2gAAAAYAAADcAAAABgAAAN0AAAAGAAAA",
+          "context_key_string": "nsIrpNQR6AFgAC2z7in7sAQAAB5AAADIMgIotS/9IIFFAwBkBQABAADtN0PA0xEdDmAAALgylIewAAABAQAAsS28CdARH+wACNywOz6oCQIBAACyBAAAAFQAZQBzAHQAjnxzdJVOpKeu7Wa+Wm2LJQD/////AAAAAAAABgBICM1Q4SAAYOo/XxjmxA==",
+          "surface_type": "kPlaneSurface",
+          "area_cm2": 697.672467536183,
+          "face_normal_at_center": [
+            -1.0,
+            -2.1866153959544171E-18,
+            2.2980347689631298E-14
+          ],
+          "face_point_at_center": [
+            -36.99999999999968,
+            -0.062499999999993783,
+            14.250000000000014
+          ],
+          "face_bbox_min": [
+            -37.000000000000007,
+            -14.224999999999987,
+            0.27500000000001279
+          ],
+          "face_bbox_max": [
+            -36.999999999999346,
+            14.100000000000001,
+            28.225000000000012
+          ],
+          "loops": [
+            {
+              "is_outer": true,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAAMgAAAAGAAAA",
+                "AQQBABAAAAAAAAAAAgAAAMwAAAAGAAAA",
+                "AQQBABAAAAAAAAAAAgAAANAAAAAGAAAA",
+                "AQQBABAAAAAAAAAAAgAAANMAAAAGAAAA",
+                "AQQBABAAAAAAAAAAAgAAANYAAAAGAAAA",
+                "AQQBABAAAAAAAAAAAgAAANgAAAAGAAAA",
+                "AQQBABAAAAAAAAAAAgAAANoAAAAGAAAA",
+                "AQQBABAAAAAAAAAAAgAAANwAAAAGAAAA",
+                "AQQBABAAAAAAAAAAAgAAAN0AAAAGAAAA"
+              ]
+            }
+          ]
+        },
+        "entity_two": {
+          "entity_type": "67119520",
+          "proxy_context_occurrence": "1094886893-M2:1",
+          "owner_document": "C:\\Users\\hrish\\Downloads\\Assemblies for Training ML model\\Assembly 10\\Workspaces\\1094886893-M1\\1094886893-M2.ipt",
+          "reference_key_string": "AQQFADAAAAAAAAAAAgAAAC8AAAADAAAAYAAAAAYAAABhAAAABgAAADoAAAAGAAAAXQAAAAYAAAA=",
+          "context_key_string": "nsIrpNQR6AFgAC2z7in7sAQAAB5AAADIMgIotS/9IIFFAwBkBQABAADtN0PA0xEdDmAAALgylIewAAABAQAAsS28CdARH+wACNywOz6oCQIBAACyBAAAAFQAZQBzAHQAd6KALX5MBC893siZ81XkggD/////AAAAAAAABgBICM1Q4SAAYOo/XxjmxA==",
+          "surface_type": "kPlaneSurface",
+          "area_cm2": 4502.4,
+          "face_normal_at_center": [
+            -1.0,
+            0.0,
+            0.0
+          ],
+          "face_point_at_center": [
+            -40.0,
+            60.0,
+            18.759999999999998
+          ],
+          "face_bbox_min": [
+            -40.0,
+            0.0,
+            0.0
+          ],
+          "face_bbox_max": [
+            -40.0,
+            120.0,
+            37.519999999999996
+          ],
+          "loops": [
+            {
+              "is_outer": true,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAAGAAAAAGAAAA",
+                "AQQBABAAAAAAAAAAAgAAAGEAAAAGAAAA",
+                "AQQBABAAAAAAAAAAAgAAADoAAAAGAAAA",
+                "AQQBABAAAAAAAAAAAgAAAF0AAAAGAAAA"
+              ]
+            }
+          ]
+        }
+      }
+    ],
+    "joint_edges": []
+  }
+}

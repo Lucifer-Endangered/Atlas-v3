@@ -1,0 +1,3547 @@
+﻿{
+  "assembly_metadata": {
+    "assembly_name": "1830099838-M129.iam",
+    "full_file_name": "C:\\Users\\hrish\\Downloads\\Assemblies for Training ML model\\Assembly 70\\Workspaces\\1830099838-M1\\1830099838-M129.iam",
+    "internal_name": "{C40D3BEB-4D02-8C8F-2DF0-259E41713876}",
+    "total_occurrences": 4,
+    "total_constraints": 9
+  },
+  "physics": {
+    "mass_kg": 3.467328391330295,
+    "center_of_mass": [
+      -1.9322363486178125,
+      20.905980242943151,
+      6.4701806572185019
+    ],
+    "inertia_tensor": [
+      761.053199219183,
+      93.130375285968881,
+      736.07116081022662,
+      3.6903657019138337E-11,
+      -0.72153432919306215,
+      3.6794517654925588E-11
+    ]
+  },
+  "assembly_graph": {
+    "nodes": [
+      {
+        "node_id": "1830099838-M139.ipt:1",
+        "file_name": "C:\\Users\\hrish\\Downloads\\Assemblies for Training ML model\\Assembly 70\\Workspaces\\1830099838-M1\\1830099838-M139.ipt",
+        "component_type": "kPartDocumentObject",
+        "grounded": true,
+        "suppressed": false,
+        "visible": true,
+        "adaptive": false,
+        "flexible": false,
+        "dof_translation": 0,
+        "dof_rotation": 0,
+        "fully_constrained": false,
+        "transform": {
+          "rotation_matrix": [
+            [
+              1.0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              1.0,
+              0.0
+            ],
+            [
+              0.0,
+              0.0,
+              1.0
+            ]
+          ],
+          "translation_cm": [
+            -1.9322363486219996,
+            -1.5454377774852885,
+            0.38679857113671079
+          ]
+        }
+      },
+      {
+        "node_id": "1830099838-M140.ipt:2",
+        "file_name": "C:\\Users\\hrish\\Downloads\\Assemblies for Training ML model\\Assembly 70\\Workspaces\\1830099838-M1\\1830099838-M148.ipt",
+        "component_type": "kPartDocumentObject",
+        "grounded": false,
+        "suppressed": false,
+        "visible": true,
+        "adaptive": false,
+        "flexible": false,
+        "dof_translation": 0,
+        "dof_rotation": 0,
+        "fully_constrained": true,
+        "transform": {
+          "rotation_matrix": [
+            [
+              1.0,
+              0.0,
+              -3.5865265838770046E-15
+            ],
+            [
+              0.0,
+              1.0,
+              0.0
+            ],
+            [
+              3.5865265838770046E-15,
+              0.0,
+              1.0
+            ]
+          ],
+          "translation_cm": [
+            -1.9322363486220007,
+            -1.5454377774852885,
+            0.68679857113669573
+          ]
+        }
+      },
+      {
+        "node_id": "1830099838-M140.ipt:3",
+        "file_name": "C:\\Users\\hrish\\Downloads\\Assemblies for Training ML model\\Assembly 70\\Workspaces\\1830099838-M1\\1830099838-M140.ipt",
+        "component_type": "kPartDocumentObject",
+        "grounded": false,
+        "suppressed": false,
+        "visible": true,
+        "adaptive": false,
+        "flexible": false,
+        "dof_translation": 0,
+        "dof_rotation": 0,
+        "fully_constrained": true,
+        "transform": {
+          "rotation_matrix": [
+            [
+              -0.99999999999999867,
+              -1.1518563880486029E-15,
+              -3.887121825974896E-15
+            ],
+            [
+              -1.2645256478629834E-31,
+              -1.0000000000000004,
+              2.1992647557045992E-15
+            ],
+            [
+              -3.5736861943689119E-15,
+              4.22640218744722E-19,
+              1.0000000000000018
+            ]
+          ],
+          "translation_cm": [
+            -1.9322363486219485,
+            43.454562222514724,
+            0.686798571136696
+          ]
+        }
+      },
+      {
+        "node_id": "1830099838-M141.ipt:4",
+        "file_name": "C:\\Users\\hrish\\Downloads\\Assemblies for Training ML model\\Assembly 70\\Workspaces\\1830099838-M1\\1830099838-M141.ipt",
+        "component_type": "kPartDocumentObject",
+        "grounded": false,
+        "suppressed": false,
+        "visible": true,
+        "adaptive": false,
+        "flexible": false,
+        "dof_translation": 0,
+        "dof_rotation": 0,
+        "fully_constrained": true,
+        "transform": {
+          "rotation_matrix": [
+            [
+              1.0,
+              1.4348237036696139E-14,
+              7.888609052210111E-30
+            ],
+            [
+              2.3667850509982868E-29,
+              -2.1992647557045961E-15,
+              1.0
+            ],
+            [
+              1.4348237036696139E-14,
+              -1.0,
+              -2.1992647557045961E-15
+            ]
+          ],
+          "translation_cm": [
+            -1.9322363486220504,
+            20.954562222514731,
+            3.9367985711366851
+          ]
+        }
+      }
+    ],
+    "constraint_edges": [
+      {
+        "constraint_name": "Flush:1",
+        "constraint_type": "kFlushConstraint",
+        "suppressed": false,
+        "health_status": "kUpToDateHealth",
+        "node_one_id": "1830099838-M140.ipt:2",
+        "node_two_id": "1830099838-M139.ipt:1",
+        "offset_cm": 0.0,
+        "entity_one": {
+          "entity_type": "67119520",
+          "proxy_context_occurrence": "1830099838-M140.ipt:2",
+          "owner_document": "C:\\Users\\hrish\\Downloads\\Assemblies for Training ML model\\Assembly 70\\Workspaces\\1830099838-M1\\1830099838-M148.ipt",
+          "reference_key_string": "AQQNAHAAAAAAAAAAAgAAAAEAAAADAAAACAAAAAYAAAAMAAAABgAAAA8AAAAGAAAAEgAAAAYAAAAVAAAABgAAABgAAAAGAAAAGwAAAAYAAAAeAAAABgAAACEAAAAGAAAAJAAAAAYAAAAmAAAABgAAACcAAAAGAAAA",
+          "context_key_string": "nsIrpNQR6AFgAC2z7in7sAQAAB5AAADIMgIotS/9IIFFAwBkBQABAADtN0PA0xEdDmAAALgylIewAAABAQAAsS28CdARH+wACNywOz6oCQIBAACyBAAAAFQAZQBzAHQAovtK6s9Jz6B3kQGr4qRCVAD/////AAAAAAAABgBICM1Q4SAAYOo/XxjmxA==",
+          "surface_type": "kPlaneSurface",
+          "area_cm2": 78.805500783949938,
+          "face_normal_at_center": [
+            0.0,
+            -1.0,
+            0.0
+          ],
+          "face_point_at_center": [
+            8.8817841970012523E-16,
+            0.0,
+            6.1499999999999995
+          ],
+          "face_bbox_min": [
+            -4.5517373318979892,
+            -5.5511151231257827E-17,
+            -1.0824674490095276E-15
+          ],
+          "face_bbox_max": [
+            4.551737331897991,
+            0.0,
+            12.299999999999999
+          ],
+          "loops": [
+            {
+              "is_outer": true,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAAAgAAAAGAAAA",
+                "AQQBABAAAAAAAAAAAgAAAAwAAAAGAAAA",
+                "AQQBABAAAAAAAAAAAgAAAA8AAAAGAAAA",
+                "AQQBABAAAAAAAAAAAgAAABIAAAAGAAAA",
+                "AQQBABAAAAAAAAAAAgAAABUAAAAGAAAA",
+                "AQQBABAAAAAAAAAAAgAAABgAAAAGAAAA",
+                "AQQBABAAAAAAAAAAAgAAABsAAAAGAAAA",
+                "AQQBABAAAAAAAAAAAgAAAB4AAAAGAAAA",
+                "AQQBABAAAAAAAAAAAgAAACEAAAAGAAAA",
+                "AQQBABAAAAAAAAAAAgAAACQAAAAGAAAA",
+                "AQQBABAAAAAAAAAAAgAAACYAAAAGAAAA",
+                "AQQBABAAAAAAAAAAAgAAACcAAAAGAAAA"
+              ]
+            }
+          ]
+        },
+        "entity_two": {
+          "entity_type": "67119520",
+          "proxy_context_occurrence": "1830099838-M139.ipt:1",
+          "owner_document": "C:\\Users\\hrish\\Downloads\\Assemblies for Training ML model\\Assembly 70\\Workspaces\\1830099838-M1\\1830099838-M139.ipt",
+          "reference_key_string": "AQQFADAAAAAAAAAAAgAAAAEAAAADAAAACQAAAAYAAAANAAAABgAAABAAAAAGAAAAEQAAAAYAAAA=",
+          "context_key_string": "nsIrpNQR6AFgAC2z7in7sAQAAB5AAADIMgIotS/9IIFFAwBkBQABAADtN0PA0xEdDmAAALgylIewAAABAQAAsS28CdARH+wACNywOz6oCQIBAACyBAAAAFQAZQBzAHQAGism01ZO+KUw3SG4i5JkLgD/////AAAAAAAABgBICM1Q4SAAYOo/XxjmxA==",
+          "surface_type": "kPlaneSurface",
+          "area_cm2": 3.6858563713312371,
+          "face_normal_at_center": [
+            0.0,
+            -1.0,
+            0.0
+          ],
+          "face_point_at_center": [
+            3.3752085449237326,
+            0.0,
+            6.5034392404225585
+          ],
+          "face_bbox_min": [
+            1.9105207466933769,
+            0.0,
+            0.47125232056339961
+          ],
+          "face_bbox_max": [
+            4.8398963431540869,
+            0.0,
+            12.535626160281716
+          ],
+          "loops": [
+            {
+              "is_outer": true,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAAAkAAAAGAAAA",
+                "AQQBABAAAAAAAAAAAgAAAA0AAAAGAAAA",
+                "AQQBABAAAAAAAAAAAgAAABAAAAAGAAAA",
+                "AQQBABAAAAAAAAAAAgAAABEAAAAGAAAA"
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "constraint_name": "Mate:1",
+        "constraint_type": "kMateConstraint",
+        "suppressed": false,
+        "health_status": "kUpToDateHealth",
+        "node_one_id": "1830099838-M140.ipt:2",
+        "node_two_id": "1830099838-M139.ipt:1",
+        "offset_cm": 0.0,
+        "solution": "kNoSolutionType",
+        "entity_one": {
+          "entity_type": "67119520",
+          "proxy_context_occurrence": "1830099838-M140.ipt:2",
+          "owner_document": "C:\\Users\\hrish\\Downloads\\Assemblies for Training ML model\\Assembly 70\\Workspaces\\1830099838-M1\\1830099838-M148.ipt",
+          "reference_key_string": "AQQFADAAAAAAAAAAAgAAABkAAAADAAAAKgAAAAYAAAAsAAAABgAAAC0AAAAGAAAAHgAAAAYAAAA=",
+          "context_key_string": "nsIrpNQR6AFgAC2z7in7sAQAAB5AAADIMgIotS/9IIFFAwBkBQABAADtN0PA0xEdDmAAALgylIewAAABAQAAsS28CdARH+wACNywOz6oCQIBAACyBAAAAFQAZQBzAHQAovtK6s9Jz6B3kQGr4qRCVAD/////AAAAAAAABgBICM1Q4SAAYOo/XxjmxA==",
+          "surface_type": "kPlaneSurface",
+          "area_cm2": 0.96532911342728678,
+          "face_normal_at_center": [
+            0.0,
+            0.0,
+            -1.0
+          ],
+          "face_point_at_center": [
+            0.0,
+            0.15000000000000002,
+            -2.0719609438386177E-16
+          ],
+          "face_bbox_min": [
+            -1.6088818557121443,
+            0.0,
+            -2.2204460492503131E-16
+          ],
+          "face_bbox_max": [
+            1.6088818557121447,
+            0.30000000000000004,
+            -2.0719609438386177E-16
+          ],
+          "loops": [
+            {
+              "is_outer": true,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAACoAAAAGAAAA",
+                "AQQBABAAAAAAAAAAAgAAACwAAAAGAAAA",
+                "AQQBABAAAAAAAAAAAgAAAC0AAAAGAAAA",
+                "AQQBABAAAAAAAAAAAgAAAB4AAAAGAAAA"
+              ]
+            }
+          ]
+        },
+        "entity_two": {
+          "entity_type": "67119520",
+          "proxy_context_occurrence": "1830099838-M139.ipt:1",
+          "owner_document": "C:\\Users\\hrish\\Downloads\\Assemblies for Training ML model\\Assembly 70\\Workspaces\\1830099838-M1\\1830099838-M139.ipt",
+          "reference_key_string": "AQQFADAAAAAAAAAAAgAAABIAAAADAAAAGgAAAAYAAAAcAAAABgAAAB8AAAAGAAAAIAAAAAYAAAA=",
+          "context_key_string": "nsIrpNQR6AFgAC2z7in7sAQAAB5AAADIMgIotS/9IIFFAwBkBQABAADtN0PA0xEdDmAAALgylIewAAABAQAAsS28CdARH+wACNywOz6oCQIBAACyBAAAAFQAZQBzAHQAGism01ZO+KUw3SG4i5JkLgD/////AAAAAAAABgBICM1Q4SAAYOo/XxjmxA==",
+          "surface_type": "kPlaneSurface",
+          "area_cm2": 145.5757907936686,
+          "face_normal_at_center": [
+            -3.5865265838770046E-15,
+            4.2264021874856266E-19,
+            1.0
+          ],
+          "face_point_at_center": [
+            -3.5527136788005009E-15,
+            22.5,
+            0.29999999999998472
+          ],
+          "face_bbox_min": [
+            -1.6175087865963214,
+            0.0,
+            0.29999999999997762
+          ],
+          "face_bbox_max": [
+            1.6175087865963143,
+            45.0,
+            0.29999999999999183
+          ],
+          "loops": [
+            {
+              "is_outer": true,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAABoAAAAGAAAA",
+                "AQQBABAAAAAAAAAAAgAAABwAAAAGAAAA",
+                "AQQBABAAAAAAAAAAAgAAAB8AAAAGAAAA",
+                "AQQBABAAAAAAAAAAAgAAACAAAAAGAAAA"
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "constraint_name": "Flush:2",
+        "constraint_type": "kFlushConstraint",
+        "suppressed": false,
+        "health_status": "kUpToDateHealth",
+        "node_one_id": "1830099838-M140.ipt:2",
+        "node_two_id": "1830099838-M139.ipt:1",
+        "offset_cm": 0.0,
+        "entity_one": {
+          "entity_type": "83887776",
+          "proxy_context_occurrence": "1830099838-M140.ipt:2",
+          "owner_document": "C:\\Users\\hrish\\Downloads\\Assemblies for Training ML model\\Assembly 70\\Workspaces\\1830099838-M1\\1830099838-M148.ipt",
+          "reference_key_string": "EAIAABAAAAAJAAAAAAAAAIAAAAAAAAAA",
+          "context_key_string": "nsIrpNQR6AFgAC2z7in7sAQAAB5AAADIMgIotS/9IIFFAwBkBQABAADtN0PA0xEdDmAAALgylIewAAABAQAAsS28CdARH+wACNywOz6oCQIBAACyBAAAAFQAZQBzAHQAovtK6s9Jz6B3kQGr4qRCVAD/////AAAAAAAABgBICM1Q4SAAYOo/XxjmxA==",
+          "surface_type": "kPlaneSurface",
+          "area_cm2": 0.0001,
+          "face_normal_at_center": [
+            1.0,
+            0.0,
+            0.0
+          ],
+          "face_point_at_center": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "work_feature_name": "YZ Plane"
+        },
+        "entity_two": {
+          "entity_type": "83887776",
+          "proxy_context_occurrence": "1830099838-M139.ipt:1",
+          "owner_document": "C:\\Users\\hrish\\Downloads\\Assemblies for Training ML model\\Assembly 70\\Workspaces\\1830099838-M1\\1830099838-M139.ipt",
+          "reference_key_string": "EAIAABAAAAAJAAAAAAAAAIAAAAAAAAAA",
+          "context_key_string": "nsIrpNQR6AFgAC2z7in7sAQAAB5AAADIMgIotS/9IIFFAwBkBQABAADtN0PA0xEdDmAAALgylIewAAABAQAAsS28CdARH+wACNywOz6oCQIBAACyBAAAAFQAZQBzAHQAGism01ZO+KUw3SG4i5JkLgD/////AAAAAAAABgBICM1Q4SAAYOo/XxjmxA==",
+          "surface_type": "kPlaneSurface",
+          "area_cm2": 0.0001,
+          "face_normal_at_center": [
+            1.0,
+            0.0,
+            0.0
+          ],
+          "face_point_at_center": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "work_feature_name": "YZ Plane"
+        }
+      },
+      {
+        "constraint_name": "Mate:2",
+        "constraint_type": "kMateConstraint",
+        "suppressed": false,
+        "health_status": "kUpToDateHealth",
+        "node_one_id": "1830099838-M140.ipt:3",
+        "node_two_id": "1830099838-M139.ipt:1",
+        "offset_cm": 0.0,
+        "solution": "kNoSolutionType",
+        "entity_one": {
+          "entity_type": "67119520",
+          "proxy_context_occurrence": "1830099838-M140.ipt:3",
+          "owner_document": "C:\\Users\\hrish\\Downloads\\Assemblies for Training ML model\\Assembly 70\\Workspaces\\1830099838-M1\\1830099838-M140.ipt",
+          "reference_key_string": "AQQFADAAAAAAAAAAAgAAAAEAAAADAAAABwAAAAYAAAAKAAAABgAAAAwAAAAGAAAADQAAAAYAAAA=",
+          "context_key_string": "nsIrpNQR6AFgAC2z7in7sAQAAB5AAADIMgIotS/9IIFFAwBkBQABAADtN0PA0xEdDmAAALgylIewAAABAQAAsS28CdARH+wACNywOz6oCQIBAACyBAAAAFQAZQBzAHQA4PV4EotPDufZJJanpQjR6AD/////AAAAAAAABgBICM1Q4SAAYOo/XxjmxA==",
+          "surface_type": "kPlaneSurface",
+          "area_cm2": 0.96532911342728678,
+          "face_normal_at_center": [
+            0.0,
+            0.0,
+            -1.0
+          ],
+          "face_point_at_center": [
+            0.0,
+            0.15000000000000002,
+            -2.0719609438386177E-16
+          ],
+          "face_bbox_min": [
+            -1.6088818557121443,
+            0.0,
+            -2.2204460492503131E-16
+          ],
+          "face_bbox_max": [
+            1.6088818557121447,
+            0.30000000000000004,
+            -2.0719609438386177E-16
+          ],
+          "loops": [
+            {
+              "is_outer": true,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAAAcAAAAGAAAA",
+                "AQQBABAAAAAAAAAAAgAAAAoAAAAGAAAA",
+                "AQQBABAAAAAAAAAAAgAAAAwAAAAGAAAA",
+                "AQQBABAAAAAAAAAAAgAAAA0AAAAGAAAA"
+              ]
+            }
+          ]
+        },
+        "entity_two": {
+          "entity_type": "67119520",
+          "proxy_context_occurrence": "1830099838-M139.ipt:1",
+          "owner_document": "C:\\Users\\hrish\\Downloads\\Assemblies for Training ML model\\Assembly 70\\Workspaces\\1830099838-M1\\1830099838-M139.ipt",
+          "reference_key_string": "AQQFADAAAAAAAAAAAgAAABIAAAADAAAAGgAAAAYAAAAcAAAABgAAAB8AAAAGAAAAIAAAAAYAAAA=",
+          "context_key_string": "nsIrpNQR6AFgAC2z7in7sAQAAB5AAADIMgIotS/9IIFFAwBkBQABAADtN0PA0xEdDmAAALgylIewAAABAQAAsS28CdARH+wACNywOz6oCQIBAACyBAAAAFQAZQBzAHQAGism01ZO+KUw3SG4i5JkLgD/////AAAAAAAABgBICM1Q4SAAYOo/XxjmxA==",
+          "surface_type": "kPlaneSurface",
+          "area_cm2": 145.5757907936686,
+          "face_normal_at_center": [
+            -3.5865265838770046E-15,
+            4.2264021874856266E-19,
+            1.0
+          ],
+          "face_point_at_center": [
+            -3.5527136788005009E-15,
+            22.5,
+            0.29999999999998472
+          ],
+          "face_bbox_min": [
+            -1.6175087865963214,
+            0.0,
+            0.29999999999997762
+          ],
+          "face_bbox_max": [
+            1.6175087865963143,
+            45.0,
+            0.29999999999999183
+          ],
+          "loops": [
+            {
+              "is_outer": true,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAABoAAAAGAAAA",
+                "AQQBABAAAAAAAAAAAgAAABwAAAAGAAAA",
+                "AQQBABAAAAAAAAAAAgAAAB8AAAAGAAAA",
+                "AQQBABAAAAAAAAAAAgAAACAAAAAGAAAA"
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "constraint_name": "Flush:3",
+        "constraint_type": "kFlushConstraint",
+        "suppressed": false,
+        "health_status": "kUpToDateHealth",
+        "node_one_id": "1830099838-M140.ipt:3",
+        "node_two_id": "1830099838-M139.ipt:1",
+        "offset_cm": 0.0,
+        "entity_one": {
+          "entity_type": "67119520",
+          "proxy_context_occurrence": "1830099838-M140.ipt:3",
+          "owner_document": "C:\\Users\\hrish\\Downloads\\Assemblies for Training ML model\\Assembly 70\\Workspaces\\1830099838-M1\\1830099838-M140.ipt",
+          "reference_key_string": "AQQOAHgAAAAAAAAAAgAAAAUAAAADAAAAEAAAAAYAAAAXAAAABgAAABsAAAAGAAAAHgAAAAYAAAAhAAAABgAAACQAAAAGAAAAJgAAAAYAAAAnAAAABgAAAA0AAAAGAAAAKgAAAAYAAAAtAAAABgAAAC8AAAAGAAAAMAAAAAYAAAA=",
+          "context_key_string": "nsIrpNQR6AFgAC2z7in7sAQAAB5AAADIMgIotS/9IIFFAwBkBQABAADtN0PA0xEdDmAAALgylIewAAABAQAAsS28CdARH+wACNywOz6oCQIBAACyBAAAAFQAZQBzAHQA4PV4EotPDufZJJanpQjR6AD/////AAAAAAAABgBICM1Q4SAAYOo/XxjmxA==",
+          "surface_type": "kPlaneSurface",
+          "area_cm2": 75.174997773645245,
+          "face_normal_at_center": [
+            0.0,
+            -1.0,
+            0.0
+          ],
+          "face_point_at_center": [
+            8.8817841970012523E-16,
+            0.0,
+            6.1499999999999995
+          ],
+          "face_bbox_min": [
+            -4.5517373318979892,
+            -5.5511151231257827E-17,
+            -1.0824674490095276E-15
+          ],
+          "face_bbox_max": [
+            4.551737331897991,
+            0.0,
+            12.299999999999999
+          ],
+          "loops": [
+            {
+              "is_outer": false,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAABAAAAAGAAAA"
+              ]
+            },
+            {
+              "is_outer": true,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAABcAAAAGAAAA",
+                "AQQBABAAAAAAAAAAAgAAABsAAAAGAAAA",
+                "AQQBABAAAAAAAAAAAgAAAB4AAAAGAAAA",
+                "AQQBABAAAAAAAAAAAgAAACEAAAAGAAAA",
+                "AQQBABAAAAAAAAAAAgAAACQAAAAGAAAA",
+                "AQQBABAAAAAAAAAAAgAAACYAAAAGAAAA",
+                "AQQBABAAAAAAAAAAAgAAACcAAAAGAAAA",
+                "AQQBABAAAAAAAAAAAgAAAA0AAAAGAAAA",
+                "AQQBABAAAAAAAAAAAgAAACoAAAAGAAAA",
+                "AQQBABAAAAAAAAAAAgAAAC0AAAAGAAAA",
+                "AQQBABAAAAAAAAAAAgAAAC8AAAAGAAAA",
+                "AQQBABAAAAAAAAAAAgAAADAAAAAGAAAA"
+              ]
+            }
+          ]
+        },
+        "entity_two": {
+          "entity_type": "67119520",
+          "proxy_context_occurrence": "1830099838-M139.ipt:1",
+          "owner_document": "C:\\Users\\hrish\\Downloads\\Assemblies for Training ML model\\Assembly 70\\Workspaces\\1830099838-M1\\1830099838-M139.ipt",
+          "reference_key_string": "AQQFADAAAAAAAAAAAgAAACEAAAADAAAAJAAAAAYAAAAnAAAABgAAACkAAAAGAAAAKgAAAAYAAAA=",
+          "context_key_string": "nsIrpNQR6AFgAC2z7in7sAQAAB5AAADIMgIotS/9IIFFAwBkBQABAADtN0PA0xEdDmAAALgylIewAAABAQAAsS28CdARH+wACNywOz6oCQIBAACyBAAAAFQAZQBzAHQAGism01ZO+KUw3SG4i5JkLgD/////AAAAAAAABgBICM1Q4SAAYOo/XxjmxA==",
+          "surface_type": "kPlaneSurface",
+          "area_cm2": 3.6858563713311945,
+          "face_normal_at_center": [
+            0.0,
+            1.0,
+            0.0
+          ],
+          "face_point_at_center": [
+            3.3752085449237326,
+            45.0,
+            6.5034392404225514
+          ],
+          "face_bbox_min": [
+            1.9105207466933787,
+            45.0,
+            0.47125232056339961
+          ],
+          "face_bbox_max": [
+            4.839896343154086,
+            45.0,
+            12.535626160281703
+          ],
+          "loops": [
+            {
+              "is_outer": true,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAACQAAAAGAAAA",
+                "AQQBABAAAAAAAAAAAgAAACcAAAAGAAAA",
+                "AQQBABAAAAAAAAAAAgAAACkAAAAGAAAA",
+                "AQQBABAAAAAAAAAAAgAAACoAAAAGAAAA"
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "constraint_name": "Mate:3",
+        "constraint_type": "kMateConstraint",
+        "suppressed": false,
+        "health_status": "kUpToDateHealth",
+        "node_one_id": "1830099838-M140.ipt:3",
+        "node_two_id": "1830099838-M139.ipt:1",
+        "offset_cm": 0.0,
+        "solution": "kNoSolutionType",
+        "entity_one": {
+          "entity_type": "83887776",
+          "proxy_context_occurrence": "1830099838-M140.ipt:3",
+          "owner_document": "C:\\Users\\hrish\\Downloads\\Assemblies for Training ML model\\Assembly 70\\Workspaces\\1830099838-M1\\1830099838-M140.ipt",
+          "reference_key_string": "EAIAABAAAAAJAAAAAAAAAIAAAAAAAAAA",
+          "context_key_string": "nsIrpNQR6AFgAC2z7in7sAQAAB5AAADIMgIotS/9IIFFAwBkBQABAADtN0PA0xEdDmAAALgylIewAAABAQAAsS28CdARH+wACNywOz6oCQIBAACyBAAAAFQAZQBzAHQA4PV4EotPDufZJJanpQjR6AD/////AAAAAAAABgBICM1Q4SAAYOo/XxjmxA==",
+          "surface_type": "kPlaneSurface",
+          "area_cm2": 0.0001,
+          "face_normal_at_center": [
+            1.0,
+            0.0,
+            0.0
+          ],
+          "face_point_at_center": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "work_feature_name": "YZ Plane"
+        },
+        "entity_two": {
+          "entity_type": "83887776",
+          "proxy_context_occurrence": "1830099838-M139.ipt:1",
+          "owner_document": "C:\\Users\\hrish\\Downloads\\Assemblies for Training ML model\\Assembly 70\\Workspaces\\1830099838-M1\\1830099838-M139.ipt",
+          "reference_key_string": "EAIAABAAAAAJAAAAAAAAAIAAAAAAAAAA",
+          "context_key_string": "nsIrpNQR6AFgAC2z7in7sAQAAB5AAADIMgIotS/9IIFFAwBkBQABAADtN0PA0xEdDmAAALgylIewAAABAQAAsS28CdARH+wACNywOz6oCQIBAACyBAAAAFQAZQBzAHQAGism01ZO+KUw3SG4i5JkLgD/////AAAAAAAABgBICM1Q4SAAYOo/XxjmxA==",
+          "surface_type": "kPlaneSurface",
+          "area_cm2": 0.0001,
+          "face_normal_at_center": [
+            1.0,
+            0.0,
+            0.0
+          ],
+          "face_point_at_center": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "work_feature_name": "YZ Plane"
+        }
+      },
+      {
+        "constraint_name": "Mate:4",
+        "constraint_type": "kMateConstraint",
+        "suppressed": false,
+        "health_status": "kUpToDateHealth",
+        "node_one_id": "1830099838-M141.ipt:4",
+        "node_two_id": "1830099838-M140.ipt:3",
+        "offset_cm": 0.0,
+        "solution": "kNoSolutionType",
+        "entity_one": {
+          "entity_type": "67119520",
+          "proxy_context_occurrence": "1830099838-M141.ipt:4",
+          "owner_document": "C:\\Users\\hrish\\Downloads\\Assemblies for Training ML model\\Assembly 70\\Workspaces\\1830099838-M1\\1830099838-M141.ipt",
+          "reference_key_string": "AQQFADAAAAAAAAAAAgAAAAEAAAADAAAABQAAAAYAAAAIAAAABgAAAAsAAAAGAAAADQAAAAYAAAA=",
+          "context_key_string": "nsIrpNQR6AFgAC2z7in7sAQAAB5AAADIMgIotS/9IIFFAwBkBQABAADtN0PA0xEdDmAAALgylIewAAABAQAAsS28CdARH+wACNywOz6oCQIBAACyBAAAAFQAZQBzAHQAVmdZxXRFd+njIyKHC5Gr3wD/////AAAAAAAABgBICM1Q4SAAYOo/XxjmxA==",
+          "surface_type": "kPlaneSurface",
+          "area_cm2": 1.4999999999999993,
+          "face_normal_at_center": [
+            0.0,
+            0.0,
+            1.0
+          ],
+          "face_point_at_center": [
+            2.6645352591003757E-15,
+            0.15000000000000002,
+            22.199999999999989
+          ],
+          "face_bbox_min": [
+            -2.499999999999996,
+            0.0,
+            22.199999999999989
+          ],
+          "face_bbox_max": [
+            2.5000000000000013,
+            0.30000000000000004,
+            22.199999999999989
+          ],
+          "loops": [
+            {
+              "is_outer": true,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAAAUAAAAGAAAA",
+                "AQQBABAAAAAAAAAAAgAAAAgAAAAGAAAA",
+                "AQQBABAAAAAAAAAAAgAAAAsAAAAGAAAA",
+                "AQQBABAAAAAAAAAAAgAAAA0AAAAGAAAA"
+              ]
+            }
+          ]
+        },
+        "entity_two": {
+          "entity_type": "67119520",
+          "proxy_context_occurrence": "1830099838-M140.ipt:3",
+          "owner_document": "C:\\Users\\hrish\\Downloads\\Assemblies for Training ML model\\Assembly 70\\Workspaces\\1830099838-M1\\1830099838-M140.ipt",
+          "reference_key_string": "AQQOAHgAAAAAAAAAAgAAAAIAAAADAAAAMgAAAAYAAAA2AAAABgAAADgAAAAGAAAAOgAAAAYAAAA8AAAABgAAAD0AAAAGAAAACgAAAAYAAAA/AAAABgAAAEEAAAAGAAAAQwAAAAYAAABFAAAABgAAAEcAAAAGAAAASAAAAAYAAAA=",
+          "context_key_string": "nsIrpNQR6AFgAC2z7in7sAQAAB5AAADIMgIotS/9IIFFAwBkBQABAADtN0PA0xEdDmAAALgylIewAAABAQAAsS28CdARH+wACNywOz6oCQIBAACyBAAAAFQAZQBzAHQA4PV4EotPDufZJJanpQjR6AD/////AAAAAAAABgBICM1Q4SAAYOo/XxjmxA==",
+          "surface_type": "kPlaneSurface",
+          "area_cm2": 75.174997773645245,
+          "face_normal_at_center": [
+            0.0,
+            1.0,
+            0.0
+          ],
+          "face_point_at_center": [
+            8.8817841970012523E-16,
+            0.30000000000000004,
+            6.1499999999999995
+          ],
+          "face_bbox_min": [
+            -4.5517373318979892,
+            0.30000000000000004,
+            -1.0824674490095276E-15
+          ],
+          "face_bbox_max": [
+            4.551737331897991,
+            0.30000000000000071,
+            12.299999999999999
+          ],
+          "loops": [
+            {
+              "is_outer": false,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAADIAAAAGAAAA"
+              ]
+            },
+            {
+              "is_outer": true,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAADYAAAAGAAAA",
+                "AQQBABAAAAAAAAAAAgAAADgAAAAGAAAA",
+                "AQQBABAAAAAAAAAAAgAAADoAAAAGAAAA",
+                "AQQBABAAAAAAAAAAAgAAADwAAAAGAAAA",
+                "AQQBABAAAAAAAAAAAgAAAD0AAAAGAAAA",
+                "AQQBABAAAAAAAAAAAgAAAAoAAAAGAAAA",
+                "AQQBABAAAAAAAAAAAgAAAD8AAAAGAAAA",
+                "AQQBABAAAAAAAAAAAgAAAEEAAAAGAAAA",
+                "AQQBABAAAAAAAAAAAgAAAEMAAAAGAAAA",
+                "AQQBABAAAAAAAAAAAgAAAEUAAAAGAAAA",
+                "AQQBABAAAAAAAAAAAgAAAEcAAAAGAAAA",
+                "AQQBABAAAAAAAAAAAgAAAEgAAAAGAAAA"
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "constraint_name": "Flush:4",
+        "constraint_type": "kFlushConstraint",
+        "suppressed": false,
+        "health_status": "kUpToDateHealth",
+        "node_one_id": "1830099838-M141.ipt:4",
+        "node_two_id": "1830099838-M139.ipt:1",
+        "offset_cm": 9.65,
+        "entity_one": {
+          "entity_type": "67119520",
+          "proxy_context_occurrence": "1830099838-M141.ipt:4",
+          "owner_document": "C:\\Users\\hrish\\Downloads\\Assemblies for Training ML model\\Assembly 70\\Workspaces\\1830099838-M1\\1830099838-M141.ipt",
+          "reference_key_string": "AQQZANAAAAAAAAAAAgAAAAoAAAADAAAAEAAAAAYAAAATAAAABgAAABYAAAAGAAAAGQAAAAYAAAAcAAAABgAAAB8AAAAGAAAAIgAAAAYAAAAlAAAABgAAACgAAAAGAAAAKwAAAAYAAAAuAAAABgAAADEAAAAGAAAANAAAAAYAAAA3AAAABgAAADoAAAAGAAAAPQAAAAYAAABAAAAABgAAAEMAAAAGAAAARgAAAAYAAABJAAAABgAAAEwAAAAGAAAATwAAAAYAAABSAAAABgAAAFUAAAAGAAAA",
+          "context_key_string": "nsIrpNQR6AFgAC2z7in7sAQAAB5AAADIMgIotS/9IIFFAwBkBQABAADtN0PA0xEdDmAAALgylIewAAABAQAAsS28CdARH+wACNywOz6oCQIBAACyBAAAAFQAZQBzAHQAVmdZxXRFd+njIyKHC5Gr3wD/////AAAAAAAABgBICM1Q4SAAYOo/XxjmxA==",
+          "surface_type": "kPlaneSurface",
+          "area_cm2": 97.310187579021076,
+          "face_normal_at_center": [
+            0.0,
+            -1.0,
+            0.0
+          ],
+          "face_point_at_center": [
+            -1.7763568394002505E-15,
+            0.0,
+            -1.5797693174469332E-14
+          ],
+          "face_bbox_min": [
+            -2.5000000000000049,
+            0.0,
+            -22.200000000000017
+          ],
+          "face_bbox_max": [
+            2.5000000000000013,
+            0.0,
+            22.199999999999989
+          ],
+          "loops": [
+            {
+              "is_outer": false,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAABAAAAAGAAAA"
+              ]
+            },
+            {
+              "is_outer": false,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAABMAAAAGAAAA"
+              ]
+            },
+            {
+              "is_outer": false,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAABYAAAAGAAAA"
+              ]
+            },
+            {
+              "is_outer": false,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAABkAAAAGAAAA"
+              ]
+            },
+            {
+              "is_outer": false,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAABwAAAAGAAAA"
+              ]
+            },
+            {
+              "is_outer": false,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAAB8AAAAGAAAA"
+              ]
+            },
+            {
+              "is_outer": false,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAACIAAAAGAAAA"
+              ]
+            },
+            {
+              "is_outer": false,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAACUAAAAGAAAA"
+              ]
+            },
+            {
+              "is_outer": false,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAACgAAAAGAAAA"
+              ]
+            },
+            {
+              "is_outer": false,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAACsAAAAGAAAA"
+              ]
+            },
+            {
+              "is_outer": false,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAAC4AAAAGAAAA"
+              ]
+            },
+            {
+              "is_outer": false,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAADEAAAAGAAAA"
+              ]
+            },
+            {
+              "is_outer": false,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAADQAAAAGAAAA"
+              ]
+            },
+            {
+              "is_outer": false,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAADcAAAAGAAAA"
+              ]
+            },
+            {
+              "is_outer": false,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAADoAAAAGAAAA"
+              ]
+            },
+            {
+              "is_outer": false,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAAD0AAAAGAAAA"
+              ]
+            },
+            {
+              "is_outer": false,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAAEAAAAAGAAAA"
+              ]
+            },
+            {
+              "is_outer": false,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAAEMAAAAGAAAA"
+              ]
+            },
+            {
+              "is_outer": false,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAAEYAAAAGAAAA"
+              ]
+            },
+            {
+              "is_outer": false,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAAEkAAAAGAAAA"
+              ]
+            },
+            {
+              "is_outer": false,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAAEwAAAAGAAAA"
+              ]
+            },
+            {
+              "is_outer": false,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAAE8AAAAGAAAA"
+              ]
+            },
+            {
+              "is_outer": false,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAAFIAAAAGAAAA"
+              ]
+            },
+            {
+              "is_outer": false,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAAFUAAAAGAAAA"
+              ]
+            },
+            {
+              "is_outer": false,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAAFgAAAAGAAAA"
+              ]
+            },
+            {
+              "is_outer": false,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAAFsAAAAGAAAA"
+              ]
+            },
+            {
+              "is_outer": false,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAAF4AAAAGAAAA"
+              ]
+            },
+            {
+              "is_outer": false,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAAGEAAAAGAAAA"
+              ]
+            },
+            {
+              "is_outer": false,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAAGQAAAAGAAAA"
+              ]
+            },
+            {
+              "is_outer": false,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAAGcAAAAGAAAA"
+              ]
+            },
+            {
+              "is_outer": false,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAAGoAAAAGAAAA"
+              ]
+            },
+            {
+              "is_outer": false,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAAG0AAAAGAAAA"
+              ]
+            },
+            {
+              "is_outer": false,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAAHAAAAAGAAAA"
+              ]
+            },
+            {
+              "is_outer": false,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAAHMAAAAGAAAA"
+              ]
+            },
+            {
+              "is_outer": false,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAAHYAAAAGAAAA"
+              ]
+            },
+            {
+              "is_outer": false,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAAHkAAAAGAAAA"
+              ]
+            },
+            {
+              "is_outer": false,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAAHwAAAAGAAAA"
+              ]
+            },
+            {
+              "is_outer": false,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAAH8AAAAGAAAA"
+              ]
+            },
+            {
+              "is_outer": false,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAAIIAAAAGAAAA"
+              ]
+            },
+            {
+              "is_outer": false,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAAIUAAAAGAAAA"
+              ]
+            },
+            {
+              "is_outer": false,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAAIgAAAAGAAAA"
+              ]
+            },
+            {
+              "is_outer": false,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAAIsAAAAGAAAA"
+              ]
+            },
+            {
+              "is_outer": false,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAAI4AAAAGAAAA"
+              ]
+            },
+            {
+              "is_outer": false,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAAJEAAAAGAAAA"
+              ]
+            },
+            {
+              "is_outer": false,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAAJQAAAAGAAAA"
+              ]
+            },
+            {
+              "is_outer": false,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAAJcAAAAGAAAA"
+              ]
+            },
+            {
+              "is_outer": false,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAAJoAAAAGAAAA"
+              ]
+            },
+            {
+              "is_outer": false,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAAJ0AAAAGAAAA"
+              ]
+            },
+            {
+              "is_outer": false,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAAKAAAAAGAAAA"
+              ]
+            },
+            {
+              "is_outer": false,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAAKMAAAAGAAAA"
+              ]
+            },
+            {
+              "is_outer": false,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAAKYAAAAGAAAA"
+              ]
+            },
+            {
+              "is_outer": false,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAAKkAAAAGAAAA"
+              ]
+            },
+            {
+              "is_outer": false,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAAKwAAAAGAAAA"
+              ]
+            },
+            {
+              "is_outer": false,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAAK8AAAAGAAAA"
+              ]
+            },
+            {
+              "is_outer": false,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAALIAAAAGAAAA"
+              ]
+            },
+            {
+              "is_outer": false,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAALUAAAAGAAAA"
+              ]
+            },
+            {
+              "is_outer": false,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAALgAAAAGAAAA"
+              ]
+            },
+            {
+              "is_outer": false,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAALsAAAAGAAAA"
+              ]
+            },
+            {
+              "is_outer": false,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAAL4AAAAGAAAA"
+              ]
+            },
+            {
+              "is_outer": false,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAAMEAAAAGAAAA"
+              ]
+            },
+            {
+              "is_outer": false,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAAMQAAAAGAAAA"
+              ]
+            },
+            {
+              "is_outer": false,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAAMcAAAAGAAAA"
+              ]
+            },
+            {
+              "is_outer": false,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAAMoAAAAGAAAA"
+              ]
+            },
+            {
+              "is_outer": false,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAAM0AAAAGAAAA"
+              ]
+            },
+            {
+              "is_outer": false,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAANAAAAAGAAAA"
+              ]
+            },
+            {
+              "is_outer": false,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAANMAAAAGAAAA"
+              ]
+            },
+            {
+              "is_outer": false,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAANYAAAAGAAAA"
+              ]
+            },
+            {
+              "is_outer": false,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAANkAAAAGAAAA"
+              ]
+            },
+            {
+              "is_outer": false,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAANwAAAAGAAAA"
+              ]
+            },
+            {
+              "is_outer": false,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAAN8AAAAGAAAA"
+              ]
+            },
+            {
+              "is_outer": false,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAAOIAAAAGAAAA"
+              ]
+            },
+            {
+              "is_outer": false,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAAOUAAAAGAAAA"
+              ]
+            },
+            {
+              "is_outer": false,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAAOgAAAAGAAAA"
+              ]
+            },
+            {
+              "is_outer": false,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAAOsAAAAGAAAA"
+              ]
+            },
+            {
+              "is_outer": false,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAAO4AAAAGAAAA"
+              ]
+            },
+            {
+              "is_outer": false,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAAPEAAAAGAAAA"
+              ]
+            },
+            {
+              "is_outer": false,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAAPQAAAAGAAAA"
+              ]
+            },
+            {
+              "is_outer": false,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAAPcAAAAGAAAA"
+              ]
+            },
+            {
+              "is_outer": false,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAAPoAAAAGAAAA"
+              ]
+            },
+            {
+              "is_outer": false,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAAP0AAAAGAAAA"
+              ]
+            },
+            {
+              "is_outer": false,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAAAABAAAGAAAA"
+              ]
+            },
+            {
+              "is_outer": false,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAAAMBAAAGAAAA"
+              ]
+            },
+            {
+              "is_outer": false,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAAAYBAAAGAAAA"
+              ]
+            },
+            {
+              "is_outer": false,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAAAkBAAAGAAAA"
+              ]
+            },
+            {
+              "is_outer": false,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAAAwBAAAGAAAA"
+              ]
+            },
+            {
+              "is_outer": false,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAAA8BAAAGAAAA"
+              ]
+            },
+            {
+              "is_outer": false,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAABIBAAAGAAAA"
+              ]
+            },
+            {
+              "is_outer": false,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAABUBAAAGAAAA"
+              ]
+            },
+            {
+              "is_outer": false,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAABgBAAAGAAAA"
+              ]
+            },
+            {
+              "is_outer": false,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAABsBAAAGAAAA"
+              ]
+            },
+            {
+              "is_outer": false,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAAB4BAAAGAAAA"
+              ]
+            },
+            {
+              "is_outer": false,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAACEBAAAGAAAA"
+              ]
+            },
+            {
+              "is_outer": false,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAACQBAAAGAAAA"
+              ]
+            },
+            {
+              "is_outer": false,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAACcBAAAGAAAA"
+              ]
+            },
+            {
+              "is_outer": false,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAACoBAAAGAAAA"
+              ]
+            },
+            {
+              "is_outer": false,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAAC0BAAAGAAAA"
+              ]
+            },
+            {
+              "is_outer": false,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAADABAAAGAAAA"
+              ]
+            },
+            {
+              "is_outer": false,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAADMBAAAGAAAA"
+              ]
+            },
+            {
+              "is_outer": false,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAADYBAAAGAAAA"
+              ]
+            },
+            {
+              "is_outer": false,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAADkBAAAGAAAA"
+              ]
+            },
+            {
+              "is_outer": false,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAADwBAAAGAAAA"
+              ]
+            },
+            {
+              "is_outer": false,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAAD8BAAAGAAAA"
+              ]
+            },
+            {
+              "is_outer": false,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAAEIBAAAGAAAA"
+              ]
+            },
+            {
+              "is_outer": false,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAAEUBAAAGAAAA"
+              ]
+            },
+            {
+              "is_outer": false,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAAEgBAAAGAAAA"
+              ]
+            },
+            {
+              "is_outer": false,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAAEsBAAAGAAAA"
+              ]
+            },
+            {
+              "is_outer": false,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAAE4BAAAGAAAA"
+              ]
+            },
+            {
+              "is_outer": false,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAAFEBAAAGAAAA"
+              ]
+            },
+            {
+              "is_outer": false,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAAFQBAAAGAAAA"
+              ]
+            },
+            {
+              "is_outer": false,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAAFcBAAAGAAAA"
+              ]
+            },
+            {
+              "is_outer": false,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAAFoBAAAGAAAA"
+              ]
+            },
+            {
+              "is_outer": false,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAAF0BAAAGAAAA"
+              ]
+            },
+            {
+              "is_outer": false,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAAGABAAAGAAAA"
+              ]
+            },
+            {
+              "is_outer": false,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAAGMBAAAGAAAA"
+              ]
+            },
+            {
+              "is_outer": false,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAAGYBAAAGAAAA"
+              ]
+            },
+            {
+              "is_outer": false,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAAGkBAAAGAAAA"
+              ]
+            },
+            {
+              "is_outer": false,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAAGwBAAAGAAAA"
+              ]
+            },
+            {
+              "is_outer": false,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAAG8BAAAGAAAA"
+              ]
+            },
+            {
+              "is_outer": false,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAAHIBAAAGAAAA"
+              ]
+            },
+            {
+              "is_outer": false,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAAHUBAAAGAAAA"
+              ]
+            },
+            {
+              "is_outer": false,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAAHgBAAAGAAAA"
+              ]
+            },
+            {
+              "is_outer": false,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAAHsBAAAGAAAA"
+              ]
+            },
+            {
+              "is_outer": false,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAAH4BAAAGAAAA"
+              ]
+            },
+            {
+              "is_outer": false,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAAIEBAAAGAAAA"
+              ]
+            },
+            {
+              "is_outer": false,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAAIQBAAAGAAAA"
+              ]
+            },
+            {
+              "is_outer": false,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAAIcBAAAGAAAA"
+              ]
+            },
+            {
+              "is_outer": false,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAAIoBAAAGAAAA"
+              ]
+            },
+            {
+              "is_outer": false,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAAI0BAAAGAAAA"
+              ]
+            },
+            {
+              "is_outer": false,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAAJABAAAGAAAA"
+              ]
+            },
+            {
+              "is_outer": false,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAAJMBAAAGAAAA"
+              ]
+            },
+            {
+              "is_outer": false,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAAJYBAAAGAAAA"
+              ]
+            },
+            {
+              "is_outer": false,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAAJkBAAAGAAAA"
+              ]
+            },
+            {
+              "is_outer": false,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAAJwBAAAGAAAA"
+              ]
+            },
+            {
+              "is_outer": false,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAAJ8BAAAGAAAA"
+              ]
+            },
+            {
+              "is_outer": false,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAAKIBAAAGAAAA"
+              ]
+            },
+            {
+              "is_outer": false,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAAKUBAAAGAAAA"
+              ]
+            },
+            {
+              "is_outer": false,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAAKgBAAAGAAAA"
+              ]
+            },
+            {
+              "is_outer": false,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAAKsBAAAGAAAA"
+              ]
+            },
+            {
+              "is_outer": false,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAAK4BAAAGAAAA"
+              ]
+            },
+            {
+              "is_outer": false,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAALEBAAAGAAAA"
+              ]
+            },
+            {
+              "is_outer": false,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAALQBAAAGAAAA"
+              ]
+            },
+            {
+              "is_outer": false,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAALcBAAAGAAAA"
+              ]
+            },
+            {
+              "is_outer": false,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAALoBAAAGAAAA"
+              ]
+            },
+            {
+              "is_outer": false,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAAL0BAAAGAAAA"
+              ]
+            },
+            {
+              "is_outer": false,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAAMABAAAGAAAA"
+              ]
+            },
+            {
+              "is_outer": false,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAAMMBAAAGAAAA"
+              ]
+            },
+            {
+              "is_outer": false,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAAMYBAAAGAAAA"
+              ]
+            },
+            {
+              "is_outer": false,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAAMkBAAAGAAAA"
+              ]
+            },
+            {
+              "is_outer": false,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAAMwBAAAGAAAA"
+              ]
+            },
+            {
+              "is_outer": false,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAAM8BAAAGAAAA"
+              ]
+            },
+            {
+              "is_outer": false,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAANIBAAAGAAAA"
+              ]
+            },
+            {
+              "is_outer": false,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAANUBAAAGAAAA"
+              ]
+            },
+            {
+              "is_outer": false,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAANgBAAAGAAAA"
+              ]
+            },
+            {
+              "is_outer": false,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAANsBAAAGAAAA"
+              ]
+            },
+            {
+              "is_outer": false,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAAN4BAAAGAAAA"
+              ]
+            },
+            {
+              "is_outer": false,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAAOEBAAAGAAAA"
+              ]
+            },
+            {
+              "is_outer": false,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAAOQBAAAGAAAA"
+              ]
+            },
+            {
+              "is_outer": false,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAAOcBAAAGAAAA"
+              ]
+            },
+            {
+              "is_outer": false,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAAOoBAAAGAAAA"
+              ]
+            },
+            {
+              "is_outer": false,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAAO0BAAAGAAAA"
+              ]
+            },
+            {
+              "is_outer": false,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAAPABAAAGAAAA"
+              ]
+            },
+            {
+              "is_outer": false,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAAPMBAAAGAAAA"
+              ]
+            },
+            {
+              "is_outer": false,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAAPYBAAAGAAAA"
+              ]
+            },
+            {
+              "is_outer": false,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAAPkBAAAGAAAA"
+              ]
+            },
+            {
+              "is_outer": false,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAAPwBAAAGAAAA"
+              ]
+            },
+            {
+              "is_outer": false,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAAP8BAAAGAAAA"
+              ]
+            },
+            {
+              "is_outer": false,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAAAICAAAGAAAA"
+              ]
+            },
+            {
+              "is_outer": false,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAAAUCAAAGAAAA"
+              ]
+            },
+            {
+              "is_outer": false,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAAAgCAAAGAAAA"
+              ]
+            },
+            {
+              "is_outer": false,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAAAsCAAAGAAAA"
+              ]
+            },
+            {
+              "is_outer": false,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAAA4CAAAGAAAA"
+              ]
+            },
+            {
+              "is_outer": false,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAABECAAAGAAAA"
+              ]
+            },
+            {
+              "is_outer": false,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAABQCAAAGAAAA"
+              ]
+            },
+            {
+              "is_outer": false,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAABcCAAAGAAAA"
+              ]
+            },
+            {
+              "is_outer": false,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAABoCAAAGAAAA"
+              ]
+            },
+            {
+              "is_outer": false,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAAB0CAAAGAAAA"
+              ]
+            },
+            {
+              "is_outer": false,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAACACAAAGAAAA"
+              ]
+            },
+            {
+              "is_outer": false,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAACMCAAAGAAAA"
+              ]
+            },
+            {
+              "is_outer": false,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAACYCAAAGAAAA"
+              ]
+            },
+            {
+              "is_outer": false,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAACkCAAAGAAAA"
+              ]
+            },
+            {
+              "is_outer": false,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAACwCAAAGAAAA"
+              ]
+            },
+            {
+              "is_outer": false,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAAC8CAAAGAAAA"
+              ]
+            },
+            {
+              "is_outer": false,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAADICAAAGAAAA"
+              ]
+            },
+            {
+              "is_outer": false,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAADUCAAAGAAAA"
+              ]
+            },
+            {
+              "is_outer": false,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAADgCAAAGAAAA"
+              ]
+            },
+            {
+              "is_outer": false,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAADsCAAAGAAAA"
+              ]
+            },
+            {
+              "is_outer": false,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAAD4CAAAGAAAA"
+              ]
+            },
+            {
+              "is_outer": false,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAAEECAAAGAAAA"
+              ]
+            },
+            {
+              "is_outer": false,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAAEQCAAAGAAAA"
+              ]
+            },
+            {
+              "is_outer": false,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAAEcCAAAGAAAA"
+              ]
+            },
+            {
+              "is_outer": false,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAAEoCAAAGAAAA"
+              ]
+            },
+            {
+              "is_outer": false,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAAE0CAAAGAAAA"
+              ]
+            },
+            {
+              "is_outer": false,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAAFACAAAGAAAA"
+              ]
+            },
+            {
+              "is_outer": false,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAAFMCAAAGAAAA"
+              ]
+            },
+            {
+              "is_outer": false,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAAFYCAAAGAAAA"
+              ]
+            },
+            {
+              "is_outer": false,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAAFkCAAAGAAAA"
+              ]
+            },
+            {
+              "is_outer": false,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAAFwCAAAGAAAA"
+              ]
+            },
+            {
+              "is_outer": false,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAAF8CAAAGAAAA"
+              ]
+            },
+            {
+              "is_outer": false,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAAGICAAAGAAAA"
+              ]
+            },
+            {
+              "is_outer": false,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAAGUCAAAGAAAA"
+              ]
+            },
+            {
+              "is_outer": false,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAAGgCAAAGAAAA"
+              ]
+            },
+            {
+              "is_outer": false,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAAGsCAAAGAAAA"
+              ]
+            },
+            {
+              "is_outer": false,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAAG4CAAAGAAAA"
+              ]
+            },
+            {
+              "is_outer": false,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAAHECAAAGAAAA"
+              ]
+            },
+            {
+              "is_outer": false,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAAHQCAAAGAAAA"
+              ]
+            },
+            {
+              "is_outer": false,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAAHcCAAAGAAAA"
+              ]
+            },
+            {
+              "is_outer": false,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAAHoCAAAGAAAA"
+              ]
+            },
+            {
+              "is_outer": false,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAAH0CAAAGAAAA"
+              ]
+            },
+            {
+              "is_outer": false,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAAIACAAAGAAAA"
+              ]
+            },
+            {
+              "is_outer": false,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAAIMCAAAGAAAA"
+              ]
+            },
+            {
+              "is_outer": false,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAAIYCAAAGAAAA"
+              ]
+            },
+            {
+              "is_outer": false,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAAIkCAAAGAAAA"
+              ]
+            },
+            {
+              "is_outer": false,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAAIwCAAAGAAAA"
+              ]
+            },
+            {
+              "is_outer": false,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAAI8CAAAGAAAA"
+              ]
+            },
+            {
+              "is_outer": false,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAAJICAAAGAAAA"
+              ]
+            },
+            {
+              "is_outer": false,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAAJUCAAAGAAAA"
+              ]
+            },
+            {
+              "is_outer": false,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAAJgCAAAGAAAA"
+              ]
+            },
+            {
+              "is_outer": false,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAAJsCAAAGAAAA"
+              ]
+            },
+            {
+              "is_outer": false,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAAJ4CAAAGAAAA"
+              ]
+            },
+            {
+              "is_outer": false,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAAKECAAAGAAAA"
+              ]
+            },
+            {
+              "is_outer": false,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAAKQCAAAGAAAA"
+              ]
+            },
+            {
+              "is_outer": false,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAAKcCAAAGAAAA"
+              ]
+            },
+            {
+              "is_outer": false,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAAKoCAAAGAAAA"
+              ]
+            },
+            {
+              "is_outer": false,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAAK0CAAAGAAAA"
+              ]
+            },
+            {
+              "is_outer": false,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAALACAAAGAAAA"
+              ]
+            },
+            {
+              "is_outer": false,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAALMCAAAGAAAA"
+              ]
+            },
+            {
+              "is_outer": false,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAALYCAAAGAAAA"
+              ]
+            },
+            {
+              "is_outer": false,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAALkCAAAGAAAA"
+              ]
+            },
+            {
+              "is_outer": false,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAALwCAAAGAAAA"
+              ]
+            },
+            {
+              "is_outer": false,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAAL8CAAAGAAAA"
+              ]
+            },
+            {
+              "is_outer": false,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAAMICAAAGAAAA"
+              ]
+            },
+            {
+              "is_outer": false,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAAMUCAAAGAAAA"
+              ]
+            },
+            {
+              "is_outer": false,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAAMgCAAAGAAAA"
+              ]
+            },
+            {
+              "is_outer": false,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAAMsCAAAGAAAA"
+              ]
+            },
+            {
+              "is_outer": false,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAAM4CAAAGAAAA"
+              ]
+            },
+            {
+              "is_outer": false,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAANECAAAGAAAA"
+              ]
+            },
+            {
+              "is_outer": false,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAANQCAAAGAAAA"
+              ]
+            },
+            {
+              "is_outer": false,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAANcCAAAGAAAA"
+              ]
+            },
+            {
+              "is_outer": false,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAANoCAAAGAAAA"
+              ]
+            },
+            {
+              "is_outer": false,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAAN0CAAAGAAAA"
+              ]
+            },
+            {
+              "is_outer": false,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAAOACAAAGAAAA"
+              ]
+            },
+            {
+              "is_outer": false,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAAOMCAAAGAAAA"
+              ]
+            },
+            {
+              "is_outer": false,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAAOYCAAAGAAAA"
+              ]
+            },
+            {
+              "is_outer": false,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAAOkCAAAGAAAA"
+              ]
+            },
+            {
+              "is_outer": false,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAAOwCAAAGAAAA"
+              ]
+            },
+            {
+              "is_outer": false,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAAO8CAAAGAAAA"
+              ]
+            },
+            {
+              "is_outer": false,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAAPICAAAGAAAA"
+              ]
+            },
+            {
+              "is_outer": false,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAAPUCAAAGAAAA"
+              ]
+            },
+            {
+              "is_outer": false,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAAPgCAAAGAAAA"
+              ]
+            },
+            {
+              "is_outer": false,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAAPsCAAAGAAAA"
+              ]
+            },
+            {
+              "is_outer": false,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAAP4CAAAGAAAA"
+              ]
+            },
+            {
+              "is_outer": false,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAAAEDAAAGAAAA"
+              ]
+            },
+            {
+              "is_outer": false,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAAAQDAAAGAAAA"
+              ]
+            },
+            {
+              "is_outer": false,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAAAcDAAAGAAAA"
+              ]
+            },
+            {
+              "is_outer": false,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAAAoDAAAGAAAA"
+              ]
+            },
+            {
+              "is_outer": false,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAAA0DAAAGAAAA"
+              ]
+            },
+            {
+              "is_outer": false,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAABADAAAGAAAA"
+              ]
+            },
+            {
+              "is_outer": false,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAABMDAAAGAAAA"
+              ]
+            },
+            {
+              "is_outer": false,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAABYDAAAGAAAA"
+              ]
+            },
+            {
+              "is_outer": false,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAABkDAAAGAAAA"
+              ]
+            },
+            {
+              "is_outer": false,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAABwDAAAGAAAA"
+              ]
+            },
+            {
+              "is_outer": false,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAAB8DAAAGAAAA"
+              ]
+            },
+            {
+              "is_outer": false,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAACIDAAAGAAAA"
+              ]
+            },
+            {
+              "is_outer": false,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAACUDAAAGAAAA"
+              ]
+            },
+            {
+              "is_outer": false,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAACgDAAAGAAAA"
+              ]
+            },
+            {
+              "is_outer": false,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAACsDAAAGAAAA"
+              ]
+            },
+            {
+              "is_outer": false,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAAC4DAAAGAAAA"
+              ]
+            },
+            {
+              "is_outer": false,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAADEDAAAGAAAA"
+              ]
+            },
+            {
+              "is_outer": false,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAADQDAAAGAAAA"
+              ]
+            },
+            {
+              "is_outer": false,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAADcDAAAGAAAA"
+              ]
+            },
+            {
+              "is_outer": false,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAADoDAAAGAAAA"
+              ]
+            },
+            {
+              "is_outer": false,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAAD0DAAAGAAAA"
+              ]
+            },
+            {
+              "is_outer": false,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAAEADAAAGAAAA"
+              ]
+            },
+            {
+              "is_outer": false,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAAEMDAAAGAAAA"
+              ]
+            },
+            {
+              "is_outer": false,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAAEYDAAAGAAAA"
+              ]
+            },
+            {
+              "is_outer": false,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAAEkDAAAGAAAA"
+              ]
+            },
+            {
+              "is_outer": false,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAAEwDAAAGAAAA"
+              ]
+            },
+            {
+              "is_outer": false,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAAE8DAAAGAAAA"
+              ]
+            },
+            {
+              "is_outer": false,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAAFIDAAAGAAAA"
+              ]
+            },
+            {
+              "is_outer": false,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAAFUDAAAGAAAA"
+              ]
+            },
+            {
+              "is_outer": false,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAAFgDAAAGAAAA"
+              ]
+            },
+            {
+              "is_outer": false,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAAFsDAAAGAAAA"
+              ]
+            },
+            {
+              "is_outer": false,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAAF4DAAAGAAAA"
+              ]
+            },
+            {
+              "is_outer": false,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAAGEDAAAGAAAA"
+              ]
+            },
+            {
+              "is_outer": false,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAAGQDAAAGAAAA"
+              ]
+            },
+            {
+              "is_outer": false,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAAGcDAAAGAAAA"
+              ]
+            },
+            {
+              "is_outer": false,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAAGoDAAAGAAAA"
+              ]
+            },
+            {
+              "is_outer": false,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAAG0DAAAGAAAA"
+              ]
+            },
+            {
+              "is_outer": false,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAAHADAAAGAAAA"
+              ]
+            },
+            {
+              "is_outer": false,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAAHMDAAAGAAAA"
+              ]
+            },
+            {
+              "is_outer": false,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAAHYDAAAGAAAA"
+              ]
+            },
+            {
+              "is_outer": false,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAAHkDAAAGAAAA"
+              ]
+            },
+            {
+              "is_outer": false,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAAHwDAAAGAAAA"
+              ]
+            },
+            {
+              "is_outer": false,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAAH8DAAAGAAAA"
+              ]
+            },
+            {
+              "is_outer": false,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAAIIDAAAGAAAA"
+              ]
+            },
+            {
+              "is_outer": false,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAAIUDAAAGAAAA"
+              ]
+            },
+            {
+              "is_outer": false,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAAIgDAAAGAAAA"
+              ]
+            },
+            {
+              "is_outer": false,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAAIsDAAAGAAAA"
+              ]
+            },
+            {
+              "is_outer": false,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAAI4DAAAGAAAA"
+              ]
+            },
+            {
+              "is_outer": false,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAAJEDAAAGAAAA"
+              ]
+            },
+            {
+              "is_outer": false,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAAJQDAAAGAAAA"
+              ]
+            },
+            {
+              "is_outer": false,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAAJcDAAAGAAAA"
+              ]
+            },
+            {
+              "is_outer": false,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAAJoDAAAGAAAA"
+              ]
+            },
+            {
+              "is_outer": false,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAAJ0DAAAGAAAA"
+              ]
+            },
+            {
+              "is_outer": false,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAAKADAAAGAAAA"
+              ]
+            },
+            {
+              "is_outer": false,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAAKMDAAAGAAAA"
+              ]
+            },
+            {
+              "is_outer": false,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAAKYDAAAGAAAA"
+              ]
+            },
+            {
+              "is_outer": false,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAAKkDAAAGAAAA"
+              ]
+            },
+            {
+              "is_outer": false,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAAKwDAAAGAAAA"
+              ]
+            },
+            {
+              "is_outer": false,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAAK8DAAAGAAAA"
+              ]
+            },
+            {
+              "is_outer": false,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAALIDAAAGAAAA"
+              ]
+            },
+            {
+              "is_outer": false,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAALUDAAAGAAAA"
+              ]
+            },
+            {
+              "is_outer": false,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAALgDAAAGAAAA"
+              ]
+            },
+            {
+              "is_outer": false,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAALsDAAAGAAAA"
+              ]
+            },
+            {
+              "is_outer": false,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAAL4DAAAGAAAA"
+              ]
+            },
+            {
+              "is_outer": false,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAAMEDAAAGAAAA"
+              ]
+            },
+            {
+              "is_outer": false,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAAMQDAAAGAAAA"
+              ]
+            },
+            {
+              "is_outer": false,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAAMcDAAAGAAAA"
+              ]
+            },
+            {
+              "is_outer": false,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAAMoDAAAGAAAA"
+              ]
+            },
+            {
+              "is_outer": false,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAAM0DAAAGAAAA"
+              ]
+            },
+            {
+              "is_outer": false,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAANADAAAGAAAA"
+              ]
+            },
+            {
+              "is_outer": false,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAANMDAAAGAAAA"
+              ]
+            },
+            {
+              "is_outer": false,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAANYDAAAGAAAA"
+              ]
+            },
+            {
+              "is_outer": false,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAANkDAAAGAAAA"
+              ]
+            },
+            {
+              "is_outer": false,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAANwDAAAGAAAA"
+              ]
+            },
+            {
+              "is_outer": false,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAAN8DAAAGAAAA"
+              ]
+            },
+            {
+              "is_outer": false,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAAOIDAAAGAAAA"
+              ]
+            },
+            {
+              "is_outer": false,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAAOUDAAAGAAAA"
+              ]
+            },
+            {
+              "is_outer": false,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAAOgDAAAGAAAA"
+              ]
+            },
+            {
+              "is_outer": false,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAAOsDAAAGAAAA"
+              ]
+            },
+            {
+              "is_outer": false,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAAO4DAAAGAAAA"
+              ]
+            },
+            {
+              "is_outer": false,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAAPEDAAAGAAAA"
+              ]
+            },
+            {
+              "is_outer": false,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAAPQDAAAGAAAA"
+              ]
+            },
+            {
+              "is_outer": false,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAAPcDAAAGAAAA"
+              ]
+            },
+            {
+              "is_outer": false,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAAPoDAAAGAAAA"
+              ]
+            },
+            {
+              "is_outer": false,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAAP0DAAAGAAAA"
+              ]
+            },
+            {
+              "is_outer": false,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAAAAEAAAGAAAA"
+              ]
+            },
+            {
+              "is_outer": false,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAAAMEAAAGAAAA"
+              ]
+            },
+            {
+              "is_outer": false,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAAAYEAAAGAAAA"
+              ]
+            },
+            {
+              "is_outer": false,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAAAkEAAAGAAAA"
+              ]
+            },
+            {
+              "is_outer": false,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAAAwEAAAGAAAA"
+              ]
+            },
+            {
+              "is_outer": false,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAAA8EAAAGAAAA"
+              ]
+            },
+            {
+              "is_outer": false,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAABIEAAAGAAAA"
+              ]
+            },
+            {
+              "is_outer": false,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAABUEAAAGAAAA"
+              ]
+            },
+            {
+              "is_outer": false,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAABgEAAAGAAAA"
+              ]
+            },
+            {
+              "is_outer": false,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAABsEAAAGAAAA"
+              ]
+            },
+            {
+              "is_outer": false,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAAB4EAAAGAAAA"
+              ]
+            },
+            {
+              "is_outer": false,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAACEEAAAGAAAA"
+              ]
+            },
+            {
+              "is_outer": false,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAACQEAAAGAAAA"
+              ]
+            },
+            {
+              "is_outer": false,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAACcEAAAGAAAA"
+              ]
+            },
+            {
+              "is_outer": false,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAACoEAAAGAAAA"
+              ]
+            },
+            {
+              "is_outer": false,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAAC0EAAAGAAAA"
+              ]
+            },
+            {
+              "is_outer": false,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAADAEAAAGAAAA"
+              ]
+            },
+            {
+              "is_outer": false,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAADMEAAAGAAAA"
+              ]
+            },
+            {
+              "is_outer": false,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAADYEAAAGAAAA"
+              ]
+            },
+            {
+              "is_outer": false,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAADkEAAAGAAAA"
+              ]
+            },
+            {
+              "is_outer": false,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAADwEAAAGAAAA"
+              ]
+            },
+            {
+              "is_outer": false,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAAD8EAAAGAAAA"
+              ]
+            },
+            {
+              "is_outer": false,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAAEIEAAAGAAAA"
+              ]
+            },
+            {
+              "is_outer": false,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAAEUEAAAGAAAA"
+              ]
+            },
+            {
+              "is_outer": false,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAAEgEAAAGAAAA"
+              ]
+            },
+            {
+              "is_outer": false,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAAEsEAAAGAAAA"
+              ]
+            },
+            {
+              "is_outer": false,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAAE4EAAAGAAAA"
+              ]
+            },
+            {
+              "is_outer": false,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAAFEEAAAGAAAA"
+              ]
+            },
+            {
+              "is_outer": false,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAAFQEAAAGAAAA"
+              ]
+            },
+            {
+              "is_outer": false,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAAFcEAAAGAAAA"
+              ]
+            },
+            {
+              "is_outer": false,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAAFoEAAAGAAAA"
+              ]
+            },
+            {
+              "is_outer": false,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAAF0EAAAGAAAA"
+              ]
+            },
+            {
+              "is_outer": false,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAAGAEAAAGAAAA"
+              ]
+            },
+            {
+              "is_outer": false,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAAGMEAAAGAAAA"
+              ]
+            },
+            {
+              "is_outer": false,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAAGYEAAAGAAAA"
+              ]
+            },
+            {
+              "is_outer": false,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAAGkEAAAGAAAA"
+              ]
+            },
+            {
+              "is_outer": false,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAAGwEAAAGAAAA"
+              ]
+            },
+            {
+              "is_outer": false,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAAG8EAAAGAAAA"
+              ]
+            },
+            {
+              "is_outer": false,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAAHIEAAAGAAAA"
+              ]
+            },
+            {
+              "is_outer": false,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAAHUEAAAGAAAA"
+              ]
+            },
+            {
+              "is_outer": false,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAAHgEAAAGAAAA"
+              ]
+            },
+            {
+              "is_outer": false,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAAHsEAAAGAAAA"
+              ]
+            },
+            {
+              "is_outer": false,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAAH4EAAAGAAAA"
+              ]
+            },
+            {
+              "is_outer": false,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAAIEEAAAGAAAA"
+              ]
+            },
+            {
+              "is_outer": false,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAAIQEAAAGAAAA"
+              ]
+            },
+            {
+              "is_outer": false,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAAIcEAAAGAAAA"
+              ]
+            },
+            {
+              "is_outer": false,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAAIoEAAAGAAAA"
+              ]
+            },
+            {
+              "is_outer": false,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAAI0EAAAGAAAA"
+              ]
+            },
+            {
+              "is_outer": false,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAAJAEAAAGAAAA"
+              ]
+            },
+            {
+              "is_outer": false,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAAJMEAAAGAAAA"
+              ]
+            },
+            {
+              "is_outer": false,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAAJYEAAAGAAAA"
+              ]
+            },
+            {
+              "is_outer": false,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAAJkEAAAGAAAA"
+              ]
+            },
+            {
+              "is_outer": false,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAAJwEAAAGAAAA"
+              ]
+            },
+            {
+              "is_outer": false,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAAJ8EAAAGAAAA"
+              ]
+            },
+            {
+              "is_outer": false,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAAKIEAAAGAAAA"
+              ]
+            },
+            {
+              "is_outer": false,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAAKUEAAAGAAAA"
+              ]
+            },
+            {
+              "is_outer": false,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAAKgEAAAGAAAA"
+              ]
+            },
+            {
+              "is_outer": false,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAAKsEAAAGAAAA"
+              ]
+            },
+            {
+              "is_outer": false,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAAK4EAAAGAAAA"
+              ]
+            },
+            {
+              "is_outer": false,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAALEEAAAGAAAA"
+              ]
+            },
+            {
+              "is_outer": false,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAALQEAAAGAAAA"
+              ]
+            },
+            {
+              "is_outer": false,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAALcEAAAGAAAA"
+              ]
+            },
+            {
+              "is_outer": false,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAALoEAAAGAAAA"
+              ]
+            },
+            {
+              "is_outer": false,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAAL0EAAAGAAAA"
+              ]
+            },
+            {
+              "is_outer": false,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAAMAEAAAGAAAA"
+              ]
+            },
+            {
+              "is_outer": false,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAAMMEAAAGAAAA"
+              ]
+            },
+            {
+              "is_outer": false,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAAMYEAAAGAAAA"
+              ]
+            },
+            {
+              "is_outer": false,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAAMkEAAAGAAAA"
+              ]
+            },
+            {
+              "is_outer": false,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAAMwEAAAGAAAA"
+              ]
+            },
+            {
+              "is_outer": false,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAAM8EAAAGAAAA"
+              ]
+            },
+            {
+              "is_outer": false,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAANIEAAAGAAAA"
+              ]
+            },
+            {
+              "is_outer": false,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAANUEAAAGAAAA"
+              ]
+            },
+            {
+              "is_outer": false,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAANgEAAAGAAAA"
+              ]
+            },
+            {
+              "is_outer": false,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAANsEAAAGAAAA"
+              ]
+            },
+            {
+              "is_outer": false,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAAN4EAAAGAAAA"
+              ]
+            },
+            {
+              "is_outer": false,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAAOEEAAAGAAAA"
+              ]
+            },
+            {
+              "is_outer": false,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAAOQEAAAGAAAA"
+              ]
+            },
+            {
+              "is_outer": false,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAAOcEAAAGAAAA"
+              ]
+            },
+            {
+              "is_outer": false,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAAOoEAAAGAAAA"
+              ]
+            },
+            {
+              "is_outer": false,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAAO0EAAAGAAAA"
+              ]
+            },
+            {
+              "is_outer": false,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAAPAEAAAGAAAA"
+              ]
+            },
+            {
+              "is_outer": false,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAAPMEAAAGAAAA"
+              ]
+            },
+            {
+              "is_outer": false,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAAPYEAAAGAAAA"
+              ]
+            },
+            {
+              "is_outer": false,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAAPkEAAAGAAAA"
+              ]
+            },
+            {
+              "is_outer": false,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAAPwEAAAGAAAA"
+              ]
+            },
+            {
+              "is_outer": false,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAAP8EAAAGAAAA"
+              ]
+            },
+            {
+              "is_outer": false,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAAAIFAAAGAAAA"
+              ]
+            },
+            {
+              "is_outer": false,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAAAUFAAAGAAAA"
+              ]
+            },
+            {
+              "is_outer": false,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAAAgFAAAGAAAA"
+              ]
+            },
+            {
+              "is_outer": false,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAAAsFAAAGAAAA"
+              ]
+            },
+            {
+              "is_outer": false,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAAA4FAAAGAAAA"
+              ]
+            },
+            {
+              "is_outer": false,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAABEFAAAGAAAA"
+              ]
+            },
+            {
+              "is_outer": false,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAABQFAAAGAAAA"
+              ]
+            },
+            {
+              "is_outer": false,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAABcFAAAGAAAA"
+              ]
+            },
+            {
+              "is_outer": false,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAABoFAAAGAAAA"
+              ]
+            },
+            {
+              "is_outer": false,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAAB0FAAAGAAAA"
+              ]
+            },
+            {
+              "is_outer": false,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAACAFAAAGAAAA"
+              ]
+            },
+            {
+              "is_outer": false,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAACMFAAAGAAAA"
+              ]
+            },
+            {
+              "is_outer": false,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAACYFAAAGAAAA"
+              ]
+            },
+            {
+              "is_outer": false,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAACkFAAAGAAAA"
+              ]
+            },
+            {
+              "is_outer": false,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAACwFAAAGAAAA"
+              ]
+            },
+            {
+              "is_outer": false,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAAC8FAAAGAAAA"
+              ]
+            },
+            {
+              "is_outer": false,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAADIFAAAGAAAA"
+              ]
+            },
+            {
+              "is_outer": false,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAADUFAAAGAAAA"
+              ]
+            },
+            {
+              "is_outer": false,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAADgFAAAGAAAA"
+              ]
+            },
+            {
+              "is_outer": true,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAAAsAAAAGAAAA",
+                "AQQBABAAAAAAAAAAAgAAADoFAAAGAAAA",
+                "AQQBABAAAAAAAAAAAgAAAD0FAAAGAAAA",
+                "AQQBABAAAAAAAAAAAgAAAD4FAAAGAAAA"
+              ]
+            }
+          ]
+        },
+        "entity_two": {
+          "entity_type": "67119520",
+          "proxy_context_occurrence": "1830099838-M139.ipt:1",
+          "owner_document": "C:\\Users\\hrish\\Downloads\\Assemblies for Training ML model\\Assembly 70\\Workspaces\\1830099838-M1\\1830099838-M139.ipt",
+          "reference_key_string": "AQQFADAAAAAAAAAAAgAAACsAAAADAAAAMwAAAAYAAAA2AAAABgAAADgAAAAGAAAAOQAAAAYAAAA=",
+          "context_key_string": "nsIrpNQR6AFgAC2z7in7sAQAAB5AAADIMgIotS/9IIFFAwBkBQABAADtN0PA0xEdDmAAALgylIewAAABAQAAsS28CdARH+wACNywOz6oCQIBAACyBAAAAFQAZQBzAHQAGism01ZO+KUw3SG4i5JkLgD/////AAAAAAAABgBICM1Q4SAAYOo/XxjmxA==",
+          "surface_type": "kPlaneSurface",
+          "area_cm2": 11.424259033198112,
+          "face_normal_at_center": [
+            -1.4348237036696139E-14,
+            4.2264021874856266E-19,
+            1.0
+          ],
+          "face_point_at_center": [
+            -4.1269362114800856,
+            22.5,
+            13.199999999999964
+          ],
+          "face_bbox_min": [
+            -4.2538724229600646,
+            0.0,
+            13.199999999999962
+          ],
+          "face_bbox_max": [
+            -4.0000000000001066,
+            45.0,
+            13.199999999999966
+          ],
+          "loops": [
+            {
+              "is_outer": true,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAADMAAAAGAAAA",
+                "AQQBABAAAAAAAAAAAgAAADYAAAAGAAAA",
+                "AQQBABAAAAAAAAAAAgAAADgAAAAGAAAA",
+                "AQQBABAAAAAAAAAAAgAAADkAAAAGAAAA"
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "constraint_name": "Flush:5",
+        "constraint_type": "kFlushConstraint",
+        "suppressed": false,
+        "health_status": "kUpToDateHealth",
+        "node_one_id": "1830099838-M141.ipt:4",
+        "node_two_id": "1830099838-M139.ipt:1",
+        "offset_cm": 0.0,
+        "entity_one": {
+          "entity_type": "83887776",
+          "proxy_context_occurrence": "1830099838-M141.ipt:4",
+          "owner_document": "C:\\Users\\hrish\\Downloads\\Assemblies for Training ML model\\Assembly 70\\Workspaces\\1830099838-M1\\1830099838-M141.ipt",
+          "reference_key_string": "EAIAABAAAAAJAAAAAAAAAIAAAAAAAAAA",
+          "context_key_string": "nsIrpNQR6AFgAC2z7in7sAQAAB5AAADIMgIotS/9IIFFAwBkBQABAADtN0PA0xEdDmAAALgylIewAAABAQAAsS28CdARH+wACNywOz6oCQIBAACyBAAAAFQAZQBzAHQAVmdZxXRFd+njIyKHC5Gr3wD/////AAAAAAAABgBICM1Q4SAAYOo/XxjmxA==",
+          "surface_type": "kPlaneSurface",
+          "area_cm2": 0.0001,
+          "face_normal_at_center": [
+            1.0,
+            0.0,
+            0.0
+          ],
+          "face_point_at_center": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "work_feature_name": "YZ Plane"
+        },
+        "entity_two": {
+          "entity_type": "83887776",
+          "proxy_context_occurrence": "1830099838-M139.ipt:1",
+          "owner_document": "C:\\Users\\hrish\\Downloads\\Assemblies for Training ML model\\Assembly 70\\Workspaces\\1830099838-M1\\1830099838-M139.ipt",
+          "reference_key_string": "EAIAABAAAAAJAAAAAAAAAIAAAAAAAAAA",
+          "context_key_string": "nsIrpNQR6AFgAC2z7in7sAQAAB5AAADIMgIotS/9IIFFAwBkBQABAADtN0PA0xEdDmAAALgylIewAAABAQAAsS28CdARH+wACNywOz6oCQIBAACyBAAAAFQAZQBzAHQAGism01ZO+KUw3SG4i5JkLgD/////AAAAAAAABgBICM1Q4SAAYOo/XxjmxA==",
+          "surface_type": "kPlaneSurface",
+          "area_cm2": 0.0001,
+          "face_normal_at_center": [
+            1.0,
+            0.0,
+            0.0
+          ],
+          "face_point_at_center": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "work_feature_name": "YZ Plane"
+        }
+      }
+    ],
+    "joint_edges": []
+  }
+}

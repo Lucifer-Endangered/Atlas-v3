@@ -1,0 +1,1241 @@
+﻿{
+  "assembly_metadata": {
+    "assembly_name": "1094892017-M29.iam",
+    "full_file_name": "C:\\Users\\hrish\\Downloads\\Assemblies for Training ML model\\Assembly 67\\Workspaces\\1094892017-M1\\1094892017-M29.iam",
+    "internal_name": "{C64E48E4-4154-FCAE-BF6C-E9862A7065AA}",
+    "total_occurrences": 3,
+    "total_constraints": 6
+  },
+  "physics": {
+    "mass_kg": 11.746562076282016,
+    "center_of_mass": [
+      42.085022106805532,
+      19.109362694222028,
+      23.036972800252038
+    ],
+    "inertia_tensor": [
+      23871.157689544048,
+      3633.8488510347606,
+      20251.226866278008,
+      2.0384936348889022,
+      109.46629735264089,
+      67.2339203413073
+    ]
+  },
+  "assembly_graph": {
+    "nodes": [
+      {
+        "node_id": "1094892017-M31.ipt:1",
+        "file_name": "C:\\Users\\hrish\\Downloads\\Assemblies for Training ML model\\Assembly 67\\Workspaces\\1094892017-M1\\1094892017-M31.ipt",
+        "component_type": "kPartDocumentObject",
+        "grounded": true,
+        "suppressed": false,
+        "visible": true,
+        "adaptive": false,
+        "flexible": false,
+        "dof_translation": 0,
+        "dof_rotation": 0,
+        "fully_constrained": false,
+        "transform": {
+          "rotation_matrix": [
+            [
+              2.8103414793335178E-15,
+              4.6664641003475252E-14,
+              -1.0000000000000018
+            ],
+            [
+              3.330844416229541E-15,
+              0.99999999999999734,
+              5.0234415976883565E-14
+            ],
+            [
+              1.0000000000000009,
+              -3.3489442877299154E-15,
+              3.3645856299148808E-15
+            ]
+          ],
+          "translation_cm": [
+            42.499999999993342,
+            -58.999999999999481,
+            21.000000000000529
+          ]
+        }
+      },
+      {
+        "node_id": "1094892017-M30.iam:2",
+        "file_name": "C:\\Users\\hrish\\Downloads\\Assemblies for Training ML model\\Assembly 67\\Workspaces\\1094892017-M1\\1094892017-M30.iam",
+        "component_type": "kAssemblyDocumentObject",
+        "grounded": false,
+        "suppressed": false,
+        "visible": true,
+        "adaptive": false,
+        "flexible": false,
+        "dof_translation": 0,
+        "dof_rotation": 0,
+        "fully_constrained": true,
+        "transform": {
+          "rotation_matrix": [
+            [
+              1.0,
+              2.9661170036310891E-28,
+              2.8103414793333131E-15
+            ],
+            [
+              -4.0966113253180118E-29,
+              0.99999999999998324,
+              3.3489442879273807E-15
+            ],
+            [
+              -2.8103414793332827E-15,
+              -3.3489442877297379E-15,
+              0.99999999999998324
+            ]
+          ],
+          "translation_cm": [
+            40.099999999993344,
+            52.520000000000266,
+            21.000000000000149
+          ]
+        }
+      },
+      {
+        "node_id": "1094892017-M30.iam:2/1094892017-P8.ipt:1",
+        "file_name": "C:\\Users\\hrish\\Downloads\\Assemblies for Training ML model\\Assembly 67\\Workspaces\\1094892017-M1\\1094892017-P8.ipt",
+        "component_type": "kPartDocumentObject",
+        "grounded": false,
+        "suppressed": false,
+        "visible": true,
+        "adaptive": false,
+        "flexible": false,
+        "dof_translation": 0,
+        "dof_rotation": 0,
+        "fully_constrained": true,
+        "transform": {
+          "rotation_matrix": [
+            [
+              1.0,
+              2.9661170036310891E-28,
+              2.8103414793333131E-15
+            ],
+            [
+              -4.0966113253180118E-29,
+              0.99999999999998324,
+              3.3489442879273807E-15
+            ],
+            [
+              -2.8103414793332827E-15,
+              -3.3489442877297379E-15,
+              0.99999999999998324
+            ]
+          ],
+          "translation_cm": [
+            40.099999999993344,
+            52.520000000000266,
+            21.000000000000149
+          ]
+        }
+      },
+      {
+        "node_id": "1094892017-M30.iam:2/0261210600-M1.ipt:2",
+        "file_name": "C:\\Users\\hrish\\Downloads\\Assemblies for Training ML model\\Assembly 67\\Workspaces\\1094892017-M1\\0261210600-M1.ipt",
+        "component_type": "kPartDocumentObject",
+        "grounded": false,
+        "suppressed": false,
+        "visible": true,
+        "adaptive": false,
+        "flexible": false,
+        "dof_translation": 0,
+        "dof_rotation": 0,
+        "fully_constrained": true,
+        "transform": {
+          "rotation_matrix": [
+            [
+              2.8104064502500165E-15,
+              1.3410589470607511E-16,
+              -1.0
+            ],
+            [
+              3.3489442879273807E-15,
+              0.99999999999998324,
+              1.341058947058172E-16
+            ],
+            [
+              0.99999999999998324,
+              -3.3489442877297383E-15,
+              2.8104064502499854E-15
+            ]
+          ],
+          "translation_cm": [
+            40.519999999993367,
+            53.770000000000273,
+            28.500000000000018
+          ]
+        }
+      },
+      {
+        "node_id": "1094892017-M30.iam:2/0261210600-M1.ipt:3",
+        "file_name": "C:\\Users\\hrish\\Downloads\\Assemblies for Training ML model\\Assembly 67\\Workspaces\\1094892017-M1\\0261210600-M1.ipt",
+        "component_type": "kPartDocumentObject",
+        "grounded": false,
+        "suppressed": false,
+        "visible": true,
+        "adaptive": false,
+        "flexible": false,
+        "dof_translation": 0,
+        "dof_rotation": 0,
+        "fully_constrained": true,
+        "transform": {
+          "rotation_matrix": [
+            [
+              -2.810406450250015E-15,
+              1.3410589470548176E-16,
+              -1.0
+            ],
+            [
+              -3.3489442879273788E-15,
+              -0.99999999999998268,
+              -1.3410589470573536E-16
+            ],
+            [
+              -0.99999999999998268,
+              3.3489442877297356E-15,
+              2.8104064502499862E-15
+            ]
+          ],
+          "translation_cm": [
+            40.519999999993324,
+            53.770000000000223,
+            13.500000000000272
+          ]
+        }
+      },
+      {
+        "node_id": "1094892017-M30.iam:3",
+        "file_name": "C:\\Users\\hrish\\Downloads\\Assemblies for Training ML model\\Assembly 67\\Workspaces\\1094892017-M1\\1094892017-M30.iam",
+        "component_type": "kAssemblyDocumentObject",
+        "grounded": false,
+        "suppressed": false,
+        "visible": true,
+        "adaptive": false,
+        "flexible": false,
+        "dof_translation": 0,
+        "dof_rotation": 0,
+        "fully_constrained": true,
+        "transform": {
+          "rotation_matrix": [
+            [
+              1.0,
+              1.8932661725309003E-29,
+              2.8103414793333383E-15
+            ],
+            [
+              -1.0147489748937187E-28,
+              0.99999999999999212,
+              2.4237584339630069E-15
+            ],
+            [
+              -2.8103414793332251E-15,
+              -2.4237584338754812E-15,
+              0.99999999999999212
+            ]
+          ],
+          "translation_cm": [
+            40.099999999993344,
+            -5.9799999999996114,
+            21.000000000000355
+          ]
+        }
+      },
+      {
+        "node_id": "1094892017-M30.iam:3/1094892017-P8.ipt:1",
+        "file_name": "C:\\Users\\hrish\\Downloads\\Assemblies for Training ML model\\Assembly 67\\Workspaces\\1094892017-M1\\1094892017-P8.ipt",
+        "component_type": "kPartDocumentObject",
+        "grounded": false,
+        "suppressed": false,
+        "visible": true,
+        "adaptive": false,
+        "flexible": false,
+        "dof_translation": 0,
+        "dof_rotation": 0,
+        "fully_constrained": true,
+        "transform": {
+          "rotation_matrix": [
+            [
+              1.0,
+              1.8932661725309003E-29,
+              2.8103414793333383E-15
+            ],
+            [
+              -1.0147489748937187E-28,
+              0.99999999999999212,
+              2.4237584339630069E-15
+            ],
+            [
+              -2.8103414793332251E-15,
+              -2.4237584338754812E-15,
+              0.99999999999999212
+            ]
+          ],
+          "translation_cm": [
+            40.099999999993344,
+            -5.9799999999996114,
+            21.000000000000355
+          ]
+        }
+      },
+      {
+        "node_id": "1094892017-M30.iam:3/0261210600-M1.ipt:2",
+        "file_name": "C:\\Users\\hrish\\Downloads\\Assemblies for Training ML model\\Assembly 67\\Workspaces\\1094892017-M1\\0261210600-M1.ipt",
+        "component_type": "kPartDocumentObject",
+        "grounded": false,
+        "suppressed": false,
+        "visible": true,
+        "adaptive": false,
+        "flexible": false,
+        "dof_translation": 0,
+        "dof_rotation": 0,
+        "fully_constrained": true,
+        "transform": {
+          "rotation_matrix": [
+            [
+              2.8104064502500418E-15,
+              1.3410589470579743E-16,
+              -1.0
+            ],
+            [
+              2.4237584339630069E-15,
+              0.99999999999999212,
+              1.3410589470587888E-16
+            ],
+            [
+              0.99999999999999212,
+              -2.4237584338754816E-15,
+              2.8104064502499278E-15
+            ]
+          ],
+          "translation_cm": [
+            40.519999999993367,
+            -4.7299999999996025,
+            28.500000000000291
+          ]
+        }
+      },
+      {
+        "node_id": "1094892017-M30.iam:3/0261210600-M1.ipt:3",
+        "file_name": "C:\\Users\\hrish\\Downloads\\Assemblies for Training ML model\\Assembly 67\\Workspaces\\1094892017-M1\\0261210600-M1.ipt",
+        "component_type": "kPartDocumentObject",
+        "grounded": false,
+        "suppressed": false,
+        "visible": true,
+        "adaptive": false,
+        "flexible": false,
+        "dof_translation": 0,
+        "dof_rotation": 0,
+        "fully_constrained": true,
+        "transform": {
+          "rotation_matrix": [
+            [
+              -2.8104064502500402E-15,
+              1.3410589470575944E-16,
+              -1.0
+            ],
+            [
+              -2.4237584339630057E-15,
+              -0.99999999999999156,
+              -1.3410589470567604E-16
+            ],
+            [
+              -0.99999999999999156,
+              2.4237584338754796E-15,
+              2.8104064502499286E-15
+            ]
+          ],
+          "translation_cm": [
+            40.519999999993324,
+            -4.72999999999964,
+            13.500000000000412
+          ]
+        }
+      }
+    ],
+    "constraint_edges": [
+      {
+        "constraint_name": "Flush:11",
+        "constraint_type": "kFlushConstraint",
+        "suppressed": false,
+        "health_status": "kUpToDateHealth",
+        "node_one_id": "1094892017-M30.iam:2",
+        "node_two_id": "1094892017-M31.ipt:1",
+        "offset_cm": 0.0,
+        "entity_one": {
+          "entity_type": "67119520",
+          "proxy_context_occurrence": "1094892017-P8.ipt:1",
+          "owner_document": "C:\\Users\\hrish\\Downloads\\Assemblies for Training ML model\\Assembly 67\\Workspaces\\1094892017-M1\\1094892017-P8.ipt",
+          "reference_key_string": "AQQFADAAAAAAAAAAAgAAAAEAAAADAAAABwAAAAYAAAAKAAAABgAAAAwAAAAGAAAADQAAAAYAAAA=",
+          "context_key_string": "nsIrpNQR6AFgAC2z7in7sAQAAB5AAADIMgIotS/9IIFFAwBkBQABAADtN0PA0xEdDmAAALgylIewAAABAQAAsS28CdARH+wACNywOz6oCQIBAACyBAAAAFQAZQBzAHQAg7jx3ktM6poTIYGTytOKXQD/////AAAAAAAABgBICM1Q4SAAYOo/XxjmxA==",
+          "surface_type": "kPlaneSurface",
+          "area_cm2": 0.50000000000000044,
+          "face_normal_at_center": [
+            1.0,
+            0.0,
+            0.0
+          ],
+          "face_point_at_center": [
+            2.4000000000000004,
+            2.4000000000000004,
+            0.0
+          ],
+          "face_bbox_min": [
+            2.4000000000000004,
+            2.3,
+            -1.25
+          ],
+          "face_bbox_max": [
+            2.4000000000000004,
+            2.5000000000000004,
+            1.25
+          ],
+          "loops": [
+            {
+              "is_outer": true,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAAAcAAAAGAAAA",
+                "AQQBABAAAAAAAAAAAgAAAAoAAAAGAAAA",
+                "AQQBABAAAAAAAAAAAgAAAAwAAAAGAAAA",
+                "AQQBABAAAAAAAAAAAgAAAA0AAAAGAAAA"
+              ]
+            }
+          ]
+        },
+        "entity_two": {
+          "entity_type": "67119520",
+          "proxy_context_occurrence": "1094892017-M31.ipt:1",
+          "owner_document": "C:\\Users\\hrish\\Downloads\\Assemblies for Training ML model\\Assembly 67\\Workspaces\\1094892017-M1\\1094892017-M31.ipt",
+          "reference_key_string": "AQQZANAAAAAAAAAAAgAAAAEAAAADAAAABAAAAAYAAAAHAAAABgAAAAoAAAAGAAAADQAAAAYAAAAQAAAABgAAABMAAAAGAAAAFgAAAAYAAAAZAAAABgAAACEAAAAGAAAAIwAAAAYAAAAmAAAABgAAACcAAAAGAAAALQAAAAYAAAAwAAAABgAAADIAAAAGAAAAMwAAAAYAAAA5AAAABgAAADwAAAAGAAAAPgAAAAYAAAA/AAAABgAAAEUAAAAGAAAASAAAAAYAAABKAAAABgAAAEsAAAAGAAAA",
+          "context_key_string": "nsIrpNQR6AFgAC2z7in7sAQAAB5AAADIMgIotS/9IIFFAwBkBQABAADtN0PA0xEdDmAAALgylIewAAABAQAAsS28CdARH+wACNywOz6oCQIBAACyBAAAAFQAZQBzAHQAB6R4hoBLWBX2VX+bpy4xmAD/////AAAAAAAABgBICM1Q4SAAYOo/XxjmxA==",
+          "surface_type": "kPlaneSurface",
+          "area_cm2": 6164.7978616294949,
+          "face_normal_at_center": [
+            0.0,
+            0.0,
+            -1.0
+          ],
+          "face_point_at_center": [
+            -0.17500000000001492,
+            77.000000000000014,
+            0.0
+          ],
+          "face_bbox_min": [
+            -26.200000000000088,
+            0.0,
+            0.0
+          ],
+          "face_bbox_max": [
+            25.850000000000058,
+            154.00000000000003,
+            0.0
+          ],
+          "loops": [
+            {
+              "is_outer": false,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAAAQAAAAGAAAA"
+              ]
+            },
+            {
+              "is_outer": false,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAAAcAAAAGAAAA"
+              ]
+            },
+            {
+              "is_outer": false,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAAAoAAAAGAAAA"
+              ]
+            },
+            {
+              "is_outer": false,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAAA0AAAAGAAAA"
+              ]
+            },
+            {
+              "is_outer": false,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAABAAAAAGAAAA"
+              ]
+            },
+            {
+              "is_outer": false,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAABMAAAAGAAAA"
+              ]
+            },
+            {
+              "is_outer": false,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAABYAAAAGAAAA"
+              ]
+            },
+            {
+              "is_outer": false,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAABkAAAAGAAAA"
+              ]
+            },
+            {
+              "is_outer": true,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAACEAAAAGAAAA",
+                "AQQBABAAAAAAAAAAAgAAACMAAAAGAAAA",
+                "AQQBABAAAAAAAAAAAgAAACYAAAAGAAAA",
+                "AQQBABAAAAAAAAAAAgAAACcAAAAGAAAA"
+              ]
+            },
+            {
+              "is_outer": false,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAAC0AAAAGAAAA",
+                "AQQBABAAAAAAAAAAAgAAADAAAAAGAAAA",
+                "AQQBABAAAAAAAAAAAgAAADIAAAAGAAAA",
+                "AQQBABAAAAAAAAAAAgAAADMAAAAGAAAA"
+              ]
+            },
+            {
+              "is_outer": false,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAADkAAAAGAAAA",
+                "AQQBABAAAAAAAAAAAgAAADwAAAAGAAAA",
+                "AQQBABAAAAAAAAAAAgAAAD4AAAAGAAAA",
+                "AQQBABAAAAAAAAAAAgAAAD8AAAAGAAAA"
+              ]
+            },
+            {
+              "is_outer": false,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAAEUAAAAGAAAA",
+                "AQQBABAAAAAAAAAAAgAAAEgAAAAGAAAA",
+                "AQQBABAAAAAAAAAAAgAAAEoAAAAGAAAA",
+                "AQQBABAAAAAAAAAAAgAAAEsAAAAGAAAA"
+              ]
+            },
+            {
+              "is_outer": false,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAAFEAAAAGAAAA",
+                "AQQBABAAAAAAAAAAAgAAAFQAAAAGAAAA",
+                "AQQBABAAAAAAAAAAAgAAAFYAAAAGAAAA",
+                "AQQBABAAAAAAAAAAAgAAAFcAAAAGAAAA"
+              ]
+            },
+            {
+              "is_outer": false,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAAF0AAAAGAAAA",
+                "AQQBABAAAAAAAAAAAgAAAGAAAAAGAAAA",
+                "AQQBABAAAAAAAAAAAgAAAGIAAAAGAAAA",
+                "AQQBABAAAAAAAAAAAgAAAGMAAAAGAAAA"
+              ]
+            },
+            {
+              "is_outer": false,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAAGkAAAAGAAAA",
+                "AQQBABAAAAAAAAAAAgAAAGwAAAAGAAAA",
+                "AQQBABAAAAAAAAAAAgAAAG4AAAAGAAAA",
+                "AQQBABAAAAAAAAAAAgAAAG8AAAAGAAAA"
+              ]
+            },
+            {
+              "is_outer": false,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAAHUAAAAGAAAA",
+                "AQQBABAAAAAAAAAAAgAAAHgAAAAGAAAA",
+                "AQQBABAAAAAAAAAAAgAAAHoAAAAGAAAA",
+                "AQQBABAAAAAAAAAAAgAAAHsAAAAGAAAA"
+              ]
+            },
+            {
+              "is_outer": false,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAAH4AAAAGAAAA"
+              ]
+            },
+            {
+              "is_outer": false,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAAIEAAAAGAAAA"
+              ]
+            },
+            {
+              "is_outer": false,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAAIQAAAAGAAAA"
+              ]
+            },
+            {
+              "is_outer": false,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAAIcAAAAGAAAA"
+              ]
+            },
+            {
+              "is_outer": false,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAAIoAAAAGAAAA"
+              ]
+            },
+            {
+              "is_outer": false,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAAI0AAAAGAAAA"
+              ]
+            },
+            {
+              "is_outer": false,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAAJAAAAAGAAAA"
+              ]
+            },
+            {
+              "is_outer": false,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAAJMAAAAGAAAA"
+              ]
+            },
+            {
+              "is_outer": false,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAAJYAAAAGAAAA"
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "constraint_name": "Flush:12",
+        "constraint_type": "kFlushConstraint",
+        "suppressed": false,
+        "health_status": "kUpToDateHealth",
+        "node_one_id": "1094892017-M30.iam:3",
+        "node_two_id": "1094892017-M31.ipt:1",
+        "offset_cm": 0.0,
+        "entity_one": {
+          "entity_type": "67119520",
+          "proxy_context_occurrence": "1094892017-P8.ipt:1",
+          "owner_document": "C:\\Users\\hrish\\Downloads\\Assemblies for Training ML model\\Assembly 67\\Workspaces\\1094892017-M1\\1094892017-P8.ipt",
+          "reference_key_string": "AQQFADAAAAAAAAAAAgAAAAEAAAADAAAABwAAAAYAAAAKAAAABgAAAAwAAAAGAAAADQAAAAYAAAA=",
+          "context_key_string": "nsIrpNQR6AFgAC2z7in7sAQAAB5AAADIMgIotS/9IIFFAwBkBQABAADtN0PA0xEdDmAAALgylIewAAABAQAAsS28CdARH+wACNywOz6oCQIBAACyBAAAAFQAZQBzAHQAg7jx3ktM6poTIYGTytOKXQD/////AAAAAAAABgBICM1Q4SAAYOo/XxjmxA==",
+          "surface_type": "kPlaneSurface",
+          "area_cm2": 0.50000000000000044,
+          "face_normal_at_center": [
+            1.0,
+            0.0,
+            0.0
+          ],
+          "face_point_at_center": [
+            2.4000000000000004,
+            2.4000000000000004,
+            0.0
+          ],
+          "face_bbox_min": [
+            2.4000000000000004,
+            2.3,
+            -1.25
+          ],
+          "face_bbox_max": [
+            2.4000000000000004,
+            2.5000000000000004,
+            1.25
+          ],
+          "loops": [
+            {
+              "is_outer": true,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAAAcAAAAGAAAA",
+                "AQQBABAAAAAAAAAAAgAAAAoAAAAGAAAA",
+                "AQQBABAAAAAAAAAAAgAAAAwAAAAGAAAA",
+                "AQQBABAAAAAAAAAAAgAAAA0AAAAGAAAA"
+              ]
+            }
+          ]
+        },
+        "entity_two": {
+          "entity_type": "67119520",
+          "proxy_context_occurrence": "1094892017-M31.ipt:1",
+          "owner_document": "C:\\Users\\hrish\\Downloads\\Assemblies for Training ML model\\Assembly 67\\Workspaces\\1094892017-M1\\1094892017-M31.ipt",
+          "reference_key_string": "AQQZANAAAAAAAAAAAgAAAAEAAAADAAAABAAAAAYAAAAHAAAABgAAAAoAAAAGAAAADQAAAAYAAAAQAAAABgAAABMAAAAGAAAAFgAAAAYAAAAZAAAABgAAACEAAAAGAAAAIwAAAAYAAAAmAAAABgAAACcAAAAGAAAALQAAAAYAAAAwAAAABgAAADIAAAAGAAAAMwAAAAYAAAA5AAAABgAAADwAAAAGAAAAPgAAAAYAAAA/AAAABgAAAEUAAAAGAAAASAAAAAYAAABKAAAABgAAAEsAAAAGAAAA",
+          "context_key_string": "nsIrpNQR6AFgAC2z7in7sAQAAB5AAADIMgIotS/9IIFFAwBkBQABAADtN0PA0xEdDmAAALgylIewAAABAQAAsS28CdARH+wACNywOz6oCQIBAACyBAAAAFQAZQBzAHQAB6R4hoBLWBX2VX+bpy4xmAD/////AAAAAAAABgBICM1Q4SAAYOo/XxjmxA==",
+          "surface_type": "kPlaneSurface",
+          "area_cm2": 6164.7978616294949,
+          "face_normal_at_center": [
+            0.0,
+            0.0,
+            -1.0
+          ],
+          "face_point_at_center": [
+            -0.17500000000001492,
+            77.000000000000014,
+            0.0
+          ],
+          "face_bbox_min": [
+            -26.200000000000088,
+            0.0,
+            0.0
+          ],
+          "face_bbox_max": [
+            25.850000000000058,
+            154.00000000000003,
+            0.0
+          ],
+          "loops": [
+            {
+              "is_outer": false,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAAAQAAAAGAAAA"
+              ]
+            },
+            {
+              "is_outer": false,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAAAcAAAAGAAAA"
+              ]
+            },
+            {
+              "is_outer": false,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAAAoAAAAGAAAA"
+              ]
+            },
+            {
+              "is_outer": false,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAAA0AAAAGAAAA"
+              ]
+            },
+            {
+              "is_outer": false,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAABAAAAAGAAAA"
+              ]
+            },
+            {
+              "is_outer": false,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAABMAAAAGAAAA"
+              ]
+            },
+            {
+              "is_outer": false,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAABYAAAAGAAAA"
+              ]
+            },
+            {
+              "is_outer": false,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAABkAAAAGAAAA"
+              ]
+            },
+            {
+              "is_outer": true,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAACEAAAAGAAAA",
+                "AQQBABAAAAAAAAAAAgAAACMAAAAGAAAA",
+                "AQQBABAAAAAAAAAAAgAAACYAAAAGAAAA",
+                "AQQBABAAAAAAAAAAAgAAACcAAAAGAAAA"
+              ]
+            },
+            {
+              "is_outer": false,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAAC0AAAAGAAAA",
+                "AQQBABAAAAAAAAAAAgAAADAAAAAGAAAA",
+                "AQQBABAAAAAAAAAAAgAAADIAAAAGAAAA",
+                "AQQBABAAAAAAAAAAAgAAADMAAAAGAAAA"
+              ]
+            },
+            {
+              "is_outer": false,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAADkAAAAGAAAA",
+                "AQQBABAAAAAAAAAAAgAAADwAAAAGAAAA",
+                "AQQBABAAAAAAAAAAAgAAAD4AAAAGAAAA",
+                "AQQBABAAAAAAAAAAAgAAAD8AAAAGAAAA"
+              ]
+            },
+            {
+              "is_outer": false,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAAEUAAAAGAAAA",
+                "AQQBABAAAAAAAAAAAgAAAEgAAAAGAAAA",
+                "AQQBABAAAAAAAAAAAgAAAEoAAAAGAAAA",
+                "AQQBABAAAAAAAAAAAgAAAEsAAAAGAAAA"
+              ]
+            },
+            {
+              "is_outer": false,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAAFEAAAAGAAAA",
+                "AQQBABAAAAAAAAAAAgAAAFQAAAAGAAAA",
+                "AQQBABAAAAAAAAAAAgAAAFYAAAAGAAAA",
+                "AQQBABAAAAAAAAAAAgAAAFcAAAAGAAAA"
+              ]
+            },
+            {
+              "is_outer": false,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAAF0AAAAGAAAA",
+                "AQQBABAAAAAAAAAAAgAAAGAAAAAGAAAA",
+                "AQQBABAAAAAAAAAAAgAAAGIAAAAGAAAA",
+                "AQQBABAAAAAAAAAAAgAAAGMAAAAGAAAA"
+              ]
+            },
+            {
+              "is_outer": false,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAAGkAAAAGAAAA",
+                "AQQBABAAAAAAAAAAAgAAAGwAAAAGAAAA",
+                "AQQBABAAAAAAAAAAAgAAAG4AAAAGAAAA",
+                "AQQBABAAAAAAAAAAAgAAAG8AAAAGAAAA"
+              ]
+            },
+            {
+              "is_outer": false,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAAHUAAAAGAAAA",
+                "AQQBABAAAAAAAAAAAgAAAHgAAAAGAAAA",
+                "AQQBABAAAAAAAAAAAgAAAHoAAAAGAAAA",
+                "AQQBABAAAAAAAAAAAgAAAHsAAAAGAAAA"
+              ]
+            },
+            {
+              "is_outer": false,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAAH4AAAAGAAAA"
+              ]
+            },
+            {
+              "is_outer": false,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAAIEAAAAGAAAA"
+              ]
+            },
+            {
+              "is_outer": false,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAAIQAAAAGAAAA"
+              ]
+            },
+            {
+              "is_outer": false,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAAIcAAAAGAAAA"
+              ]
+            },
+            {
+              "is_outer": false,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAAIoAAAAGAAAA"
+              ]
+            },
+            {
+              "is_outer": false,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAAI0AAAAGAAAA"
+              ]
+            },
+            {
+              "is_outer": false,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAAJAAAAAGAAAA"
+              ]
+            },
+            {
+              "is_outer": false,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAAJMAAAAGAAAA"
+              ]
+            },
+            {
+              "is_outer": false,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAAJYAAAAGAAAA"
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "constraint_name": "Mate:3",
+        "constraint_type": "kMateConstraint",
+        "suppressed": false,
+        "health_status": "kUpToDateHealth",
+        "node_one_id": "1094892017-M30.iam:3",
+        "node_two_id": "1094892017-M31.ipt:1",
+        "offset_cm": 0.020000000000000004,
+        "solution": "kNoSolutionType",
+        "entity_one": {
+          "entity_type": "67119520",
+          "proxy_context_occurrence": "1094892017-P8.ipt:1",
+          "owner_document": "C:\\Users\\hrish\\Downloads\\Assemblies for Training ML model\\Assembly 67\\Workspaces\\1094892017-M1\\1094892017-P8.ipt",
+          "reference_key_string": "AQQFADAAAAAAAAAAAgAAAA4AAAADAAAAFAAAAAYAAAAXAAAABgAAABkAAAAGAAAAGgAAAAYAAAA=",
+          "context_key_string": "nsIrpNQR6AFgAC2z7in7sAQAAB5AAADIMgIotS/9IIFFAwBkBQABAADtN0PA0xEdDmAAALgylIewAAABAQAAsS28CdARH+wACNywOz6oCQIBAACyBAAAAFQAZQBzAHQAg7jx3ktM6poTIYGTytOKXQD/////AAAAAAAABgBICM1Q4SAAYOo/XxjmxA==",
+          "surface_type": "kPlaneSurface",
+          "area_cm2": 0.040000000000000036,
+          "face_normal_at_center": [
+            0.0,
+            0.0,
+            -1.0
+          ],
+          "face_point_at_center": [
+            2.3,
+            0.10000000000000002,
+            -1.25
+          ],
+          "face_bbox_min": [
+            2.1999999999999997,
+            0.0,
+            -1.25
+          ],
+          "face_bbox_max": [
+            2.4,
+            0.20000000000000004,
+            -1.25
+          ],
+          "loops": [
+            {
+              "is_outer": true,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAABQAAAAGAAAA",
+                "AQQBABAAAAAAAAAAAgAAABcAAAAGAAAA",
+                "AQQBABAAAAAAAAAAAgAAABkAAAAGAAAA",
+                "AQQBABAAAAAAAAAAAgAAABoAAAAGAAAA"
+              ]
+            }
+          ]
+        },
+        "entity_two": {
+          "entity_type": "67119520",
+          "proxy_context_occurrence": "1094892017-M31.ipt:1",
+          "owner_document": "C:\\Users\\hrish\\Downloads\\Assemblies for Training ML model\\Assembly 67\\Workspaces\\1094892017-M1\\1094892017-M31.ipt",
+          "reference_key_string": "AQQFADAAAAAAAAAAAgAAADoAAAADAAAAmgAAAAYAAACbAAAABgAAAD4AAAAGAAAAnAAAAAYAAAA=",
+          "context_key_string": "nsIrpNQR6AFgAC2z7in7sAQAAB5AAADIMgIotS/9IIFFAwBkBQABAADtN0PA0xEdDmAAALgylIewAAABAQAAsS28CdARH+wACNywOz6oCQIBAACyBAAAAFQAZQBzAHQAB6R4hoBLWBX2VX+bpy4xmAD/////AAAAAAAABgBICM1Q4SAAYOo/XxjmxA==",
+          "surface_type": "kPlaneSurface",
+          "area_cm2": 0.0480000000000004,
+          "face_normal_at_center": [
+            1.0,
+            -9.2518585385428949E-16,
+            0.0
+          ],
+          "face_point_at_center": [
+            -1.2699999999999929,
+            53.120000000000005,
+            0.1
+          ],
+          "face_bbox_min": [
+            -1.2699999999999929,
+            53.0,
+            0.0
+          ],
+          "face_bbox_max": [
+            -1.2699999999999927,
+            53.24,
+            0.2
+          ],
+          "loops": [
+            {
+              "is_outer": true,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAAJoAAAAGAAAA",
+                "AQQBABAAAAAAAAAAAgAAAJsAAAAGAAAA",
+                "AQQBABAAAAAAAAAAAgAAAD4AAAAGAAAA",
+                "AQQBABAAAAAAAAAAAgAAAJwAAAAGAAAA"
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "constraint_name": "Mate:4",
+        "constraint_type": "kMateConstraint",
+        "suppressed": false,
+        "health_status": "kUpToDateHealth",
+        "node_one_id": "1094892017-M30.iam:2",
+        "node_two_id": "1094892017-M31.ipt:1",
+        "offset_cm": 0.020000000000000004,
+        "solution": "kNoSolutionType",
+        "entity_one": {
+          "entity_type": "67119520",
+          "proxy_context_occurrence": "1094892017-P8.ipt:1",
+          "owner_document": "C:\\Users\\hrish\\Downloads\\Assemblies for Training ML model\\Assembly 67\\Workspaces\\1094892017-M1\\1094892017-P8.ipt",
+          "reference_key_string": "AQQFADAAAAAAAAAAAgAAAAUAAAADAAAAHQAAAAYAAAAfAAAABgAAACAAAAAGAAAACgAAAAYAAAA=",
+          "context_key_string": "nsIrpNQR6AFgAC2z7in7sAQAAB5AAADIMgIotS/9IIFFAwBkBQABAADtN0PA0xEdDmAAALgylIewAAABAQAAsS28CdARH+wACNywOz6oCQIBAACyBAAAAFQAZQBzAHQAg7jx3ktM6poTIYGTytOKXQD/////AAAAAAAABgBICM1Q4SAAYOo/XxjmxA==",
+          "surface_type": "kPlaneSurface",
+          "area_cm2": 0.04000000000000007,
+          "face_normal_at_center": [
+            0.0,
+            0.0,
+            -1.0
+          ],
+          "face_point_at_center": [
+            2.3000000000000003,
+            2.4000000000000004,
+            -1.25
+          ],
+          "face_bbox_min": [
+            2.2,
+            2.3,
+            -1.25
+          ],
+          "face_bbox_max": [
+            2.4000000000000004,
+            2.5000000000000004,
+            -1.25
+          ],
+          "loops": [
+            {
+              "is_outer": true,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAAB0AAAAGAAAA",
+                "AQQBABAAAAAAAAAAAgAAAB8AAAAGAAAA",
+                "AQQBABAAAAAAAAAAAgAAACAAAAAGAAAA",
+                "AQQBABAAAAAAAAAAAgAAAAoAAAAGAAAA"
+              ]
+            }
+          ]
+        },
+        "entity_two": {
+          "entity_type": "67119520",
+          "proxy_context_occurrence": "1094892017-M31.ipt:1",
+          "owner_document": "C:\\Users\\hrish\\Downloads\\Assemblies for Training ML model\\Assembly 67\\Workspaces\\1094892017-M1\\1094892017-M31.ipt",
+          "reference_key_string": "AQQFADAAAAAAAAAAAgAAAFIAAAADAAAAnwAAAAYAAACgAAAABgAAAFYAAAAGAAAAoQAAAAYAAAA=",
+          "context_key_string": "nsIrpNQR6AFgAC2z7in7sAQAAB5AAADIMgIotS/9IIFFAwBkBQABAADtN0PA0xEdDmAAALgylIewAAABAQAAsS28CdARH+wACNywOz6oCQIBAACyBAAAAFQAZQBzAHQAB6R4hoBLWBX2VX+bpy4xmAD/////AAAAAAAABgBICM1Q4SAAYOo/XxjmxA==",
+          "surface_type": "kPlaneSurface",
+          "area_cm2": 0.047999999999998974,
+          "face_normal_at_center": [
+            1.0,
+            0.0,
+            0.0
+          ],
+          "face_point_at_center": [
+            -1.2699999999999894,
+            113.91999999999999,
+            0.1
+          ],
+          "face_bbox_min": [
+            -1.2699999999999894,
+            113.8,
+            0.0
+          ],
+          "face_bbox_max": [
+            -1.2699999999999894,
+            114.03999999999999,
+            0.2
+          ],
+          "loops": [
+            {
+              "is_outer": true,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAAJ8AAAAGAAAA",
+                "AQQBABAAAAAAAAAAAgAAAKAAAAAGAAAA",
+                "AQQBABAAAAAAAAAAAgAAAFYAAAAGAAAA",
+                "AQQBABAAAAAAAAAAAgAAAKEAAAAGAAAA"
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "constraint_name": "Mate:5",
+        "constraint_type": "kMateConstraint",
+        "suppressed": false,
+        "health_status": "kUpToDateHealth",
+        "node_one_id": "1094892017-M30.iam:3",
+        "node_two_id": "1094892017-M31.ipt:1",
+        "offset_cm": 0.020000000000000004,
+        "solution": "kNoSolutionType",
+        "entity_one": {
+          "entity_type": "67119520",
+          "proxy_context_occurrence": "1094892017-P8.ipt:1",
+          "owner_document": "C:\\Users\\hrish\\Downloads\\Assemblies for Training ML model\\Assembly 67\\Workspaces\\1094892017-M1\\1094892017-P8.ipt",
+          "reference_key_string": "AQQJAFAAAAAAAAAAAgAAAAgAAAADAAAAJgAAAAYAAAAoAAAABgAAACoAAAAGAAAAKwAAAAYAAAAMAAAABgAAACAAAAAGAAAALQAAAAYAAAAuAAAABgAAAA==",
+          "context_key_string": "nsIrpNQR6AFgAC2z7in7sAQAAB5AAADIMgIotS/9IIFFAwBkBQABAADtN0PA0xEdDmAAALgylIewAAABAQAAsS28CdARH+wACNywOz6oCQIBAACyBAAAAFQAZQBzAHQAg7jx3ktM6poTIYGTytOKXQD/////AAAAAAAABgBICM1Q4SAAYOo/XxjmxA==",
+          "surface_type": "kPlaneSurface",
+          "area_cm2": 59.700000000000031,
+          "face_normal_at_center": [
+            -1.9533823466314619E-16,
+            1.0,
+            6.4970916703251252E-20
+          ],
+          "face_point_at_center": [
+            1.3749999999999998,
+            2.5000000000000004,
+            9.43689570931383E-16
+          ],
+          "face_bbox_min": [
+            0.3499999999999992,
+            2.5,
+            -16.0
+          ],
+          "face_bbox_max": [
+            2.4000000000000004,
+            2.5000000000000004,
+            16.0
+          ],
+          "loops": [
+            {
+              "is_outer": true,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAACYAAAAGAAAA",
+                "AQQBABAAAAAAAAAAAgAAACgAAAAGAAAA",
+                "AQQBABAAAAAAAAAAAgAAACoAAAAGAAAA",
+                "AQQBABAAAAAAAAAAAgAAACsAAAAGAAAA",
+                "AQQBABAAAAAAAAAAAgAAAAwAAAAGAAAA",
+                "AQQBABAAAAAAAAAAAgAAACAAAAAGAAAA",
+                "AQQBABAAAAAAAAAAAgAAAC0AAAAGAAAA",
+                "AQQBABAAAAAAAAAAAgAAAC4AAAAGAAAA"
+              ]
+            }
+          ]
+        },
+        "entity_two": {
+          "entity_type": "67119520",
+          "proxy_context_occurrence": "1094892017-M31.ipt:1",
+          "owner_document": "C:\\Users\\hrish\\Downloads\\Assemblies for Training ML model\\Assembly 67\\Workspaces\\1094892017-M1\\1094892017-M31.ipt",
+          "reference_key_string": "AQQFADAAAAAAAAAAAgAAACsAAAADAAAApAAAAAYAAAClAAAABgAAADAAAAAGAAAApgAAAAYAAAA=",
+          "context_key_string": "nsIrpNQR6AFgAC2z7in7sAQAAB5AAADIMgIotS/9IIFFAwBkBQABAADtN0PA0xEdDmAAALgylIewAAABAQAAsS28CdARH+wACNywOz6oCQIBAACyBAAAAFQAZQBzAHQAB6R4hoBLWBX2VX+bpy4xmAD/////AAAAAAAABgBICM1Q4SAAYOo/XxjmxA==",
+          "surface_type": "kPlaneSurface",
+          "area_cm2": 0.50800000000000012,
+          "face_normal_at_center": [
+            0.0,
+            -1.0,
+            0.0
+          ],
+          "face_point_at_center": [
+            7.3274719625260332E-15,
+            55.54,
+            0.1
+          ],
+          "face_bbox_min": [
+            -1.2699999999999929,
+            55.539999999999992,
+            0.0
+          ],
+          "face_bbox_max": [
+            1.2700000000000076,
+            55.54,
+            0.2
+          ],
+          "loops": [
+            {
+              "is_outer": true,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAAKQAAAAGAAAA",
+                "AQQBABAAAAAAAAAAAgAAAKUAAAAGAAAA",
+                "AQQBABAAAAAAAAAAAgAAADAAAAAGAAAA",
+                "AQQBABAAAAAAAAAAAgAAAKYAAAAGAAAA"
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "constraint_name": "Mate:6",
+        "constraint_type": "kMateConstraint",
+        "suppressed": false,
+        "health_status": "kUpToDateHealth",
+        "node_one_id": "1094892017-M30.iam:2",
+        "node_two_id": "1094892017-M31.ipt:1",
+        "offset_cm": 0.020000000000000004,
+        "solution": "kNoSolutionType",
+        "entity_one": {
+          "entity_type": "67119520",
+          "proxy_context_occurrence": "1094892017-P8.ipt:1",
+          "owner_document": "C:\\Users\\hrish\\Downloads\\Assemblies for Training ML model\\Assembly 67\\Workspaces\\1094892017-M1\\1094892017-P8.ipt",
+          "reference_key_string": "AQQJAFAAAAAAAAAAAgAAAAgAAAADAAAAJgAAAAYAAAAoAAAABgAAACoAAAAGAAAAKwAAAAYAAAAMAAAABgAAACAAAAAGAAAALQAAAAYAAAAuAAAABgAAAA==",
+          "context_key_string": "nsIrpNQR6AFgAC2z7in7sAQAAB5AAADIMgIotS/9IIFFAwBkBQABAADtN0PA0xEdDmAAALgylIewAAABAQAAsS28CdARH+wACNywOz6oCQIBAACyBAAAAFQAZQBzAHQAg7jx3ktM6poTIYGTytOKXQD/////AAAAAAAABgBICM1Q4SAAYOo/XxjmxA==",
+          "surface_type": "kPlaneSurface",
+          "area_cm2": 59.700000000000031,
+          "face_normal_at_center": [
+            -1.9533823466314619E-16,
+            1.0,
+            6.4970916703251252E-20
+          ],
+          "face_point_at_center": [
+            1.3749999999999998,
+            2.5000000000000004,
+            9.43689570931383E-16
+          ],
+          "face_bbox_min": [
+            0.3499999999999992,
+            2.5,
+            -16.0
+          ],
+          "face_bbox_max": [
+            2.4000000000000004,
+            2.5000000000000004,
+            16.0
+          ],
+          "loops": [
+            {
+              "is_outer": true,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAACYAAAAGAAAA",
+                "AQQBABAAAAAAAAAAAgAAACgAAAAGAAAA",
+                "AQQBABAAAAAAAAAAAgAAACoAAAAGAAAA",
+                "AQQBABAAAAAAAAAAAgAAACsAAAAGAAAA",
+                "AQQBABAAAAAAAAAAAgAAAAwAAAAGAAAA",
+                "AQQBABAAAAAAAAAAAgAAACAAAAAGAAAA",
+                "AQQBABAAAAAAAAAAAgAAAC0AAAAGAAAA",
+                "AQQBABAAAAAAAAAAAgAAAC4AAAAGAAAA"
+              ]
+            }
+          ]
+        },
+        "entity_two": {
+          "entity_type": "67119520",
+          "proxy_context_occurrence": "1094892017-M31.ipt:1",
+          "owner_document": "C:\\Users\\hrish\\Downloads\\Assemblies for Training ML model\\Assembly 67\\Workspaces\\1094892017-M1\\1094892017-M31.ipt",
+          "reference_key_string": "AQQFADAAAAAAAAAAAgAAAE8AAAADAAAAqAAAAAYAAAChAAAABgAAAFQAAAAGAAAAqQAAAAYAAAA=",
+          "context_key_string": "nsIrpNQR6AFgAC2z7in7sAQAAB5AAADIMgIotS/9IIFFAwBkBQABAADtN0PA0xEdDmAAALgylIewAAABAQAAsS28CdARH+wACNywOz6oCQIBAACyBAAAAFQAZQBzAHQAB6R4hoBLWBX2VX+bpy4xmAD/////AAAAAAAABgBICM1Q4SAAYOo/XxjmxA==",
+          "surface_type": "kPlaneSurface",
+          "area_cm2": 0.50800000000000156,
+          "face_normal_at_center": [
+            0.0,
+            -1.0,
+            0.0
+          ],
+          "face_point_at_center": [
+            1.4432899320127035E-14,
+            114.03999999999999,
+            0.1
+          ],
+          "face_bbox_min": [
+            -1.2699999999999894,
+            114.03999999999999,
+            0.0
+          ],
+          "face_bbox_max": [
+            1.2700000000000182,
+            114.03999999999999,
+            0.2
+          ],
+          "loops": [
+            {
+              "is_outer": true,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAAKgAAAAGAAAA",
+                "AQQBABAAAAAAAAAAAgAAAKEAAAAGAAAA",
+                "AQQBABAAAAAAAAAAAgAAAFQAAAAGAAAA",
+                "AQQBABAAAAAAAAAAAgAAAKkAAAAGAAAA"
+              ]
+            }
+          ]
+        }
+      }
+    ],
+    "joint_edges": []
+  }
+}

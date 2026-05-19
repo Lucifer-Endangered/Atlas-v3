@@ -1,0 +1,180 @@
+﻿{
+  "part_metadata": {
+    "file_name": "0663211231-M1.ipt",
+    "full_path": "C:\\Users\\hrish\\Downloads\\Assemblies for Training ML model\\Assembly 68\\Workspaces\\1629769204-M1\\0663211231-M1.ipt",
+    "internal_name": "{DCC7CF0B-4CE5-CB95-1797-67A40CBBC116}",
+    "units": "kMillimeterLengthUnits",
+    "part_number": "0663211231",
+    "description": "",
+    "material": "See Standards",
+    "mass_kg": 0.019775378462739895
+  },
+  "context_key_string": "nsIrpNQR6AFgAC2z7in7sAQAAB5AAADIMgIotS/9IIFFAwBkBQABAADtN0PA0xEdDmAAALgylIewAAABAQAAsS28CdARH+wACNywOz6oCQIBAACyBAAAAFQAZQBzAHQAnl0zFjtAEMFLnjqYKa2k4AD/////AAAAAAAABgBICM1Q4SAAYOo/XxjmxA==",
+  "bounding_box": {
+    "min": {
+      "x": -0.34950000000000003,
+      "y": -7.0174999999999992,
+      "z": -7.0174999999999992
+    },
+    "max": {
+      "x": 0.34950000000000003,
+      "y": 7.0174999999999992,
+      "z": 7.0174999999999992
+    }
+  },
+  "faces": [
+    {
+      "transient_key": 6,
+      "reference_key_string": "AQQBABAAAAAAAAAAAgAAAAEAAAADAAAA",
+      "surface_type": "kTorusSurface",
+      "area_cm2": 92.003109960756447,
+      "normal": [
+        0.0,
+        0.0,
+        -1.0
+      ],
+      "center": [
+        0.0,
+        0.0,
+        -7.0174999999999992
+      ],
+      "radius_cm": 6.6679999999999993,
+      "minor_radius_cm": 0.34950000000000003,
+      "axis": [
+        1.0,
+        0.0,
+        0.0
+      ],
+      "bbox_min": {
+        "x": -0.34950000000000003,
+        "y": -7.0174999999999992,
+        "z": -7.0174999999999992
+      },
+      "bbox_max": {
+        "x": 0.34950000000000003,
+        "y": 7.0174999999999992,
+        "z": 7.0174999999999992
+      },
+      "created_by_feature": "Revolution1",
+      "loops": []
+    }
+  ],
+  "edges": [],
+  "work_planes": [
+    {
+      "entity_type": "WorkPlane",
+      "work_feature_name": "YZ Plane",
+      "surface_type": "kPlaneSurface",
+      "area_cm2": 0.0001,
+      "center": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "normal": [
+        1.0,
+        0.0,
+        0.0
+      ],
+      "reference_key_string": "EAIAABAAAAAJAAAAAAAAAIAAAAAAAAAA"
+    },
+    {
+      "entity_type": "WorkPlane",
+      "work_feature_name": "XZ Plane",
+      "surface_type": "kPlaneSurface",
+      "area_cm2": 0.0001,
+      "center": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "normal": [
+        0.0,
+        1.0,
+        0.0
+      ],
+      "reference_key_string": "EAIAABAAAAAKAAAAAAAAAIAAAAAAAAAA"
+    },
+    {
+      "entity_type": "WorkPlane",
+      "work_feature_name": "XY Plane",
+      "surface_type": "kPlaneSurface",
+      "area_cm2": 0.0001,
+      "center": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "normal": [
+        0.0,
+        0.0,
+        1.0
+      ],
+      "reference_key_string": "EAIAABAAAAALAAAAAAAAAIAAAAAAAAAA"
+    }
+  ],
+  "work_axes": [
+    {
+      "entity_type": "WorkAxis",
+      "work_feature_name": "X Axis",
+      "direction": [
+        1.0,
+        0.0,
+        0.0
+      ],
+      "root_point": [
+        -1.0,
+        0.0,
+        0.0
+      ],
+      "reference_key_string": "EAIAABAAAAAMAAAAAAAAAIAAAAAAAAAA"
+    },
+    {
+      "entity_type": "WorkAxis",
+      "work_feature_name": "Y Axis",
+      "direction": [
+        0.0,
+        1.0,
+        0.0
+      ],
+      "root_point": [
+        0.0,
+        -1.0,
+        0.0
+      ],
+      "reference_key_string": "EAIAABAAAAANAAAAAAAAAIAAAAAAAAAA"
+    },
+    {
+      "entity_type": "WorkAxis",
+      "work_feature_name": "Z Axis",
+      "direction": [
+        0.0,
+        0.0,
+        1.0
+      ],
+      "root_point": [
+        0.0,
+        0.0,
+        -1.0
+      ],
+      "reference_key_string": "EAIAABAAAAAOAAAAAAAAAIAAAAAAAAAA"
+    }
+  ],
+  "bodies": [
+    {
+      "body_name": "Solid1",
+      "volume_cm3": 16.07754346564219
+    }
+  ],
+  "connection_points": [],
+  "feature_graph": [
+    {
+      "feature_name": "Revolution1",
+      "feature_type": "Revolve",
+      "operation": "kNewBodyOperation",
+      "suppressed": false,
+      "parent_features": [],
+      "child_features": []
+    }
+  ]
+}

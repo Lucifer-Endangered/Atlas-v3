@@ -1,0 +1,204 @@
+{
+  "generated_at": "2026-05-19 00:23:36",
+  "pipeline": "ATLAS V2 \u2014 Direct Geometry Matching",
+  "bom": [
+    {
+      "file": "0129311500-M2.json",
+      "count": 1
+    },
+    {
+      "file": "0300013103-M1.json",
+      "count": 2
+    }
+  ],
+  "total_constraints": 17,
+  "constraints": [
+    {
+      "sequence_order": 1,
+      "constraint_type": "kInsertConstraint",
+      "confidence": 0.991,
+      "occurrence_one": "0300013103-M1:1",
+      "occurrence_two": "0300013103-M1:2",
+      "entity_one_surface": "kCircleCurve",
+      "entity_two_surface": "kCircleCurve",
+      "entity_one_ref_key": "AQQBABAAAAAAAAAAAgAAAAoAAAAGAAAA",
+      "entity_two_ref_key": "AQQBABAAAAAAAAAAAgAAAAcAAAAGAAAA"
+    },
+    {
+      "sequence_order": 2,
+      "constraint_type": "kInsertConstraint",
+      "confidence": 0.8364,
+      "occurrence_one": "0129311500-M2:1",
+      "occurrence_two": "0300013103-M1:1",
+      "entity_one_surface": "kCircleCurve",
+      "entity_two_surface": "kCircleCurve",
+      "entity_one_ref_key": "AQQBABAAAAAAAAAAAgAAABwAAAAGAAAA",
+      "entity_two_ref_key": "AQQBABAAAAAAAAAAAgAAAAQAAAAGAAAA"
+    },
+    {
+      "sequence_order": 3,
+      "constraint_type": "kInsertConstraint",
+      "confidence": 0.8364,
+      "occurrence_one": "0129311500-M2:1",
+      "occurrence_two": "0300013103-M1:2",
+      "entity_one_surface": "kCircleCurve",
+      "entity_two_surface": "kCircleCurve",
+      "entity_one_ref_key": "AQQBABAAAAAAAAAAAgAAABwAAAAGAAAA",
+      "entity_two_ref_key": "AQQBABAAAAAAAAAAAgAAAAQAAAAGAAAA"
+    },
+    {
+      "sequence_order": 4,
+      "constraint_type": "kMateConstraint",
+      "confidence": 0.9956,
+      "occurrence_one": "0300013103-M1:1",
+      "occurrence_two": "0300013103-M1:2",
+      "entity_one_surface": "kCylinderSurface",
+      "entity_two_surface": "kCylinderSurface",
+      "entity_one_ref_key": "AQQDACAAAAAAAAAAAgAAAAgAAAADAAAACgAAAAYAAAAMAAAABgAAAA==",
+      "entity_two_ref_key": "AQQDACAAAAAAAAAAAgAAAAEAAAADAAAABAAAAAYAAAAHAAAABgAAAA=="
+    },
+    {
+      "sequence_order": 5,
+      "constraint_type": "kMateConstraint",
+      "confidence": 0.9901,
+      "occurrence_one": "0129311500-M2:1",
+      "occurrence_two": "0300013103-M1:1",
+      "entity_one_surface": "kCylinderSurface",
+      "entity_two_surface": "kCylinderSurface",
+      "entity_one_ref_key": "AQQDACAAAAAAAAAAAgAAACEAAAADAAAAJQAAAAYAAAAiAAAABgAAAA==",
+      "entity_two_ref_key": "AQQDACAAAAAAAAAAAgAAAAEAAAADAAAABAAAAAYAAAAHAAAABgAAAA=="
+    },
+    {
+      "sequence_order": 6,
+      "constraint_type": "kMateConstraint",
+      "confidence": 0.9901,
+      "occurrence_one": "0129311500-M2:1",
+      "occurrence_two": "0300013103-M1:2",
+      "entity_one_surface": "kCylinderSurface",
+      "entity_two_surface": "kCylinderSurface",
+      "entity_one_ref_key": "AQQDACAAAAAAAAAAAgAAACEAAAADAAAAJQAAAAYAAAAiAAAABgAAAA==",
+      "entity_two_ref_key": "AQQDACAAAAAAAAAAAgAAAAEAAAADAAAABAAAAAYAAAAHAAAABgAAAA=="
+    },
+    {
+      "sequence_order": 7,
+      "constraint_type": "kMateConstraint",
+      "confidence": 0.9899,
+      "occurrence_one": "0129311500-M2:1",
+      "occurrence_two": "0300013103-M1:1",
+      "entity_one_surface": "kTorusSurface",
+      "entity_two_surface": "kCylinderSurface",
+      "entity_one_ref_key": "AQQDACAAAAAAAAAAAgAAAAkAAAADAAAADQAAAAYAAAAKAAAABgAAAA==",
+      "entity_two_ref_key": "AQQDACAAAAAAAAAAAgAAAAEAAAADAAAABAAAAAYAAAAHAAAABgAAAA=="
+    },
+    {
+      "sequence_order": 8,
+      "constraint_type": "kMateConstraint",
+      "confidence": 0.9899,
+      "occurrence_one": "0129311500-M2:1",
+      "occurrence_two": "0300013103-M1:2",
+      "entity_one_surface": "kTorusSurface",
+      "entity_two_surface": "kCylinderSurface",
+      "entity_one_ref_key": "AQQDACAAAAAAAAAAAgAAAAkAAAADAAAADQAAAAYAAAAKAAAABgAAAA==",
+      "entity_two_ref_key": "AQQDACAAAAAAAAAAAgAAAAEAAAADAAAABAAAAAYAAAAHAAAABgAAAA=="
+    },
+    {
+      "sequence_order": 9,
+      "constraint_type": "kFlushConstraint",
+      "confidence": 0.9812,
+      "occurrence_one": "0300013103-M1:1",
+      "occurrence_two": "0300013103-M1:2",
+      "entity_one_surface": "kPlaneSurface",
+      "entity_two_surface": "kPlaneSurface",
+      "entity_one_ref_key": "AQQDACAAAAAAAAAAAgAAAAIAAAADAAAABAAAAAYAAAAKAAAABgAAAA==",
+      "entity_two_ref_key": "AQQDACAAAAAAAAAAAgAAAAIAAAADAAAABAAAAAYAAAAKAAAABgAAAA=="
+    },
+    {
+      "sequence_order": 10,
+      "constraint_type": "kMateConstraint",
+      "confidence": 0.9801,
+      "occurrence_one": "0300013103-M1:1",
+      "occurrence_two": "0300013103-M1:2",
+      "entity_one_surface": "kCylinderSurface",
+      "entity_two_surface": "kCylinderSurface",
+      "entity_one_ref_key": "AQQDACAAAAAAAAAAAgAAAAgAAAADAAAACgAAAAYAAAAMAAAABgAAAA==",
+      "entity_two_ref_key": "AQQDACAAAAAAAAAAAgAAAAgAAAADAAAACgAAAAYAAAAMAAAABgAAAA=="
+    },
+    {
+      "sequence_order": 11,
+      "constraint_type": "kFlushConstraint",
+      "confidence": 0.8644,
+      "occurrence_one": "0129311500-M2:1",
+      "occurrence_two": "0300013103-M1:1",
+      "entity_one_surface": "kPlaneSurface",
+      "entity_two_surface": "kPlaneSurface",
+      "entity_one_ref_key": "AQQCABgAAAAAAAAAAgAAACQAAAADAAAAJQAAAAYAAAA=",
+      "entity_two_ref_key": "AQQDACAAAAAAAAAAAgAAAAIAAAADAAAABAAAAAYAAAAKAAAABgAAAA=="
+    },
+    {
+      "sequence_order": 12,
+      "constraint_type": "kFlushConstraint",
+      "confidence": 0.8644,
+      "occurrence_one": "0129311500-M2:1",
+      "occurrence_two": "0300013103-M1:2",
+      "entity_one_surface": "kPlaneSurface",
+      "entity_two_surface": "kPlaneSurface",
+      "entity_one_ref_key": "AQQCABgAAAAAAAAAAgAAACQAAAADAAAAJQAAAAYAAAA=",
+      "entity_two_ref_key": "AQQDACAAAAAAAAAAAgAAAAIAAAADAAAABAAAAAYAAAAKAAAABgAAAA=="
+    },
+    {
+      "sequence_order": 13,
+      "constraint_type": "kFlushConstraint",
+      "confidence": 0.8078,
+      "occurrence_one": "0129311500-M2:1",
+      "occurrence_two": "0300013103-M1:1",
+      "entity_one_surface": "kPlaneSurface",
+      "entity_two_surface": "kPlaneSurface",
+      "entity_one_ref_key": "AQQDACAAAAAAAAAAAgAAAB4AAAADAAAAIgAAAAYAAAAfAAAABgAAAA==",
+      "entity_two_ref_key": "AQQDACAAAAAAAAAAAgAAAAIAAAADAAAABAAAAAYAAAAKAAAABgAAAA=="
+    },
+    {
+      "sequence_order": 14,
+      "constraint_type": "kFlushConstraint",
+      "confidence": 0.8078,
+      "occurrence_one": "0129311500-M2:1",
+      "occurrence_two": "0300013103-M1:2",
+      "entity_one_surface": "kPlaneSurface",
+      "entity_two_surface": "kPlaneSurface",
+      "entity_one_ref_key": "AQQDACAAAAAAAAAAAgAAAB4AAAADAAAAIgAAAAYAAAAfAAAABgAAAA==",
+      "entity_two_ref_key": "AQQDACAAAAAAAAAAAgAAAAIAAAADAAAABAAAAAYAAAAKAAAABgAAAA=="
+    },
+    {
+      "sequence_order": 15,
+      "constraint_type": "kFlushConstraint",
+      "confidence": 0.6201,
+      "occurrence_one": "0300013103-M1:1",
+      "occurrence_two": "0300013103-M1:2",
+      "entity_one_surface": "kPlaneSurface",
+      "entity_two_surface": "kPlaneSurface",
+      "entity_one_ref_key": "AQQDACAAAAAAAAAAAgAAAAIAAAADAAAABAAAAAYAAAAKAAAABgAAAA==",
+      "entity_two_ref_key": "AQQDACAAAAAAAAAAAgAAAAUAAAADAAAABwAAAAYAAAAMAAAABgAAAA=="
+    },
+    {
+      "sequence_order": 16,
+      "constraint_type": "kTangentConstraint",
+      "confidence": 0.5424,
+      "occurrence_one": "0129311500-M2:1",
+      "occurrence_two": "0300013103-M1:1",
+      "entity_one_surface": "kTorusSurface",
+      "entity_two_surface": "kPlaneSurface",
+      "entity_one_ref_key": "AQQDACAAAAAAAAAAAgAAABsAAAADAAAAHwAAAAYAAAAcAAAABgAAAA==",
+      "entity_two_ref_key": "AQQDACAAAAAAAAAAAgAAAAIAAAADAAAABAAAAAYAAAAKAAAABgAAAA=="
+    },
+    {
+      "sequence_order": 17,
+      "constraint_type": "kTangentConstraint",
+      "confidence": 0.5424,
+      "occurrence_one": "0129311500-M2:1",
+      "occurrence_two": "0300013103-M1:2",
+      "entity_one_surface": "kTorusSurface",
+      "entity_two_surface": "kPlaneSurface",
+      "entity_one_ref_key": "AQQDACAAAAAAAAAAAgAAABsAAAADAAAAHwAAAAYAAAAcAAAABgAAAA==",
+      "entity_two_ref_key": "AQQDACAAAAAAAAAAAgAAAAIAAAADAAAABAAAAAYAAAAKAAAABgAAAA=="
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+﻿{
+  "assembly_metadata": {
+    "assembly_name": "0070200149-M2.iam",
+    "full_file_name": "C:\\Users\\hrish\\Downloads\\Assemblies for Training ML model\\Assembly 17\\Workspaces\\1837073399-M1\\0070200149-M2.iam",
+    "internal_name": "{457A7449-410B-40E2-B4BD-A4BF90C7253B}",
+    "total_occurrences": 2,
+    "total_constraints": 0
+  },
+  "physics": {
+    "mass_kg": 0.15216771953774422,
+    "center_of_mass": [
+      341.59273537468755,
+      85.93513714426372,
+      28.639604254576128
+    ],
+    "inertia_tensor": [
+      6.3750906261475757,
+      7.6953956624940041,
+      1.4713193459659815,
+      -0.0038806440252810719,
+      -0.0064646410627174191,
+      1.8319765372595285
+    ]
+  },
+  "assembly_graph": {
+    "nodes": [
+      {
+        "node_id": "0070200149-P1:1 4.8 dm",
+        "file_name": "C:\\Users\\hrish\\Downloads\\Assemblies for Training ML model\\Assembly 17\\Workspaces\\1837073399-M1\\0070200149-P1.ipt",
+        "component_type": "kPartDocumentObject",
+        "grounded": true,
+        "suppressed": false,
+        "visible": true,
+        "adaptive": false,
+        "flexible": false,
+        "dof_translation": 3,
+        "dof_rotation": 3,
+        "fully_constrained": false,
+        "transform": {
+          "rotation_matrix": [
+            [
+              -1.7132667581027167E-15,
+              -1.4694770411073005E-14,
+              1.0
+            ],
+            [
+              -0.99999999999999867,
+              8.0783124476297472E-15,
+              -1.7132667581025948E-15
+            ],
+            [
+              -8.0783124476297535E-15,
+              -0.99999999999999867,
+              -1.469477041107303E-14
+            ]
+          ],
+          "translation_cm": [
+            322.97263219999991,
+            63.942008705342516,
+            34.85329063950811
+          ]
+        }
+      },
+      {
+        "node_id": "0070200149-P2:1 1.63 dm",
+        "file_name": "C:\\Users\\hrish\\Downloads\\Assemblies for Training ML model\\Assembly 17\\Workspaces\\1837073399-M1\\0070200149-P2.ipt",
+        "component_type": "kPartDocumentObject",
+        "grounded": true,
+        "suppressed": false,
+        "visible": true,
+        "adaptive": false,
+        "flexible": false,
+        "dof_translation": 3,
+        "dof_rotation": 3,
+        "fully_constrained": false,
+        "transform": {
+          "rotation_matrix": [
+            [
+              2.56754023527799E-16,
+              -1.43028125289998E-14,
+              1.0
+            ],
+            [
+              -0.999999899742506,
+              -0.000447788955105797,
+              2.50349181679835E-16
+            ],
+            [
+              0.000447788955105797,
+              -0.999999899742506,
+              -1.43029260416055E-14
+            ]
+          ],
+          "translation_cm": [
+            333.317,
+            85.9427,
+            35.2744
+          ]
+        }
+      }
+    ],
+    "constraint_edges": [],
+    "joint_edges": []
+  }
+}

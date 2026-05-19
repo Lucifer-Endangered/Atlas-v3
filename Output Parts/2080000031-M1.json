@@ -1,0 +1,4943 @@
+﻿{
+  "part_metadata": {
+    "file_name": "2080000031-M1.ipt",
+    "full_path": "C:\\Users\\hrish\\Downloads\\Assemblies for Training ML model\\Assembly 45\\Workspaces\\9097557063-M1\\2080000031-M1.ipt",
+    "internal_name": "{9E599403-4CDD-6D14-4C6E-5C80BD5B4BCB}",
+    "units": "kMillimeterLengthUnits",
+    "part_number": "2080000031",
+    "description": "",
+    "material": "Generic",
+    "mass_kg": 0.036530159475816136
+  },
+  "context_key_string": "nsIrpNQR6AFgAC2z7in7sAQAAB5AAADIMgIotS/9IIFVAwCkBQABAADtN0PA0xEdDmAAALgylIewAAABAQAAsS28CdARH+wACNywOz6oCQIBAACyBAAAAFQAZQBzAHQAI8zsY5BNJeJuT1aZS7ceogD/////AQABAAAAAAAAAAUADBUOAgCm/vOFYU4M",
+  "bounding_box": {
+    "min": {
+      "x": -1.8475208614068024,
+      "y": -5.6000000000000014,
+      "z": -2.0000000000000004
+    },
+    "max": {
+      "x": 1.8475208614068019,
+      "y": 1.5750000000000002,
+      "z": 10.600000000000001
+    }
+  },
+  "faces": [
+    {
+      "transient_key": 135,
+      "reference_key_string": "AQQDACAAAAAAAAAAAgAAAAEAAAADAAAABAAAAAYAAAAHAAAABgAAAA==",
+      "surface_type": "kCylinderSurface",
+      "area_cm2": 23.373449342708064,
+      "normal": [
+        1.0,
+        0.0,
+        0.0
+      ],
+      "center": [
+        1.2,
+        0.0,
+        -0.45000000000000018
+      ],
+      "radius_cm": 1.2,
+      "axis": [
+        0.0,
+        0.0,
+        -1.0
+      ],
+      "bbox_min": {
+        "x": -1.2,
+        "y": -1.2,
+        "z": -2.0000000000000004
+      },
+      "bbox_max": {
+        "x": 1.2,
+        "y": 1.2,
+        "z": 1.1
+      },
+      "created_by_feature": "Extrusion2",
+      "loops": [
+        {
+          "is_outer": true,
+          "edge_reference_keys": [
+            "AQQBABAAAAAAAAAAAgAAAAQAAAAGAAAA"
+          ]
+        },
+        {
+          "is_outer": true,
+          "edge_reference_keys": [
+            "AQQBABAAAAAAAAAAAgAAAAcAAAAGAAAA"
+          ]
+        }
+      ]
+    },
+    {
+      "transient_key": 138,
+      "reference_key_string": "AQQDACAAAAAAAAAAAgAAAAgAAAADAAAACwAAAAYAAAAOAAAABgAAAA==",
+      "surface_type": "kPlaneSurface",
+      "area_cm2": 0.25918139392115824,
+      "normal": [
+        0.0,
+        0.0,
+        1.0
+      ],
+      "center": [
+        0.0,
+        0.0,
+        2.9
+      ],
+      "bbox_min": {
+        "x": -0.85000000000000009,
+        "y": -0.85000000000000009,
+        "z": 2.9
+      },
+      "bbox_max": {
+        "x": 0.85000000000000009,
+        "y": 0.85000000000000009,
+        "z": 2.9
+      },
+      "created_by_feature": "Extrusion2",
+      "loops": [
+        {
+          "is_outer": false,
+          "edge_reference_keys": [
+            "AQQBABAAAAAAAAAAAgAAAAsAAAAGAAAA"
+          ]
+        },
+        {
+          "is_outer": true,
+          "edge_reference_keys": [
+            "AQQBABAAAAAAAAAAAgAAAA4AAAAGAAAA"
+          ]
+        }
+      ]
+    },
+    {
+      "transient_key": 141,
+      "reference_key_string": "AQQDACAAAAAAAAAAAgAAAAkAAAADAAAAEAAAAAYAAAALAAAABgAAAA==",
+      "surface_type": "kCylinderSurface",
+      "area_cm2": 24.630086404143981,
+      "normal": [
+        -1.0,
+        0.0,
+        0.0
+      ],
+      "center": [
+        0.8,
+        0.0,
+        0.44999999999999973
+      ],
+      "radius_cm": 0.8,
+      "axis": [
+        0.0,
+        0.0,
+        -1.0
+      ],
+      "bbox_min": {
+        "x": -0.8,
+        "y": -0.8,
+        "z": -2.0000000000000004
+      },
+      "bbox_max": {
+        "x": 0.8,
+        "y": 0.8,
+        "z": 2.9
+      },
+      "created_by_feature": "Extrusion2",
+      "loops": [
+        {
+          "is_outer": true,
+          "edge_reference_keys": [
+            "AQQBABAAAAAAAAAAAgAAABAAAAAGAAAA"
+          ]
+        },
+        {
+          "is_outer": true,
+          "edge_reference_keys": [
+            "AQQBABAAAAAAAAAAAgAAAAsAAAAGAAAA"
+          ]
+        }
+      ]
+    },
+    {
+      "transient_key": 143,
+      "reference_key_string": "AQQDACAAAAAAAAAAAgAAAAIAAAADAAAAEAAAAAYAAAAEAAAABgAAAA==",
+      "surface_type": "kPlaneSurface",
+      "area_cm2": 2.5132741228718345,
+      "normal": [
+        0.0,
+        0.0,
+        -1.0
+      ],
+      "center": [
+        0.0,
+        0.0,
+        -2.0000000000000004
+      ],
+      "bbox_min": {
+        "x": -1.2,
+        "y": -1.2,
+        "z": -2.0000000000000004
+      },
+      "bbox_max": {
+        "x": 1.2,
+        "y": 1.2,
+        "z": -2.0000000000000004
+      },
+      "created_by_feature": "Extrusion2",
+      "loops": [
+        {
+          "is_outer": false,
+          "edge_reference_keys": [
+            "AQQBABAAAAAAAAAAAgAAABAAAAAGAAAA"
+          ]
+        },
+        {
+          "is_outer": true,
+          "edge_reference_keys": [
+            "AQQBABAAAAAAAAAAAgAAAAQAAAAGAAAA"
+          ]
+        }
+      ]
+    },
+    {
+      "transient_key": 144,
+      "reference_key_string": "AQQDACAAAAAAAAAAAgAAABEAAAADAAAAFAAAAAYAAAAXAAAABgAAAA==",
+      "surface_type": "kCylinderSurface",
+      "area_cm2": 15.724299549747634,
+      "normal": [
+        1.0,
+        0.0,
+        -1.2246467991473532E-16
+      ],
+      "center": [
+        -1.2513,
+        -4.6000000000000014,
+        9.0
+      ],
+      "radius_cm": 1.2513,
+      "axis": [
+        0.0,
+        -1.0,
+        0.0
+      ],
+      "bbox_min": {
+        "x": -1.2513,
+        "y": -5.6000000000000014,
+        "z": 7.7486999999999995
+      },
+      "bbox_max": {
+        "x": 1.2513,
+        "y": -3.6000000000000014,
+        "z": 10.2513
+      },
+      "created_by_feature": "STDMoer_M26_INV8.ipt:1",
+      "loops": [
+        {
+          "is_outer": true,
+          "edge_reference_keys": [
+            "AQQBABAAAAAAAAAAAgAAABQAAAAGAAAA"
+          ]
+        },
+        {
+          "is_outer": true,
+          "edge_reference_keys": [
+            "AQQBABAAAAAAAAAAAgAAABcAAAAGAAAA"
+          ]
+        }
+      ]
+    },
+    {
+      "transient_key": 147,
+      "reference_key_string": "AQQDACAAAAAAAAAAAgAAABUAAAADAAAAGgAAAAYAAAAXAAAABgAAAA==",
+      "surface_type": "kPlaneSurface",
+      "area_cm2": 2.6491533144311776,
+      "normal": [
+        0.0,
+        -1.0,
+        0.0
+      ],
+      "center": [
+        -2.2204460492503131E-16,
+        -3.6000000000000014,
+        9.0
+      ],
+      "bbox_min": {
+        "x": -1.2513,
+        "y": -3.6000000000000014,
+        "z": 7.7486999999999995
+      },
+      "bbox_max": {
+        "x": 1.2513,
+        "y": -3.6000000000000014,
+        "z": 10.2513
+      },
+      "created_by_feature": "STDMoer_M26_INV8.ipt:1",
+      "loops": [
+        {
+          "is_outer": false,
+          "edge_reference_keys": [
+            "AQQBABAAAAAAAAAAAgAAABoAAAAGAAAA"
+          ]
+        },
+        {
+          "is_outer": true,
+          "edge_reference_keys": [
+            "AQQBABAAAAAAAAAAAgAAABcAAAAGAAAA"
+          ]
+        }
+      ]
+    },
+    {
+      "transient_key": 149,
+      "reference_key_string": "AQQEACgAAAAAAAAAAgAAABsAAAADAAAAIQAAAAYAAAAjAAAABgAAACQAAAAGAAAA",
+      "surface_type": "kConeSurface",
+      "area_cm2": 0.15889120918680014,
+      "normal": [
+        -0.24999999999999992,
+        0.8660254037844386,
+        -0.43301270189221941
+      ],
+      "center": [
+        -0.8618802153517,
+        -3.2714531179816335,
+        7.5071796769724495
+      ],
+      "radius_cm": 1.6000000000000003,
+      "half_angle_rad": 1.0471975511965976,
+      "axis": [
+        0.0,
+        -1.0,
+        0.0
+      ],
+      "bbox_min": {
+        "x": -1.3856406460551023,
+        "y": -3.342906235963266,
+        "z": 7.3999999999999995
+      },
+      "bbox_max": {
+        "x": 0.0,
+        "y": -3.2000000000000011,
+        "z": 8.2
+      },
+      "created_by_feature": "STDMoer_M26_INV8.ipt:1",
+      "loops": [
+        {
+          "is_outer": true,
+          "edge_reference_keys": [
+            "AQQBABAAAAAAAAAAAgAAACEAAAAGAAAA",
+            "AQQBABAAAAAAAAAAAgAAACMAAAAGAAAA",
+            "AQQBABAAAAAAAAAAAgAAACQAAAAGAAAA"
+          ]
+        }
+      ]
+    },
+    {
+      "transient_key": 153,
+      "reference_key_string": "AQQEACgAAAAAAAAAAgAAABsAAAADAAAAKAAAAAYAAAApAAAABgAAACoAAAAGAAAA",
+      "surface_type": "kConeSurface",
+      "area_cm2": 0.15889120918679939,
+      "normal": [
+        0.24999999999999992,
+        0.8660254037844386,
+        -0.43301270189221935
+      ],
+      "center": [
+        0.86188021535170012,
+        -3.2714531179816335,
+        7.5071796769724495
+      ],
+      "radius_cm": 1.6000000000000003,
+      "half_angle_rad": 1.0471975511965976,
+      "axis": [
+        0.0,
+        -1.0,
+        0.0
+      ],
+      "bbox_min": {
+        "x": 0.0,
+        "y": -3.342906235963266,
+        "z": 7.3999999999999995
+      },
+      "bbox_max": {
+        "x": 1.3856406460551018,
+        "y": -3.2000000000000011,
+        "z": 8.2
+      },
+      "created_by_feature": "STDMoer_M26_INV8.ipt:1",
+      "loops": [
+        {
+          "is_outer": true,
+          "edge_reference_keys": [
+            "AQQBABAAAAAAAAAAAgAAACgAAAAGAAAA",
+            "AQQBABAAAAAAAAAAAgAAACkAAAAGAAAA",
+            "AQQBABAAAAAAAAAAAgAAACoAAAAGAAAA"
+          ]
+        }
+      ]
+    },
+    {
+      "transient_key": 157,
+      "reference_key_string": "AQQEACgAAAAAAAAAAgAAABsAAAADAAAALgAAAAYAAAAvAAAABgAAADAAAAAGAAAA",
+      "surface_type": "kConeSurface",
+      "area_cm2": 0.15889120918679922,
+      "normal": [
+        0.50000000000000011,
+        0.8660254037844386,
+        -5.5511151231257839E-17
+      ],
+      "center": [
+        1.7237604307034011,
+        -3.2714531179816335,
+        9.0
+      ],
+      "radius_cm": 1.6000000000000003,
+      "half_angle_rad": 1.0471975511965976,
+      "axis": [
+        0.0,
+        -1.0,
+        0.0
+      ],
+      "bbox_min": {
+        "x": 1.3856406460551014,
+        "y": -3.3429062359632664,
+        "z": 8.2
+      },
+      "bbox_max": {
+        "x": 1.8475208614068022,
+        "y": -3.2000000000000011,
+        "z": 9.8
+      },
+      "created_by_feature": "STDMoer_M26_INV8.ipt:1",
+      "loops": [
+        {
+          "is_outer": true,
+          "edge_reference_keys": [
+            "AQQBABAAAAAAAAAAAgAAAC4AAAAGAAAA",
+            "AQQBABAAAAAAAAAAAgAAAC8AAAAGAAAA",
+            "AQQBABAAAAAAAAAAAgAAADAAAAAGAAAA"
+          ]
+        }
+      ]
+    },
+    {
+      "transient_key": 161,
+      "reference_key_string": "AQQEACgAAAAAAAAAAgAAABsAAAADAAAAMwAAAAYAAAA1AAAABgAAADYAAAAGAAAA",
+      "surface_type": "kConeSurface",
+      "area_cm2": 0.15889120918680055,
+      "normal": [
+        0.24999999999999992,
+        0.8660254037844386,
+        0.43301270189221946
+      ],
+      "center": [
+        0.86188021535170012,
+        -3.2714531179816335,
+        10.492820323027551
+      ],
+      "radius_cm": 1.6000000000000003,
+      "half_angle_rad": 1.0471975511965976,
+      "axis": [
+        0.0,
+        -1.0,
+        0.0
+      ],
+      "bbox_min": {
+        "x": -7.7715611723760958E-16,
+        "y": -3.3429062359632664,
+        "z": 9.8
+      },
+      "bbox_max": {
+        "x": 1.3856406460551018,
+        "y": -3.2000000000000011,
+        "z": 10.600000000000001
+      },
+      "created_by_feature": "STDMoer_M26_INV8.ipt:1",
+      "loops": [
+        {
+          "is_outer": true,
+          "edge_reference_keys": [
+            "AQQBABAAAAAAAAAAAgAAADMAAAAGAAAA",
+            "AQQBABAAAAAAAAAAAgAAADUAAAAGAAAA",
+            "AQQBABAAAAAAAAAAAgAAADYAAAAGAAAA"
+          ]
+        }
+      ]
+    },
+    {
+      "transient_key": 165,
+      "reference_key_string": "AQQEACgAAAAAAAAAAgAAABsAAAADAAAAOQAAAAYAAAA7AAAABgAAADwAAAAGAAAA",
+      "surface_type": "kConeSurface",
+      "area_cm2": 0.15889120918679939,
+      "normal": [
+        -0.25000000000000011,
+        0.8660254037844386,
+        0.43301270189221941
+      ],
+      "center": [
+        -0.86188021535170112,
+        -3.2714531179816335,
+        10.492820323027551
+      ],
+      "radius_cm": 1.6000000000000003,
+      "half_angle_rad": 1.0471975511965976,
+      "axis": [
+        0.0,
+        -1.0,
+        0.0
+      ],
+      "bbox_min": {
+        "x": -1.3856406460551025,
+        "y": -3.3429062359632664,
+        "z": 9.7999999999999989
+      },
+      "bbox_max": {
+        "x": -6.6613381477509392E-16,
+        "y": -3.2000000000000011,
+        "z": 10.6
+      },
+      "created_by_feature": "STDMoer_M26_INV8.ipt:1",
+      "loops": [
+        {
+          "is_outer": true,
+          "edge_reference_keys": [
+            "AQQBABAAAAAAAAAAAgAAADkAAAAGAAAA",
+            "AQQBABAAAAAAAAAAAgAAADsAAAAGAAAA",
+            "AQQBABAAAAAAAAAAAgAAADwAAAAGAAAA"
+          ]
+        }
+      ]
+    },
+    {
+      "transient_key": 169,
+      "reference_key_string": "AQQEACgAAAAAAAAAAgAAABsAAAADAAAAPgAAAAYAAAA/AAAABgAAAEAAAAAGAAAA",
+      "surface_type": "kConeSurface",
+      "area_cm2": 0.15889120918680014,
+      "normal": [
+        -0.50000000000000011,
+        0.8660254037844386,
+        -1.6081226496766368E-16
+      ],
+      "center": [
+        -1.7237604307034011,
+        -3.2714531179816335,
+        9.0
+      ],
+      "radius_cm": 1.6000000000000003,
+      "half_angle_rad": 1.0471975511965976,
+      "axis": [
+        0.0,
+        -1.0,
+        0.0
+      ],
+      "bbox_min": {
+        "x": -1.8475208614068024,
+        "y": -3.3429062359632664,
+        "z": 8.2
+      },
+      "bbox_max": {
+        "x": -1.3856406460551018,
+        "y": -3.2000000000000011,
+        "z": 9.7999999999999989
+      },
+      "created_by_feature": "STDMoer_M26_INV8.ipt:1",
+      "loops": [
+        {
+          "is_outer": true,
+          "edge_reference_keys": [
+            "AQQBABAAAAAAAAAAAgAAAD4AAAAGAAAA",
+            "AQQBABAAAAAAAAAAAgAAAD8AAAAGAAAA",
+            "AQQBABAAAAAAAAAAAgAAAEAAAAAGAAAA"
+          ]
+        }
+      ]
+    },
+    {
+      "transient_key": 173,
+      "reference_key_string": "AQQHAEAAAAAAAAAAAgAAACsAAAADAAAALgAAAAYAAAAzAAAABgAAAEMAAAAGAAAARQAAAAYAAABHAAAABgAAAEgAAAAGAAAA",
+      "surface_type": "kPlaneSurface",
+      "area_cm2": 4.2529271843459782,
+      "normal": [
+        0.8660254037844386,
+        0.0,
+        0.50000000000000022
+      ],
+      "center": [
+        1.3856406460551016,
+        -4.4000000000000012,
+        9.8
+      ],
+      "bbox_min": {
+        "x": 0.9237604307034,
+        "y": -5.6000000000000014,
+        "z": 9.0
+      },
+      "bbox_max": {
+        "x": 1.8475208614068022,
+        "y": -3.2000000000000011,
+        "z": 10.600000000000001
+      },
+      "created_by_feature": "STDMoer_M26_INV8.ipt:1",
+      "loops": [
+        {
+          "is_outer": true,
+          "edge_reference_keys": [
+            "AQQBABAAAAAAAAAAAgAAAC4AAAAGAAAA",
+            "AQQBABAAAAAAAAAAAgAAADMAAAAGAAAA",
+            "AQQBABAAAAAAAAAAAgAAAEMAAAAGAAAA",
+            "AQQBABAAAAAAAAAAAgAAAEUAAAAGAAAA",
+            "AQQBABAAAAAAAAAAAgAAAEcAAAAGAAAA",
+            "AQQBABAAAAAAAAAAAgAAAEgAAAAGAAAA"
+          ]
+        }
+      ]
+    },
+    {
+      "transient_key": 178,
+      "reference_key_string": "AQQHAEAAAAAAAAAAAgAAADEAAAADAAAANgAAAAYAAAA5AAAABgAAAEoAAAAGAAAATAAAAAYAAABNAAAABgAAAEMAAAAGAAAA",
+      "surface_type": "kPlaneSurface",
+      "area_cm2": 4.2529271843459737,
+      "normal": [
+        -4.8074067159589113E-16,
+        0.0,
+        1.0
+      ],
+      "center": [
+        -9.9920072216264089E-16,
+        -4.4000000000000012,
+        10.6
+      ],
+      "bbox_min": {
+        "x": -0.92376043070340208,
+        "y": -5.6000000000000014,
+        "z": 10.6
+      },
+      "bbox_max": {
+        "x": 0.92376043070340008,
+        "y": -3.2000000000000011,
+        "z": 10.600000000000001
+      },
+      "created_by_feature": "STDMoer_M26_INV8.ipt:1",
+      "loops": [
+        {
+          "is_outer": true,
+          "edge_reference_keys": [
+            "AQQBABAAAAAAAAAAAgAAADYAAAAGAAAA",
+            "AQQBABAAAAAAAAAAAgAAADkAAAAGAAAA",
+            "AQQBABAAAAAAAAAAAgAAAEoAAAAGAAAA",
+            "AQQBABAAAAAAAAAAAgAAAEwAAAAGAAAA",
+            "AQQBABAAAAAAAAAAAgAAAE0AAAAGAAAA",
+            "AQQBABAAAAAAAAAAAgAAAEMAAAAGAAAA"
+          ]
+        }
+      ]
+    },
+    {
+      "transient_key": 182,
+      "reference_key_string": "AQQHAEAAAAAAAAAAAgAAADcAAAADAAAAPAAAAAYAAAA+AAAABgAAAE8AAAAGAAAAUQAAAAYAAABSAAAABgAAAEoAAAAGAAAA",
+      "surface_type": "kPlaneSurface",
+      "area_cm2": 4.2529271843459711,
+      "normal": [
+        -0.86602540378443882,
+        0.0,
+        0.49999999999999967
+      ],
+      "center": [
+        -1.3856406460551023,
+        -4.4000000000000012,
+        9.8
+      ],
+      "bbox_min": {
+        "x": -1.8475208614068024,
+        "y": -5.6000000000000014,
+        "z": 9.0
+      },
+      "bbox_max": {
+        "x": -0.923760430703402,
+        "y": -3.2000000000000011,
+        "z": 10.6
+      },
+      "created_by_feature": "STDMoer_M26_INV8.ipt:1",
+      "loops": [
+        {
+          "is_outer": true,
+          "edge_reference_keys": [
+            "AQQBABAAAAAAAAAAAgAAADwAAAAGAAAA",
+            "AQQBABAAAAAAAAAAAgAAAD4AAAAGAAAA",
+            "AQQBABAAAAAAAAAAAgAAAE8AAAAGAAAA",
+            "AQQBABAAAAAAAAAAAgAAAFEAAAAGAAAA",
+            "AQQBABAAAAAAAAAAAgAAAFIAAAAGAAAA",
+            "AQQBABAAAAAAAAAAAgAAAEoAAAAGAAAA"
+          ]
+        }
+      ]
+    },
+    {
+      "transient_key": 186,
+      "reference_key_string": "AQQEACgAAAAAAAAAAgAAAEEAAAADAAAAVQAAAAYAAABXAAAABgAAAFgAAAAGAAAA",
+      "surface_type": "kConeSurface",
+      "area_cm2": 0.15889120918680089,
+      "normal": [
+        -0.25000000000000028,
+        -0.8660254037844386,
+        -0.43301270189221941
+      ],
+      "center": [
+        -0.8618802153517009,
+        -5.528546882018369,
+        7.50717967697245
+      ],
+      "radius_cm": 1.5999999999999999,
+      "half_angle_rad": 1.0471975511965976,
+      "axis": [
+        0.0,
+        1.0,
+        0.0
+      ],
+      "bbox_min": {
+        "x": -1.3856406460551018,
+        "y": -5.6000000000000014,
+        "z": 7.4
+      },
+      "bbox_max": {
+        "x": 0.0,
+        "y": -5.4570937640367365,
+        "z": 8.2000000000000011
+      },
+      "created_by_feature": "STDMoer_M26_INV8.ipt:1",
+      "loops": [
+        {
+          "is_outer": true,
+          "edge_reference_keys": [
+            "AQQBABAAAAAAAAAAAgAAAFUAAAAGAAAA",
+            "AQQBABAAAAAAAAAAAgAAAFcAAAAGAAAA",
+            "AQQBABAAAAAAAAAAAgAAAFgAAAAGAAAA"
+          ]
+        }
+      ]
+    },
+    {
+      "transient_key": 190,
+      "reference_key_string": "AQQEACgAAAAAAAAAAgAAAEEAAAADAAAAUQAAAAYAAABZAAAABgAAAFoAAAAGAAAA",
+      "surface_type": "kConeSurface",
+      "area_cm2": 0.15889120918680072,
+      "normal": [
+        -0.50000000000000011,
+        -0.8660254037844386,
+        -2.2204460492503136E-16
+      ],
+      "center": [
+        -1.7237604307034007,
+        -5.528546882018369,
+        9.0
+      ],
+      "radius_cm": 1.5999999999999999,
+      "half_angle_rad": 1.0471975511965976,
+      "axis": [
+        0.0,
+        1.0,
+        0.0
+      ],
+      "bbox_min": {
+        "x": -1.8475208614068024,
+        "y": -5.6000000000000014,
+        "z": 8.2
+      },
+      "bbox_max": {
+        "x": -1.3856406460551018,
+        "y": -5.4570937640367365,
+        "z": 9.7999999999999989
+      },
+      "created_by_feature": "STDMoer_M26_INV8.ipt:1",
+      "loops": [
+        {
+          "is_outer": true,
+          "edge_reference_keys": [
+            "AQQBABAAAAAAAAAAAgAAAFEAAAAGAAAA",
+            "AQQBABAAAAAAAAAAAgAAAFkAAAAGAAAA",
+            "AQQBABAAAAAAAAAAAgAAAFoAAAAGAAAA"
+          ]
+        }
+      ]
+    },
+    {
+      "transient_key": 193,
+      "reference_key_string": "AQQEACgAAAAAAAAAAgAAAEEAAAADAAAATAAAAAYAAABSAAAABgAAAFsAAAAGAAAA",
+      "surface_type": "kConeSurface",
+      "area_cm2": 0.15889120918679989,
+      "normal": [
+        -0.25000000000000022,
+        -0.86602540378443849,
+        0.43301270189221924
+      ],
+      "center": [
+        -0.86188021535170112,
+        -5.528546882018369,
+        10.49282032302755
+      ],
+      "radius_cm": 1.5999999999999999,
+      "half_angle_rad": 1.0471975511965976,
+      "axis": [
+        0.0,
+        1.0,
+        0.0
+      ],
+      "bbox_min": {
+        "x": -1.3856406460551023,
+        "y": -5.6000000000000014,
+        "z": 9.7999999999999989
+      },
+      "bbox_max": {
+        "x": -8.8817841970012523E-16,
+        "y": -5.4570937640367356,
+        "z": 10.6
+      },
+      "created_by_feature": "STDMoer_M26_INV8.ipt:1",
+      "loops": [
+        {
+          "is_outer": true,
+          "edge_reference_keys": [
+            "AQQBABAAAAAAAAAAAgAAAEwAAAAGAAAA",
+            "AQQBABAAAAAAAAAAAgAAAFIAAAAGAAAA",
+            "AQQBABAAAAAAAAAAAgAAAFsAAAAGAAAA"
+          ]
+        }
+      ]
+    },
+    {
+      "transient_key": 195,
+      "reference_key_string": "AQQEACgAAAAAAAAAAgAAAEEAAAADAAAATQAAAAYAAABcAAAABgAAAEUAAAAGAAAA",
+      "surface_type": "kConeSurface",
+      "area_cm2": 0.15889120918680211,
+      "normal": [
+        0.24999999999999975,
+        -0.86602540378443849,
+        0.43301270189221958
+      ],
+      "center": [
+        0.86188021535169945,
+        -5.528546882018369,
+        10.492820323027551
+      ],
+      "radius_cm": 1.5999999999999999,
+      "half_angle_rad": 1.0471975511965976,
+      "axis": [
+        0.0,
+        1.0,
+        0.0
+      ],
+      "bbox_min": {
+        "x": -8.0851447969188836E-16,
+        "y": -5.6000000000000014,
+        "z": 9.8
+      },
+      "bbox_max": {
+        "x": 1.3856406460551018,
+        "y": -5.4570937640367356,
+        "z": 10.600000000000001
+      },
+      "created_by_feature": "STDMoer_M26_INV8.ipt:1",
+      "loops": [
+        {
+          "is_outer": true,
+          "edge_reference_keys": [
+            "AQQBABAAAAAAAAAAAgAAAE0AAAAGAAAA",
+            "AQQBABAAAAAAAAAAAgAAAFwAAAAGAAAA",
+            "AQQBABAAAAAAAAAAAgAAAEUAAAAGAAAA"
+          ]
+        }
+      ]
+    },
+    {
+      "transient_key": 197,
+      "reference_key_string": "AQQEACgAAAAAAAAAAgAAAEEAAAADAAAARwAAAAYAAABeAAAABgAAAF8AAAAGAAAA",
+      "surface_type": "kConeSurface",
+      "area_cm2": 0.15889120918680003,
+      "normal": [
+        0.50000000000000011,
+        -0.8660254037844386,
+        -1.6081226496766371E-16
+      ],
+      "center": [
+        1.7237604307034007,
+        -5.528546882018369,
+        9.0
+      ],
+      "radius_cm": 1.5999999999999999,
+      "half_angle_rad": 1.0471975511965976,
+      "axis": [
+        0.0,
+        1.0,
+        0.0
+      ],
+      "bbox_min": {
+        "x": 1.3856406460551014,
+        "y": -5.6000000000000014,
+        "z": 8.2
+      },
+      "bbox_max": {
+        "x": 1.8475208614068022,
+        "y": -5.4570937640367365,
+        "z": 9.8
+      },
+      "created_by_feature": "STDMoer_M26_INV8.ipt:1",
+      "loops": [
+        {
+          "is_outer": true,
+          "edge_reference_keys": [
+            "AQQBABAAAAAAAAAAAgAAAEcAAAAGAAAA",
+            "AQQBABAAAAAAAAAAAgAAAF4AAAAGAAAA",
+            "AQQBABAAAAAAAAAAAgAAAF8AAAAGAAAA"
+          ]
+        }
+      ]
+    },
+    {
+      "transient_key": 200,
+      "reference_key_string": "AQQEACgAAAAAAAAAAgAAAEEAAAADAAAAYQAAAAYAAABiAAAABgAAAGMAAAAGAAAA",
+      "surface_type": "kConeSurface",
+      "area_cm2": 0.15889120918680011,
+      "normal": [
+        0.24999999999999992,
+        -0.86602540378443849,
+        -0.43301270189221952
+      ],
+      "center": [
+        0.86188021535170012,
+        -5.528546882018369,
+        7.5071796769724486
+      ],
+      "radius_cm": 1.5999999999999999,
+      "half_angle_rad": 1.0471975511965976,
+      "axis": [
+        0.0,
+        1.0,
+        0.0
+      ],
+      "bbox_min": {
+        "x": -9.7971743931788249E-17,
+        "y": -5.6000000000000014,
+        "z": 7.4
+      },
+      "bbox_max": {
+        "x": 1.3856406460551014,
+        "y": -5.4570937640367365,
+        "z": 8.2
+      },
+      "created_by_feature": "STDMoer_M26_INV8.ipt:1",
+      "loops": [
+        {
+          "is_outer": true,
+          "edge_reference_keys": [
+            "AQQBABAAAAAAAAAAAgAAAGEAAAAGAAAA",
+            "AQQBABAAAAAAAAAAAgAAAGIAAAAGAAAA",
+            "AQQBABAAAAAAAAAAAgAAAGMAAAAGAAAA"
+          ]
+        }
+      ]
+    },
+    {
+      "transient_key": 204,
+      "reference_key_string": "AQQHAEAAAAAAAAAAAgAAACUAAAADAAAALwAAAAYAAABIAAAABgAAAF8AAAAGAAAAYQAAAAYAAABkAAAABgAAACgAAAAGAAAA",
+      "surface_type": "kPlaneSurface",
+      "area_cm2": 4.2529271843459737,
+      "normal": [
+        0.8660254037844386,
+        0.0,
+        -0.50000000000000022
+      ],
+      "center": [
+        1.3856406460551014,
+        -4.4000000000000012,
+        8.2
+      ],
+      "bbox_min": {
+        "x": 0.92376043070340086,
+        "y": -5.6000000000000014,
+        "z": 7.4
+      },
+      "bbox_max": {
+        "x": 1.8475208614068022,
+        "y": -3.2000000000000011,
+        "z": 9.0
+      },
+      "created_by_feature": "STDMoer_M26_INV8.ipt:1",
+      "loops": [
+        {
+          "is_outer": true,
+          "edge_reference_keys": [
+            "AQQBABAAAAAAAAAAAgAAAC8AAAAGAAAA",
+            "AQQBABAAAAAAAAAAAgAAAEgAAAAGAAAA",
+            "AQQBABAAAAAAAAAAAgAAAF8AAAAGAAAA",
+            "AQQBABAAAAAAAAAAAgAAAGEAAAAGAAAA",
+            "AQQBABAAAAAAAAAAAgAAAGQAAAAGAAAA",
+            "AQQBABAAAAAAAAAAAgAAACgAAAAGAAAA"
+          ]
+        }
+      ]
+    },
+    {
+      "transient_key": 206,
+      "reference_key_string": "AQQHAEAAAAAAAAAAAgAAABwAAAADAAAAKQAAAAYAAABkAAAABgAAAGMAAAAGAAAAVwAAAAYAAABlAAAABgAAACEAAAAGAAAA",
+      "surface_type": "kPlaneSurface",
+      "area_cm2": 4.2529271843459746,
+      "normal": [
+        0.0,
+        0.0,
+        -1.0
+      ],
+      "center": [
+        -2.2204460492503131E-16,
+        -4.4000000000000021,
+        7.4
+      ],
+      "bbox_min": {
+        "x": -0.9237604307034013,
+        "y": -5.6000000000000014,
+        "z": 7.4
+      },
+      "bbox_max": {
+        "x": 0.92376043070340086,
+        "y": -3.2000000000000011,
+        "z": 7.4
+      },
+      "created_by_feature": "STDMoer_M26_INV8.ipt:1",
+      "loops": [
+        {
+          "is_outer": true,
+          "edge_reference_keys": [
+            "AQQBABAAAAAAAAAAAgAAACkAAAAGAAAA",
+            "AQQBABAAAAAAAAAAAgAAAGQAAAAGAAAA",
+            "AQQBABAAAAAAAAAAAgAAAGMAAAAGAAAA",
+            "AQQBABAAAAAAAAAAAgAAAFcAAAAGAAAA",
+            "AQQBABAAAAAAAAAAAgAAAGUAAAAGAAAA",
+            "AQQBABAAAAAAAAAAAgAAACEAAAAGAAAA"
+          ]
+        }
+      ]
+    },
+    {
+      "transient_key": 208,
+      "reference_key_string": "AQQHAEAAAAAAAAAAAgAAAB0AAAADAAAAIwAAAAYAAABlAAAABgAAAFUAAAAGAAAAWQAAAAYAAABPAAAABgAAAEAAAAAGAAAA",
+      "surface_type": "kPlaneSurface",
+      "area_cm2": 4.2529271843459737,
+      "normal": [
+        -0.86602540378443871,
+        0.0,
+        -0.50000000000000011
+      ],
+      "center": [
+        -1.3856406460551018,
+        -4.4000000000000012,
+        8.2000000000000011
+      ],
+      "bbox_min": {
+        "x": -1.8475208614068024,
+        "y": -5.6000000000000014,
+        "z": 7.4
+      },
+      "bbox_max": {
+        "x": -0.9237604307034013,
+        "y": -3.2000000000000011,
+        "z": 9.0
+      },
+      "created_by_feature": "STDMoer_M26_INV8.ipt:1",
+      "loops": [
+        {
+          "is_outer": true,
+          "edge_reference_keys": [
+            "AQQBABAAAAAAAAAAAgAAACMAAAAGAAAA",
+            "AQQBABAAAAAAAAAAAgAAAGUAAAAGAAAA",
+            "AQQBABAAAAAAAAAAAgAAAFUAAAAGAAAA",
+            "AQQBABAAAAAAAAAAAgAAAFkAAAAGAAAA",
+            "AQQBABAAAAAAAAAAAgAAAE8AAAAGAAAA",
+            "AQQBABAAAAAAAAAAAgAAAEAAAAAGAAAA"
+          ]
+        }
+      ]
+    },
+    {
+      "transient_key": 209,
+      "reference_key_string": "AQQIAEgAAAAAAAAAAgAAABIAAAADAAAAFAAAAAYAAABiAAAABgAAAF4AAAAGAAAAXAAAAAYAAABbAAAABgAAAFoAAAAGAAAAWAAAAAYAAAA=",
+      "surface_type": "kPlaneSurface",
+      "area_cm2": 3.1235231865400657,
+      "normal": [
+        0.0,
+        -1.0,
+        0.0
+      ],
+      "center": [
+        2.859665366458737E-16,
+        -5.6000000000000014,
+        9.0
+      ],
+      "bbox_min": {
+        "x": -1.5999999999999999,
+        "y": -5.6000000000000014,
+        "z": 7.4
+      },
+      "bbox_max": {
+        "x": 1.5999999999999999,
+        "y": -5.6000000000000014,
+        "z": 10.6
+      },
+      "created_by_feature": "STDMoer_M26_INV8.ipt:1",
+      "loops": [
+        {
+          "is_outer": false,
+          "edge_reference_keys": [
+            "AQQBABAAAAAAAAAAAgAAABQAAAAGAAAA"
+          ]
+        },
+        {
+          "is_outer": true,
+          "edge_reference_keys": [
+            "AQQBABAAAAAAAAAAAgAAAGIAAAAGAAAA",
+            "AQQBABAAAAAAAAAAAgAAAF4AAAAGAAAA",
+            "AQQBABAAAAAAAAAAAgAAAFwAAAAGAAAA",
+            "AQQBABAAAAAAAAAAAgAAAFsAAAAGAAAA",
+            "AQQBABAAAAAAAAAAAgAAAFoAAAAGAAAA",
+            "AQQBABAAAAAAAAAAAgAAAFgAAAAGAAAA"
+          ]
+        }
+      ]
+    },
+    {
+      "transient_key": 210,
+      "reference_key_string": "AQQIAEgAAAAAAAAAAgAAAB8AAAADAAAAZwAAAAYAAAA/AAAABgAAADsAAAAGAAAANQAAAAYAAAAwAAAABgAAACoAAAAGAAAAJAAAAAYAAAA=",
+      "surface_type": "kPlaneSurface",
+      "area_cm2": 5.7726765009712473,
+      "normal": [
+        0.0,
+        1.0,
+        0.0
+      ],
+      "center": [
+        5.2735593669694936E-16,
+        -3.2000000000000011,
+        9.0
+      ],
+      "bbox_min": {
+        "x": -1.6000000000000003,
+        "y": -3.2000000000000011,
+        "z": 7.3999999999999995
+      },
+      "bbox_max": {
+        "x": 1.6000000000000003,
+        "y": -3.2000000000000011,
+        "z": 10.6
+      },
+      "created_by_feature": "STDMoer_M26_INV8.ipt:1",
+      "loops": [
+        {
+          "is_outer": false,
+          "edge_reference_keys": [
+            "AQQBABAAAAAAAAAAAgAAAGcAAAAGAAAA"
+          ]
+        },
+        {
+          "is_outer": true,
+          "edge_reference_keys": [
+            "AQQBABAAAAAAAAAAAgAAAD8AAAAGAAAA",
+            "AQQBABAAAAAAAAAAAgAAADsAAAAGAAAA",
+            "AQQBABAAAAAAAAAAAgAAADUAAAAGAAAA",
+            "AQQBABAAAAAAAAAAAgAAADAAAAAGAAAA",
+            "AQQBABAAAAAAAAAAAgAAACoAAAAGAAAA",
+            "AQQBABAAAAAAAAAAAgAAACQAAAAGAAAA"
+          ]
+        }
+      ]
+    },
+    {
+      "transient_key": 212,
+      "reference_key_string": "AQQDACAAAAAAAAAAAgAAABgAAAADAAAAagAAAAYAAABnAAAABgAAAA==",
+      "surface_type": "kCylinderSurface",
+      "area_cm2": 6.4088490133231835,
+      "normal": [
+        -1.0,
+        0.0,
+        0.0
+      ],
+      "center": [
+        -0.85000000000000009,
+        -2.6,
+        9.0
+      ],
+      "radius_cm": 0.85000000000000009,
+      "axis": [
+        0.0,
+        -1.0,
+        0.0
+      ],
+      "bbox_min": {
+        "x": -0.85000000000000009,
+        "y": -3.2000000000000011,
+        "z": 8.15
+      },
+      "bbox_max": {
+        "x": 0.85000000000000009,
+        "y": -1.9999999999999993,
+        "z": 9.85
+      },
+      "created_by_feature": "tabel_9_M26.ipt:1",
+      "loops": [
+        {
+          "is_outer": true,
+          "edge_reference_keys": [
+            "AQQBABAAAAAAAAAAAgAAAGoAAAAGAAAA"
+          ]
+        },
+        {
+          "is_outer": true,
+          "edge_reference_keys": [
+            "AQQBABAAAAAAAAAAAgAAAGcAAAAGAAAA"
+          ]
+        }
+      ]
+    },
+    {
+      "transient_key": 214,
+      "reference_key_string": "AQQDACAAAAAAAAAAAgAAAGsAAAADAAAAbgAAAAYAAABxAAAABgAAAA==",
+      "surface_type": "kCylinderSurface",
+      "area_cm2": 13.885839528866892,
+      "normal": [
+        1.0,
+        0.0,
+        0.0
+      ],
+      "center": [
+        -0.65,
+        -3.7,
+        9.0
+      ],
+      "radius_cm": 0.65,
+      "axis": [
+        0.0,
+        -1.0,
+        0.0
+      ],
+      "bbox_min": {
+        "x": -0.65,
+        "y": -5.4000000000000012,
+        "z": 8.35
+      },
+      "bbox_max": {
+        "x": 0.65,
+        "y": -1.9999999999999991,
+        "z": 9.65
+      },
+      "created_by_feature": "tabel_9_M26.ipt:1",
+      "loops": [
+        {
+          "is_outer": true,
+          "edge_reference_keys": [
+            "AQQBABAAAAAAAAAAAgAAAG4AAAAGAAAA"
+          ]
+        },
+        {
+          "is_outer": true,
+          "edge_reference_keys": [
+            "AQQBABAAAAAAAAAAAgAAAHEAAAAGAAAA"
+          ]
+        }
+      ]
+    },
+    {
+      "transient_key": 217,
+      "reference_key_string": "AQQDACAAAAAAAAAAAgAAAG8AAAADAAAAcQAAAAYAAAB0AAAABgAAAA==",
+      "surface_type": "kTorusSurface",
+      "area_cm2": 12.830485721416164,
+      "normal": [
+        0.0,
+        -0.70710678118654768,
+        -0.70710678118654735
+      ],
+      "center": [
+        0.0,
+        -0.12616702985564893,
+        8.8738329701443526
+      ],
+      "radius_cm": 1.9999999999999987,
+      "minor_radius_cm": 0.65,
+      "axis": [
+        1.0,
+        0.0,
+        0.0
+      ],
+      "bbox_min": {
+        "x": -0.65,
+        "y": -2.0000000000000004,
+        "z": 7.0
+      },
+      "bbox_max": {
+        "x": 0.65,
+        "y": 0.64999999999999947,
+        "z": 9.65
+      },
+      "created_by_feature": "tabel_9_M26.ipt:1",
+      "loops": [
+        {
+          "is_outer": true,
+          "edge_reference_keys": [
+            "AQQBABAAAAAAAAAAAgAAAHEAAAAGAAAA"
+          ]
+        },
+        {
+          "is_outer": true,
+          "edge_reference_keys": [
+            "AQQBABAAAAAAAAAAAgAAAHQAAAAGAAAA"
+          ]
+        }
+      ]
+    },
+    {
+      "transient_key": 219,
+      "reference_key_string": "AQQDACAAAAAAAAAAAgAAABgAAAADAAAAGgAAAAYAAAB2AAAABgAAAA==",
+      "surface_type": "kCylinderSurface",
+      "area_cm2": 9.6132735199847659,
+      "normal": [
+        -1.0,
+        0.0,
+        0.0
+      ],
+      "center": [
+        -0.85000000000000009,
+        -4.5000000000000018,
+        9.0
+      ],
+      "radius_cm": 0.85000000000000009,
+      "axis": [
+        0.0,
+        -1.0,
+        0.0
+      ],
+      "bbox_min": {
+        "x": -0.85000000000000009,
+        "y": -5.4000000000000021,
+        "z": 8.15
+      },
+      "bbox_max": {
+        "x": 0.85000000000000009,
+        "y": -3.6000000000000014,
+        "z": 9.85
+      },
+      "created_by_feature": "tabel_9_M26.ipt:1",
+      "loops": [
+        {
+          "is_outer": true,
+          "edge_reference_keys": [
+            "AQQBABAAAAAAAAAAAgAAABoAAAAGAAAA"
+          ]
+        },
+        {
+          "is_outer": true,
+          "edge_reference_keys": [
+            "AQQBABAAAAAAAAAAAgAAAHYAAAAGAAAA"
+          ]
+        }
+      ]
+    },
+    {
+      "transient_key": 221,
+      "reference_key_string": "AQQDACAAAAAAAAAAAgAAAGgAAAADAAAAagAAAAYAAAB5AAAABgAAAA==",
+      "surface_type": "kTorusSurface",
+      "area_cm2": 16.778327481851907,
+      "normal": [
+        0.0,
+        0.70710678118654768,
+        0.70710678118654746
+      ],
+      "center": [
+        0.0,
+        0.015254326381660688,
+        9.0152543263816618
+      ],
+      "radius_cm": 1.9999999999999987,
+      "minor_radius_cm": 0.85000000000000009,
+      "axis": [
+        1.0,
+        0.0,
+        0.0
+      ],
+      "bbox_min": {
+        "x": -0.85000000000000009,
+        "y": -2.0000000000000009,
+        "z": 7.0
+      },
+      "bbox_max": {
+        "x": 0.85000000000000009,
+        "y": 0.84999999999999964,
+        "z": 9.85
+      },
+      "created_by_feature": "tabel_9_M26.ipt:1",
+      "loops": [
+        {
+          "is_outer": true,
+          "edge_reference_keys": [
+            "AQQBABAAAAAAAAAAAgAAAGoAAAAGAAAA"
+          ]
+        },
+        {
+          "is_outer": true,
+          "edge_reference_keys": [
+            "AQQBABAAAAAAAAAAAgAAAHkAAAAGAAAA"
+          ]
+        }
+      ]
+    },
+    {
+      "transient_key": 223,
+      "reference_key_string": "AQQDACAAAAAAAAAAAgAAAGwAAAADAAAAbgAAAAYAAAB2AAAABgAAAA==",
+      "surface_type": "kPlaneSurface",
+      "area_cm2": 0.94247779607693838,
+      "normal": [
+        0.0,
+        -1.0,
+        0.0
+      ],
+      "center": [
+        0.0,
+        -5.4000000000000012,
+        9.0
+      ],
+      "bbox_min": {
+        "x": -0.85000000000000009,
+        "y": -5.4000000000000021,
+        "z": 8.15
+      },
+      "bbox_max": {
+        "x": 0.85000000000000009,
+        "y": -5.4,
+        "z": 9.85
+      },
+      "created_by_feature": "tabel_9_M26.ipt:1",
+      "loops": [
+        {
+          "is_outer": false,
+          "edge_reference_keys": [
+            "AQQBABAAAAAAAAAAAgAAAG4AAAAGAAAA"
+          ]
+        },
+        {
+          "is_outer": true,
+          "edge_reference_keys": [
+            "AQQBABAAAAAAAAAAAgAAAHYAAAAGAAAA"
+          ]
+        }
+      ]
+    },
+    {
+      "transient_key": 224,
+      "reference_key_string": "AQQDACAAAAAAAAAAAgAAAHoAAAADAAAAfQAAAAYAAACAAAAABgAAAA==",
+      "surface_type": "kTorusSurface",
+      "area_cm2": 0.93900734791726714,
+      "normal": [
+        -0.54772255750516519,
+        0.0,
+        0.83666002653407623
+      ],
+      "center": [
+        -1.2921586099938933,
+        0.0,
+        2.9836660026534076
+      ],
+      "radius_cm": 1.2373863542433767,
+      "minor_radius_cm": 0.1,
+      "axis": [
+        0.0,
+        0.0,
+        -1.0
+      ],
+      "bbox_min": {
+        "x": -1.3290378681424935,
+        "y": -1.3290378681424935,
+        "z": 2.94
+      },
+      "bbox_max": {
+        "x": 1.3290378681424935,
+        "y": 1.3290378681424935,
+        "z": 3.0
+      },
+      "created_by_feature": "tabel_9_M26.ipt:1",
+      "loops": [
+        {
+          "is_outer": true,
+          "edge_reference_keys": [
+            "AQQBABAAAAAAAAAAAgAAAH0AAAAGAAAA"
+          ]
+        },
+        {
+          "is_outer": true,
+          "edge_reference_keys": [
+            "AQQBABAAAAAAAAAAAgAAAIAAAAAGAAAA"
+          ]
+        }
+      ]
+    },
+    {
+      "transient_key": 227,
+      "reference_key_string": "AQQDACAAAAAAAAAAAgAAAH4AAAADAAAAgwAAAAYAAACAAAAABgAAAA==",
+      "surface_type": "kTorusSurface",
+      "area_cm2": 6.600103993965492,
+      "normal": [
+        0.99923098496775653,
+        0.0,
+        -0.039210185926199549
+      ],
+      "center": [
+        1.3993463372225936,
+        0.0,
+        2.5666713419627309
+      ],
+      "radius_cm": 0.55000000000000138,
+      "minor_radius_cm": 0.8499999999999992,
+      "axis": [
+        0.0,
+        0.0,
+        1.0
+      ],
+      "bbox_min": {
+        "x": -1.4000000000000006,
+        "y": -1.4000000000000006,
+        "z": 2.1999999999999997
+      },
+      "bbox_max": {
+        "x": 1.4000000000000006,
+        "y": 1.4000000000000006,
+        "z": 2.94
+      },
+      "created_by_feature": "tabel_9_M26.ipt:1",
+      "loops": [
+        {
+          "is_outer": true,
+          "edge_reference_keys": [
+            "AQQBABAAAAAAAAAAAgAAAIMAAAAGAAAA"
+          ]
+        },
+        {
+          "is_outer": true,
+          "edge_reference_keys": [
+            "AQQBABAAAAAAAAAAAgAAAIAAAAAGAAAA"
+          ]
+        }
+      ]
+    },
+    {
+      "transient_key": 229,
+      "reference_key_string": "AQQDACAAAAAAAAAAAgAAAHsAAAADAAAAhgAAAAYAAAB9AAAABgAAAA==",
+      "surface_type": "kPlaneSurface",
+      "area_cm2": 1.9748836494030542,
+      "normal": [
+        0.0,
+        0.0,
+        1.0
+      ],
+      "center": [
+        0.0,
+        0.0,
+        3.0
+      ],
+      "bbox_min": {
+        "x": -1.2373863542433767,
+        "y": -1.2373863542433767,
+        "z": 3.0
+      },
+      "bbox_max": {
+        "x": 1.2373863542433767,
+        "y": 1.2373863542433767,
+        "z": 3.0
+      },
+      "created_by_feature": "tabel_9_M26.ipt:1",
+      "loops": [
+        {
+          "is_outer": false,
+          "edge_reference_keys": [
+            "AQQBABAAAAAAAAAAAgAAAIYAAAAGAAAA"
+          ]
+        },
+        {
+          "is_outer": true,
+          "edge_reference_keys": [
+            "AQQBABAAAAAAAAAAAgAAAH0AAAAGAAAA"
+          ]
+        }
+      ]
+    },
+    {
+      "transient_key": 231,
+      "reference_key_string": "AQQDACAAAAAAAAAAAgAAAIcAAAADAAAAigAAAAYAAACNAAAABgAAAA==",
+      "surface_type": "kTorusSurface",
+      "area_cm2": 1.5185985022324764,
+      "normal": [
+        -0.70710678118654791,
+        0.0,
+        0.70710678118654713
+      ],
+      "center": [
+        -1.5457106781186549,
+        0.0,
+        0.17071067811865476
+      ],
+      "radius_cm": 1.475,
+      "minor_radius_cm": 0.1,
+      "axis": [
+        0.0,
+        0.0,
+        -1.0
+      ],
+      "bbox_min": {
+        "x": -1.5750000000000002,
+        "y": -1.5750000000000002,
+        "z": 0.1
+      },
+      "bbox_max": {
+        "x": 1.5750000000000002,
+        "y": 1.5750000000000002,
+        "z": 0.2
+      },
+      "created_by_feature": "tabel_9_M26.ipt:1",
+      "loops": [
+        {
+          "is_outer": true,
+          "edge_reference_keys": [
+            "AQQBABAAAAAAAAAAAgAAAIoAAAAGAAAA"
+          ]
+        },
+        {
+          "is_outer": true,
+          "edge_reference_keys": [
+            "AQQBABAAAAAAAAAAAgAAAI0AAAAGAAAA"
+          ]
+        }
+      ]
+    },
+    {
+      "transient_key": 234,
+      "reference_key_string": "AQQDACAAAAAAAAAAAgAAAIgAAAADAAAAkAAAAAYAAACKAAAABgAAAA==",
+      "surface_type": "kPlaneSurface",
+      "area_cm2": 0.22972896279375288,
+      "normal": [
+        0.0,
+        0.0,
+        1.0
+      ],
+      "center": [
+        0.0,
+        0.0,
+        0.2
+      ],
+      "bbox_min": {
+        "x": -1.475,
+        "y": -1.475,
+        "z": 0.2
+      },
+      "bbox_max": {
+        "x": 1.475,
+        "y": 1.475,
+        "z": 0.2
+      },
+      "created_by_feature": "tabel_9_M26.ipt:1",
+      "loops": [
+        {
+          "is_outer": false,
+          "edge_reference_keys": [
+            "AQQBABAAAAAAAAAAAgAAAJAAAAAGAAAA"
+          ]
+        },
+        {
+          "is_outer": true,
+          "edge_reference_keys": [
+            "AQQBABAAAAAAAAAAAgAAAIoAAAAGAAAA"
+          ]
+        }
+      ]
+    },
+    {
+      "transient_key": 236,
+      "reference_key_string": "AQQDACAAAAAAAAAAAgAAAIsAAAADAAAAkwAAAAYAAACNAAAABgAAAA==",
+      "surface_type": "kCylinderSurface",
+      "area_cm2": 0.989601685880785,
+      "normal": [
+        -1.0,
+        0.0,
+        0.0
+      ],
+      "center": [
+        -1.5750000000000002,
+        0.0,
+        0.05
+      ],
+      "radius_cm": 1.5750000000000002,
+      "axis": [
+        0.0,
+        0.0,
+        1.0
+      ],
+      "bbox_min": {
+        "x": -1.5750000000000002,
+        "y": -1.5750000000000002,
+        "z": 0.0
+      },
+      "bbox_max": {
+        "x": 1.5750000000000002,
+        "y": 1.5750000000000002,
+        "z": 0.1
+      },
+      "created_by_feature": "tabel_9_M26.ipt:1",
+      "loops": [
+        {
+          "is_outer": true,
+          "edge_reference_keys": [
+            "AQQBABAAAAAAAAAAAgAAAJMAAAAGAAAA"
+          ]
+        },
+        {
+          "is_outer": true,
+          "edge_reference_keys": [
+            "AQQBABAAAAAAAAAAAgAAAI0AAAAGAAAA"
+          ]
+        }
+      ]
+    },
+    {
+      "transient_key": 238,
+      "reference_key_string": "AQQDACAAAAAAAAAAAgAAAJQAAAADAAAAlgAAAAYAAACYAAAABgAAAA==",
+      "surface_type": "kTorusSurface",
+      "area_cm2": 7.15095665856951,
+      "normal": [
+        -1.0,
+        0.0,
+        0.0
+      ],
+      "center": [
+        -1.4000000000000008,
+        0.0,
+        1.6999999999999997
+      ],
+      "radius_cm": 0.55000000000000027,
+      "minor_radius_cm": 0.85000000000000042,
+      "axis": [
+        0.0,
+        0.0,
+        -1.0
+      ],
+      "bbox_min": {
+        "x": -1.4000000000000008,
+        "y": -1.4000000000000008,
+        "z": 1.2999999999999985
+      },
+      "bbox_max": {
+        "x": 1.4000000000000008,
+        "y": 1.4000000000000008,
+        "z": 2.100000000000001
+      },
+      "created_by_feature": "tabel_9_M26.ipt:1",
+      "loops": [
+        {
+          "is_outer": true,
+          "edge_reference_keys": [
+            "AQQBABAAAAAAAAAAAgAAAJYAAAAGAAAA"
+          ]
+        },
+        {
+          "is_outer": true,
+          "edge_reference_keys": [
+            "AQQBABAAAAAAAAAAAgAAAJgAAAAGAAAA"
+          ]
+        }
+      ]
+    },
+    {
+      "transient_key": 241,
+      "reference_key_string": "AQQEACgAAAAAAAAAAgAAAIEAAAADAAAAnAAAAAYAAACdAAAABgAAAJYAAAAGAAAA",
+      "surface_type": "kCylinderSurface",
+      "area_cm2": 0.81681408993333426,
+      "normal": [
+        -1.0,
+        0.0,
+        0.0
+      ],
+      "center": [
+        -1.3,
+        0.0,
+        1.2499999999999991
+      ],
+      "radius_cm": 1.3,
+      "axis": [
+        0.0,
+        0.0,
+        1.0
+      ],
+      "bbox_min": {
+        "x": -1.3,
+        "y": -1.3,
+        "z": 1.2
+      },
+      "bbox_max": {
+        "x": 1.3,
+        "y": 1.3,
+        "z": 1.2999999999999998
+      },
+      "created_by_feature": "tabel_9_M26.ipt:1",
+      "loops": [
+        {
+          "is_outer": true,
+          "edge_reference_keys": [
+            "AQQBABAAAAAAAAAAAgAAAJwAAAAGAAAA",
+            "AQQBABAAAAAAAAAAAgAAAJ0AAAAGAAAA"
+          ]
+        },
+        {
+          "is_outer": true,
+          "edge_reference_keys": [
+            "AQQBABAAAAAAAAAAAgAAAJYAAAAGAAAA"
+          ]
+        }
+      ]
+    },
+    {
+      "transient_key": 244,
+      "reference_key_string": "AQQDACAAAAAAAAAAAgAAAHIAAAADAAAAdAAAAAYAAACgAAAABgAAAA==",
+      "surface_type": "kCylinderSurface",
+      "area_cm2": 16.336281798666921,
+      "normal": [
+        -1.0,
+        0.0,
+        0.0
+      ],
+      "center": [
+        0.65,
+        0.0,
+        5.0
+      ],
+      "radius_cm": 0.65,
+      "axis": [
+        0.0,
+        0.0,
+        1.0
+      ],
+      "bbox_min": {
+        "x": -0.65,
+        "y": -0.65000000000000047,
+        "z": 3.0
+      },
+      "bbox_max": {
+        "x": 0.65,
+        "y": 0.65,
+        "z": 7.0
+      },
+      "created_by_feature": "tabel_9_M26.ipt:1",
+      "loops": [
+        {
+          "is_outer": true,
+          "edge_reference_keys": [
+            "AQQBABAAAAAAAAAAAgAAAHQAAAAGAAAA"
+          ]
+        },
+        {
+          "is_outer": true,
+          "edge_reference_keys": [
+            "AQQBABAAAAAAAAAAAgAAAKAAAAAGAAAA"
+          ]
+        }
+      ]
+    },
+    {
+      "transient_key": 246,
+      "reference_key_string": "AQQDACAAAAAAAAAAAgAAAHcAAAADAAAAeQAAAAYAAACiAAAABgAAAA==",
+      "surface_type": "kCylinderSurface",
+      "area_cm2": 20.82875929330033,
+      "normal": [
+        -1.0,
+        0.0,
+        0.0
+      ],
+      "center": [
+        -0.85000000000000009,
+        0.0,
+        5.0500000000000007
+      ],
+      "radius_cm": 0.85000000000000009,
+      "axis": [
+        0.0,
+        0.0,
+        1.0
+      ],
+      "bbox_min": {
+        "x": -0.85000000000000009,
+        "y": -0.85000000000000053,
+        "z": 3.1
+      },
+      "bbox_max": {
+        "x": 0.85000000000000009,
+        "y": 0.85000000000000009,
+        "z": 7.0
+      },
+      "created_by_feature": "tabel_9_M26.ipt:1",
+      "loops": [
+        {
+          "is_outer": true,
+          "edge_reference_keys": [
+            "AQQBABAAAAAAAAAAAgAAAHkAAAAGAAAA"
+          ]
+        },
+        {
+          "is_outer": true,
+          "edge_reference_keys": [
+            "AQQBABAAAAAAAAAAAgAAAKIAAAAGAAAA"
+          ]
+        }
+      ]
+    },
+    {
+      "transient_key": 248,
+      "reference_key_string": "AQQDACAAAAAAAAAAAgAAAI4AAAADAAAApQAAAAYAAACQAAAABgAAAA==",
+      "surface_type": "kTorusSurface",
+      "area_cm2": 1.3682607850861612,
+      "normal": [
+        -0.70710678118654668,
+        0.0,
+        0.70710678118654835
+      ],
+      "center": [
+        -1.3792893218813456,
+        0.0,
+        0.22928932188134526
+      ],
+      "radius_cm": 1.4500000000000002,
+      "minor_radius_cm": -0.1,
+      "axis": [
+        0.0,
+        0.0,
+        -1.0
+      ],
+      "bbox_min": {
+        "x": -1.4500000000000002,
+        "y": -1.4500000000000002,
+        "z": 0.2
+      },
+      "bbox_max": {
+        "x": 1.4500000000000002,
+        "y": 1.4500000000000002,
+        "z": 0.30000000000000004
+      },
+      "created_by_feature": "tabel_9_M26.ipt:1",
+      "loops": [
+        {
+          "is_outer": true,
+          "edge_reference_keys": [
+            "AQQBABAAAAAAAAAAAgAAAKUAAAAGAAAA"
+          ]
+        },
+        {
+          "is_outer": true,
+          "edge_reference_keys": [
+            "AQQBABAAAAAAAAAAAgAAAJAAAAAGAAAA"
+          ]
+        }
+      ]
+    },
+    {
+      "transient_key": 250,
+      "reference_key_string": "AQQDACAAAAAAAAAAAgAAAKMAAAADAAAApwAAAAYAAAClAAAABgAAAA==",
+      "surface_type": "kCylinderSurface",
+      "area_cm2": 6.8994814057083387,
+      "normal": [
+        -1.0,
+        0.0,
+        0.0
+      ],
+      "center": [
+        -1.35,
+        0.0,
+        0.70669872981077808
+      ],
+      "radius_cm": 1.35,
+      "axis": [
+        0.0,
+        0.0,
+        1.0
+      ],
+      "bbox_min": {
+        "x": -1.35,
+        "y": -1.35,
+        "z": 0.30000000000000004
+      },
+      "bbox_max": {
+        "x": 1.35,
+        "y": 1.35,
+        "z": 1.1133974596215561
+      },
+      "created_by_feature": "tabel_9_M26.ipt:1",
+      "loops": [
+        {
+          "is_outer": true,
+          "edge_reference_keys": [
+            "AQQBABAAAAAAAAAAAgAAAKcAAAAGAAAA"
+          ]
+        },
+        {
+          "is_outer": true,
+          "edge_reference_keys": [
+            "AQQBABAAAAAAAAAAAgAAAKUAAAAGAAAA"
+          ]
+        }
+      ]
+    },
+    {
+      "transient_key": 252,
+      "reference_key_string": "AQQEACgAAAAAAAAAAgAAAJkAAAADAAAAnAAAAAYAAACdAAAABgAAAKcAAAAGAAAA",
+      "surface_type": "kTorusSurface",
+      "area_cm2": 0.87688101435113941,
+      "normal": [
+        0.86602540378443837,
+        0.0,
+        0.50000000000000044
+      ],
+      "center": [
+        1.3366025403784438,
+        0.0,
+        1.1633974596215562
+      ],
+      "radius_cm": 1.25,
+      "minor_radius_cm": 0.1,
+      "axis": [
+        0.0,
+        0.0,
+        -1.0
+      ],
+      "bbox_min": {
+        "x": -1.35,
+        "y": -1.35,
+        "z": 1.1133974596215561
+      },
+      "bbox_max": {
+        "x": 1.35,
+        "y": 1.35,
+        "z": 1.2
+      },
+      "created_by_feature": "tabel_9_M26.ipt:1",
+      "loops": [
+        {
+          "is_outer": true,
+          "edge_reference_keys": [
+            "AQQBABAAAAAAAAAAAgAAAJwAAAAGAAAA",
+            "AQQBABAAAAAAAAAAAgAAAJ0AAAAGAAAA"
+          ]
+        },
+        {
+          "is_outer": true,
+          "edge_reference_keys": [
+            "AQQBABAAAAAAAAAAAgAAAKcAAAAGAAAA"
+          ]
+        }
+      ]
+    },
+    {
+      "transient_key": 253,
+      "reference_key_string": "AQQDACAAAAAAAAAAAgAAAIQAAAADAAAAogAAAAYAAACGAAAABgAAAA==",
+      "surface_type": "kTorusSurface",
+      "area_cm2": 0.90174822716439151,
+      "normal": [
+        -0.70710678118654813,
+        0.0,
+        0.707106781186547
+      ],
+      "center": [
+        -0.92071067811865481,
+        0.0,
+        3.0707106781186546
+      ],
+      "radius_cm": 0.85000000000000009,
+      "minor_radius_cm": 0.1,
+      "axis": [
+        0.0,
+        0.0,
+        -1.0
+      ],
+      "bbox_min": {
+        "x": -0.95000000000000007,
+        "y": -0.95000000000000007,
+        "z": 3.0
+      },
+      "bbox_max": {
+        "x": 0.95000000000000007,
+        "y": 0.95000000000000007,
+        "z": 3.1
+      },
+      "created_by_feature": "tabel_9_M26.ipt:1",
+      "loops": [
+        {
+          "is_outer": true,
+          "edge_reference_keys": [
+            "AQQBABAAAAAAAAAAAgAAAKIAAAAGAAAA"
+          ]
+        },
+        {
+          "is_outer": true,
+          "edge_reference_keys": [
+            "AQQBABAAAAAAAAAAAgAAAIYAAAAGAAAA"
+          ]
+        }
+      ]
+    },
+    {
+      "transient_key": 254,
+      "reference_key_string": "AQQDACAAAAAAAAAAAgAAAKgAAAADAAAAqwAAAAYAAACuAAAABgAAAA==",
+      "surface_type": "kPlaneSurface",
+      "area_cm2": 1.9261889957322422,
+      "normal": [
+        0.0,
+        0.0,
+        -1.0
+      ],
+      "center": [
+        0.0,
+        0.0,
+        0.1
+      ],
+      "bbox_min": {
+        "x": -1.475,
+        "y": -1.475,
+        "z": 0.1
+      },
+      "bbox_max": {
+        "x": 1.475,
+        "y": 1.475,
+        "z": 0.1
+      },
+      "created_by_feature": "tabel_9_M26.ipt:1",
+      "loops": [
+        {
+          "is_outer": false,
+          "edge_reference_keys": [
+            "AQQBABAAAAAAAAAAAgAAAKsAAAAGAAAA"
+          ]
+        },
+        {
+          "is_outer": true,
+          "edge_reference_keys": [
+            "AQQBABAAAAAAAAAAAgAAAK4AAAAGAAAA"
+          ]
+        }
+      ]
+    },
+    {
+      "transient_key": 257,
+      "reference_key_string": "AQQDACAAAAAAAAAAAgAAAAUAAAADAAAABwAAAAYAAACwAAAABgAAAA==",
+      "surface_type": "kPlaneSurface",
+      "area_cm2": 0.3848451000647497,
+      "normal": [
+        0.0,
+        0.0,
+        -1.0
+      ],
+      "center": [
+        0.0,
+        0.0,
+        1.0999999999999999
+      ],
+      "bbox_min": {
+        "x": -1.25,
+        "y": -1.25,
+        "z": 1.0999999999999999
+      },
+      "bbox_max": {
+        "x": 1.25,
+        "y": 1.25,
+        "z": 1.0999999999999999
+      },
+      "created_by_feature": "tabel_9_M26.ipt:1",
+      "loops": [
+        {
+          "is_outer": false,
+          "edge_reference_keys": [
+            "AQQBABAAAAAAAAAAAgAAAAcAAAAGAAAA"
+          ]
+        },
+        {
+          "is_outer": true,
+          "edge_reference_keys": [
+            "AQQBABAAAAAAAAAAAgAAALAAAAAGAAAA"
+          ]
+        }
+      ]
+    },
+    {
+      "transient_key": 259,
+      "reference_key_string": "AQQDACAAAAAAAAAAAgAAAJ4AAAADAAAAoAAAAAYAAACyAAAABgAAAA==",
+      "surface_type": "kPlaneSurface",
+      "area_cm2": 0.94247779607693838,
+      "normal": [
+        0.0,
+        0.0,
+        -1.0
+      ],
+      "center": [
+        0.0,
+        0.0,
+        3.0
+      ],
+      "bbox_min": {
+        "x": -0.85000000000000009,
+        "y": -0.85000000000000009,
+        "z": 3.0
+      },
+      "bbox_max": {
+        "x": 0.85000000000000009,
+        "y": 0.85000000000000009,
+        "z": 3.0
+      },
+      "created_by_feature": "tabel_9_M26.ipt:1",
+      "loops": [
+        {
+          "is_outer": false,
+          "edge_reference_keys": [
+            "AQQBABAAAAAAAAAAAgAAAKAAAAAGAAAA"
+          ]
+        },
+        {
+          "is_outer": true,
+          "edge_reference_keys": [
+            "AQQBABAAAAAAAAAAAgAAALIAAAAGAAAA"
+          ]
+        }
+      ]
+    },
+    {
+      "transient_key": 261,
+      "reference_key_string": "AQQDACAAAAAAAAAAAgAAAAwAAAADAAAAsgAAAAYAAAAOAAAABgAAAA==",
+      "surface_type": "kCylinderSurface",
+      "area_cm2": 0.53407075111026536,
+      "normal": [
+        1.0,
+        0.0,
+        0.0
+      ],
+      "center": [
+        -0.85000000000000009,
+        0.0,
+        2.95
+      ],
+      "radius_cm": 0.85000000000000009,
+      "axis": [
+        0.0,
+        0.0,
+        1.0
+      ],
+      "bbox_min": {
+        "x": -0.85000000000000009,
+        "y": -0.85000000000000009,
+        "z": 2.9
+      },
+      "bbox_max": {
+        "x": 0.85000000000000009,
+        "y": 0.85000000000000009,
+        "z": 3.0
+      },
+      "created_by_feature": "tabel_9_M26.ipt:1",
+      "loops": [
+        {
+          "is_outer": true,
+          "edge_reference_keys": [
+            "AQQBABAAAAAAAAAAAgAAALIAAAAGAAAA"
+          ]
+        },
+        {
+          "is_outer": true,
+          "edge_reference_keys": [
+            "AQQBABAAAAAAAAAAAgAAAA4AAAAGAAAA"
+          ]
+        }
+      ]
+    },
+    {
+      "transient_key": 262,
+      "reference_key_string": "AQQDACAAAAAAAAAAAgAAAKkAAAADAAAAsAAAAAYAAACrAAAABgAAAA==",
+      "surface_type": "kCylinderSurface",
+      "area_cm2": 7.8539816339744819,
+      "normal": [
+        1.0,
+        0.0,
+        0.0
+      ],
+      "center": [
+        -1.25,
+        0.0,
+        0.59999999999999987
+      ],
+      "radius_cm": 1.25,
+      "axis": [
+        0.0,
+        0.0,
+        1.0
+      ],
+      "bbox_min": {
+        "x": -1.25,
+        "y": -1.25,
+        "z": 0.1
+      },
+      "bbox_max": {
+        "x": 1.25,
+        "y": 1.25,
+        "z": 1.0999999999999999
+      },
+      "created_by_feature": "tabel_9_M26.ipt:1",
+      "loops": [
+        {
+          "is_outer": true,
+          "edge_reference_keys": [
+            "AQQBABAAAAAAAAAAAgAAALAAAAAGAAAA"
+          ]
+        },
+        {
+          "is_outer": true,
+          "edge_reference_keys": [
+            "AQQBABAAAAAAAAAAAgAAAKsAAAAGAAAA"
+          ]
+        }
+      ]
+    },
+    {
+      "transient_key": 263,
+      "reference_key_string": "AQQDACAAAAAAAAAAAgAAAKwAAAADAAAArgAAAAYAAAC0AAAABgAAAA==",
+      "surface_type": "kCylinderSurface",
+      "area_cm2": 0.92676983280898906,
+      "normal": [
+        1.0,
+        0.0,
+        0.0
+      ],
+      "center": [
+        -1.475,
+        0.0,
+        0.05
+      ],
+      "radius_cm": 1.475,
+      "axis": [
+        0.0,
+        0.0,
+        1.0
+      ],
+      "bbox_min": {
+        "x": -1.475,
+        "y": -1.475,
+        "z": 0.0
+      },
+      "bbox_max": {
+        "x": 1.475,
+        "y": 1.475,
+        "z": 0.1
+      },
+      "created_by_feature": "tabel_9_M26.ipt:1",
+      "loops": [
+        {
+          "is_outer": true,
+          "edge_reference_keys": [
+            "AQQBABAAAAAAAAAAAgAAAK4AAAAGAAAA"
+          ]
+        },
+        {
+          "is_outer": true,
+          "edge_reference_keys": [
+            "AQQBABAAAAAAAAAAAgAAALQAAAAGAAAA"
+          ]
+        }
+      ]
+    },
+    {
+      "transient_key": 265,
+      "reference_key_string": "AQQDACAAAAAAAAAAAgAAAIEAAAADAAAAmAAAAAYAAACDAAAABgAAAA==",
+      "surface_type": "kCylinderSurface",
+      "area_cm2": 0.81681408993333615,
+      "normal": [
+        -1.0,
+        0.0,
+        0.0
+      ],
+      "center": [
+        -1.3,
+        0.0,
+        2.1500000000000004
+      ],
+      "radius_cm": 1.3,
+      "axis": [
+        0.0,
+        0.0,
+        1.0
+      ],
+      "bbox_min": {
+        "x": -1.3,
+        "y": -1.3,
+        "z": 2.0999999999999996
+      },
+      "bbox_max": {
+        "x": 1.3,
+        "y": 1.3,
+        "z": 2.2000000000000006
+      },
+      "created_by_feature": "tabel_9_M26.ipt:1",
+      "loops": [
+        {
+          "is_outer": true,
+          "edge_reference_keys": [
+            "AQQBABAAAAAAAAAAAgAAAJgAAAAGAAAA"
+          ]
+        },
+        {
+          "is_outer": true,
+          "edge_reference_keys": [
+            "AQQBABAAAAAAAAAAAgAAAIMAAAAGAAAA"
+          ]
+        }
+      ]
+    },
+    {
+      "transient_key": 266,
+      "reference_key_string": "AQQDACAAAAAAAAAAAgAAAJEAAAADAAAAtAAAAAYAAACTAAAABgAAAA==",
+      "surface_type": "kPlaneSurface",
+      "area_cm2": 0.95818575934488859,
+      "normal": [
+        0.0,
+        0.0,
+        -1.0
+      ],
+      "center": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "bbox_min": {
+        "x": -1.5750000000000002,
+        "y": -1.5750000000000002,
+        "z": 0.0
+      },
+      "bbox_max": {
+        "x": 1.5750000000000002,
+        "y": 1.5750000000000002,
+        "z": 0.0
+      },
+      "created_by_feature": "tabel_9_M26.ipt:1",
+      "loops": [
+        {
+          "is_outer": false,
+          "edge_reference_keys": [
+            "AQQBABAAAAAAAAAAAgAAALQAAAAGAAAA"
+          ]
+        },
+        {
+          "is_outer": true,
+          "edge_reference_keys": [
+            "AQQBABAAAAAAAAAAAgAAAJMAAAAGAAAA"
+          ]
+        }
+      ]
+    }
+  ],
+  "edges": [
+    {
+      "transient_key": 137,
+      "reference_key_string": "AQQBABAAAAAAAAAAAgAAAAQAAAAGAAAA",
+      "curve_type": "kCircleCurve",
+      "length_cm": 7.5398223686155035,
+      "midpoint": [
+        1.2,
+        0.0,
+        -2.0000000000000004
+      ],
+      "tangent": [
+        0.0,
+        1.0,
+        0.0
+      ],
+      "start_vertex": [
+        -1.2,
+        1.4695276245868526E-16,
+        -2.0000000000000004
+      ],
+      "end_vertex": [
+        -1.2,
+        1.4695276245868526E-16,
+        -2.0000000000000004
+      ],
+      "radius_cm": 1.2,
+      "adjacent_faces": [
+        "AQQDACAAAAAAAAAAAgAAAAEAAAADAAAABAAAAAYAAAAHAAAABgAAAA==",
+        "AQQDACAAAAAAAAAAAgAAAAIAAAADAAAAEAAAAAYAAAAEAAAABgAAAA=="
+      ]
+    },
+    {
+      "transient_key": 136,
+      "reference_key_string": "AQQBABAAAAAAAAAAAgAAAAcAAAAGAAAA",
+      "curve_type": "kCircleCurve",
+      "length_cm": 7.5398223686155035,
+      "midpoint": [
+        -1.2,
+        0.0,
+        1.0999999999999999
+      ],
+      "tangent": [
+        0.0,
+        1.0,
+        0.0
+      ],
+      "start_vertex": [
+        1.2,
+        1.4695276245868526E-16,
+        1.0999999999999999
+      ],
+      "end_vertex": [
+        1.2,
+        1.4695276245868526E-16,
+        1.0999999999999999
+      ],
+      "radius_cm": 1.2,
+      "adjacent_faces": [
+        "AQQDACAAAAAAAAAAAgAAAAUAAAADAAAABwAAAAYAAACwAAAABgAAAA==",
+        "AQQDACAAAAAAAAAAAgAAAAEAAAADAAAABAAAAAYAAAAHAAAABgAAAA=="
+      ]
+    },
+    {
+      "transient_key": 140,
+      "reference_key_string": "AQQBABAAAAAAAAAAAgAAAAsAAAAGAAAA",
+      "curve_type": "kCircleCurve",
+      "length_cm": 5.026548245743669,
+      "midpoint": [
+        0.8,
+        0.0,
+        2.9
+      ],
+      "tangent": [
+        0.0,
+        -1.0,
+        0.0
+      ],
+      "start_vertex": [
+        -0.8,
+        9.7968508305790183E-17,
+        2.9
+      ],
+      "end_vertex": [
+        -0.8,
+        9.7968508305790183E-17,
+        2.9
+      ],
+      "radius_cm": 0.8,
+      "adjacent_faces": [
+        "AQQDACAAAAAAAAAAAgAAAAgAAAADAAAACwAAAAYAAAAOAAAABgAAAA==",
+        "AQQDACAAAAAAAAAAAgAAAAkAAAADAAAAEAAAAAYAAAALAAAABgAAAA=="
+      ]
+    },
+    {
+      "transient_key": 139,
+      "reference_key_string": "AQQBABAAAAAAAAAAAgAAAA4AAAAGAAAA",
+      "curve_type": "kCircleCurve",
+      "length_cm": 5.3407075111026492,
+      "midpoint": [
+        -0.85000000000000009,
+        0.0,
+        2.9
+      ],
+      "tangent": [
+        0.0,
+        1.0,
+        0.0
+      ],
+      "start_vertex": [
+        0.85000000000000009,
+        1.0409154007490207E-16,
+        2.9
+      ],
+      "end_vertex": [
+        0.85000000000000009,
+        1.0409154007490207E-16,
+        2.9
+      ],
+      "radius_cm": 0.85000000000000009,
+      "adjacent_faces": [
+        "AQQDACAAAAAAAAAAAgAAAAwAAAADAAAAsgAAAAYAAAAOAAAABgAAAA==",
+        "AQQDACAAAAAAAAAAAgAAAAgAAAADAAAACwAAAAYAAAAOAAAABgAAAA=="
+      ]
+    },
+    {
+      "transient_key": 142,
+      "reference_key_string": "AQQBABAAAAAAAAAAAgAAABAAAAAGAAAA",
+      "curve_type": "kCircleCurve",
+      "length_cm": 5.026548245743669,
+      "midpoint": [
+        0.8,
+        0.0,
+        -2.0000000000000004
+      ],
+      "tangent": [
+        0.0,
+        1.0,
+        0.0
+      ],
+      "start_vertex": [
+        -0.8,
+        9.7968508305790183E-17,
+        -2.0000000000000004
+      ],
+      "end_vertex": [
+        -0.8,
+        9.7968508305790183E-17,
+        -2.0000000000000004
+      ],
+      "radius_cm": 0.8,
+      "adjacent_faces": [
+        "AQQDACAAAAAAAAAAAgAAAAIAAAADAAAAEAAAAAYAAAAEAAAABgAAAA==",
+        "AQQDACAAAAAAAAAAAgAAAAkAAAADAAAAEAAAAAYAAAALAAAABgAAAA=="
+      ]
+    },
+    {
+      "transient_key": 146,
+      "reference_key_string": "AQQBABAAAAAAAAAAAgAAABQAAAAGAAAA",
+      "curve_type": "kCircleCurve",
+      "length_cm": 7.8621497748738172,
+      "midpoint": [
+        -1.2513,
+        -5.6000000000000014,
+        9.0
+      ],
+      "tangent": [
+        -1.2246467991473532E-16,
+        0.0,
+        1.0
+      ],
+      "start_vertex": [
+        1.2513,
+        -5.6000000000000014,
+        9.0
+      ],
+      "end_vertex": [
+        1.2513,
+        -5.6000000000000014,
+        9.0
+      ],
+      "radius_cm": 1.2513,
+      "adjacent_faces": [
+        "AQQIAEgAAAAAAAAAAgAAABIAAAADAAAAFAAAAAYAAABiAAAABgAAAF4AAAAGAAAAXAAAAAYAAABbAAAABgAAAFoAAAAGAAAAWAAAAAYAAAA=",
+        "AQQDACAAAAAAAAAAAgAAABEAAAADAAAAFAAAAAYAAAAXAAAABgAAAA=="
+      ]
+    },
+    {
+      "transient_key": 145,
+      "reference_key_string": "AQQBABAAAAAAAAAAAgAAABcAAAAGAAAA",
+      "curve_type": "kCircleCurve",
+      "length_cm": 7.8621497748738172,
+      "midpoint": [
+        -1.2513,
+        -3.6000000000000014,
+        9.0
+      ],
+      "tangent": [
+        -1.2246467991473532E-16,
+        0.0,
+        -1.0
+      ],
+      "start_vertex": [
+        1.2513,
+        -3.6000000000000014,
+        9.0
+      ],
+      "end_vertex": [
+        1.2513,
+        -3.6000000000000014,
+        9.0
+      ],
+      "radius_cm": 1.2513,
+      "adjacent_faces": [
+        "AQQDACAAAAAAAAAAAgAAABUAAAADAAAAGgAAAAYAAAAXAAAABgAAAA==",
+        "AQQDACAAAAAAAAAAAgAAABEAAAADAAAAFAAAAAYAAAAXAAAABgAAAA=="
+      ]
+    },
+    {
+      "transient_key": 148,
+      "reference_key_string": "AQQBABAAAAAAAAAAAgAAABoAAAAGAAAA",
+      "curve_type": "kCircleCurve",
+      "length_cm": 5.3407075111026492,
+      "midpoint": [
+        -0.85000000000000009,
+        -3.6000000000000014,
+        9.0
+      ],
+      "tangent": [
+        0.0,
+        0.0,
+        -1.0
+      ],
+      "start_vertex": [
+        0.85000000000000009,
+        -3.6000000000000014,
+        9.0
+      ],
+      "end_vertex": [
+        0.85000000000000009,
+        -3.6000000000000014,
+        9.0
+      ],
+      "radius_cm": 0.85000000000000009,
+      "adjacent_faces": [
+        "AQQDACAAAAAAAAAAAgAAABgAAAADAAAAGgAAAAYAAAB2AAAABgAAAA==",
+        "AQQDACAAAAAAAAAAAgAAABUAAAADAAAAGgAAAAYAAAAXAAAABgAAAA=="
+      ]
+    },
+    {
+      "transient_key": 152,
+      "reference_key_string": "AQQBABAAAAAAAAAAAgAAACEAAAAGAAAA",
+      "curve_type": "kBSplineCurve",
+      "length_cm": 0.93791172122365918,
+      "midpoint": [
+        -0.46686200080311285,
+        -3.2385216013769185,
+        7.3999999999999995
+      ],
+      "tangent": [
+        0.98717428745994773,
+        0.15964625325370022,
+        4.8341437873332409E-15
+      ],
+      "start_vertex": [
+        -0.9237604307034013,
+        -3.342906235963266,
+        7.4
+      ],
+      "end_vertex": [
+        0.0,
+        -3.2000000000000011,
+        7.4
+      ],
+      "adjacent_faces": [
+        "AQQHAEAAAAAAAAAAAgAAABwAAAADAAAAKQAAAAYAAABkAAAABgAAAGMAAAAGAAAAVwAAAAYAAABlAAAABgAAACEAAAAGAAAA",
+        "AQQEACgAAAAAAAAAAgAAABsAAAADAAAAIQAAAAYAAAAjAAAABgAAACQAAAAGAAAA"
+      ]
+    },
+    {
+      "transient_key": 151,
+      "reference_key_string": "AQQBABAAAAAAAAAAAgAAACMAAAAGAAAA",
+      "curve_type": "kBSplineCurve",
+      "length_cm": 0.93791172122365685,
+      "midpoint": [
+        -1.1522096372973547,
+        -3.2385216040796534,
+        7.7956856327695272
+      ],
+      "tangent": [
+        0.493587143314979,
+        -0.15964625838598112,
+        -0.85491801018431879
+      ],
+      "start_vertex": [
+        -1.3856406460551018,
+        -3.2000000000000011,
+        8.2
+      ],
+      "end_vertex": [
+        -0.9237604307034013,
+        -3.342906235963266,
+        7.4
+      ],
+      "adjacent_faces": [
+        "AQQHAEAAAAAAAAAAAgAAAB0AAAADAAAAIwAAAAYAAABlAAAABgAAAFUAAAAGAAAAWQAAAAYAAABPAAAABgAAAEAAAAAGAAAA",
+        "AQQEACgAAAAAAAAAAgAAABsAAAADAAAAIQAAAAYAAAAjAAAABgAAACQAAAAGAAAA"
+      ]
+    },
+    {
+      "transient_key": 150,
+      "reference_key_string": "AQQBABAAAAAAAAAAAgAAACQAAAAGAAAA",
+      "curve_type": "kCircleCurve",
+      "length_cm": 1.6755160819145569,
+      "midpoint": [
+        -0.80000000000000049,
+        -3.2000000000000011,
+        7.6143593539448977
+      ],
+      "tangent": [
+        -0.86602540378443849,
+        0.0,
+        0.50000000000000011
+      ],
+      "start_vertex": [
+        0.0,
+        -3.2000000000000011,
+        7.4
+      ],
+      "end_vertex": [
+        -1.3856406460551018,
+        -3.2000000000000011,
+        8.2
+      ],
+      "adjacent_faces": [
+        "AQQIAEgAAAAAAAAAAgAAAB8AAAADAAAAZwAAAAYAAAA/AAAABgAAADsAAAAGAAAANQAAAAYAAAAwAAAABgAAACoAAAAGAAAAJAAAAAYAAAA=",
+        "AQQEACgAAAAAAAAAAgAAABsAAAADAAAAIQAAAAYAAAAjAAAABgAAACQAAAAGAAAA"
+      ]
+    },
+    {
+      "transient_key": 156,
+      "reference_key_string": "AQQBABAAAAAAAAAAAgAAACgAAAAGAAAA",
+      "curve_type": "kBSplineCurve",
+      "length_cm": 0.93791172122365829,
+      "midpoint": [
+        1.1522096456535447,
+        -3.2385216013769189,
+        7.7956856472428733
+      ],
+      "tangent": [
+        0.49358714372997725,
+        0.1596462532536993,
+        0.85491801090311492
+      ],
+      "start_vertex": [
+        0.92376043070340086,
+        -3.342906235963266,
+        7.4
+      ],
+      "end_vertex": [
+        1.3856406460551014,
+        -3.2000000000000011,
+        8.2
+      ],
+      "adjacent_faces": [
+        "AQQHAEAAAAAAAAAAAgAAACUAAAADAAAALwAAAAYAAABIAAAABgAAAF8AAAAGAAAAYQAAAAYAAABkAAAABgAAACgAAAAGAAAA",
+        "AQQEACgAAAAAAAAAAgAAABsAAAADAAAAKAAAAAYAAAApAAAABgAAACoAAAAGAAAA"
+      ]
+    },
+    {
+      "transient_key": 155,
+      "reference_key_string": "AQQBABAAAAAAAAAAAgAAACkAAAAGAAAA",
+      "curve_type": "kBSplineCurve",
+      "length_cm": 0.93791172122365862,
+      "midpoint": [
+        0.46686201751549444,
+        -3.2385216040796521,
+        7.3999999999999995
+      ],
+      "tangent": [
+        0.9871742866299541,
+        -0.15964625838597463,
+        -8.77627291521334E-15
+      ],
+      "start_vertex": [
+        0.0,
+        -3.2000000000000011,
+        7.4
+      ],
+      "end_vertex": [
+        0.92376043070340086,
+        -3.342906235963266,
+        7.4
+      ],
+      "adjacent_faces": [
+        "AQQHAEAAAAAAAAAAAgAAABwAAAADAAAAKQAAAAYAAABkAAAABgAAAGMAAAAGAAAAVwAAAAYAAABlAAAABgAAACEAAAAGAAAA",
+        "AQQEACgAAAAAAAAAAgAAABsAAAADAAAAKAAAAAYAAAApAAAABgAAACoAAAAGAAAA"
+      ]
+    },
+    {
+      "transient_key": 154,
+      "reference_key_string": "AQQBABAAAAAAAAAAAgAAACoAAAAGAAAA",
+      "curve_type": "kCircleCurve",
+      "length_cm": 1.6755160819145563,
+      "midpoint": [
+        0.79999999999999993,
+        -3.2000000000000011,
+        7.6143593539448977
+      ],
+      "tangent": [
+        -0.8660254037844386,
+        0.0,
+        -0.49999999999999978
+      ],
+      "start_vertex": [
+        1.3856406460551014,
+        -3.2000000000000011,
+        8.2
+      ],
+      "end_vertex": [
+        0.0,
+        -3.2000000000000011,
+        7.4
+      ],
+      "adjacent_faces": [
+        "AQQIAEgAAAAAAAAAAgAAAB8AAAADAAAAZwAAAAYAAAA/AAAABgAAADsAAAAGAAAANQAAAAYAAAAwAAAABgAAACoAAAAGAAAAJAAAAAYAAAA=",
+        "AQQEACgAAAAAAAAAAgAAABsAAAADAAAAKAAAAAYAAAApAAAABgAAACoAAAAGAAAA"
+      ]
+    },
+    {
+      "transient_key": 160,
+      "reference_key_string": "AQQBABAAAAAAAAAAAgAAAC4AAAAGAAAA",
+      "curve_type": "kBSplineCurve",
+      "length_cm": 0.93791172122365973,
+      "midpoint": [
+        1.6190716464566577,
+        -3.2385216013769185,
+        9.3956856472428729
+      ],
+      "tangent": [
+        -0.49358714372997142,
+        0.15964625325369539,
+        0.854918010903119
+      ],
+      "start_vertex": [
+        1.8475208614068022,
+        -3.3429062359632664,
+        9.0
+      ],
+      "end_vertex": [
+        1.3856406460551014,
+        -3.2000000000000011,
+        9.8
+      ],
+      "adjacent_faces": [
+        "AQQHAEAAAAAAAAAAAgAAACsAAAADAAAALgAAAAYAAAAzAAAABgAAAEMAAAAGAAAARQAAAAYAAABHAAAABgAAAEgAAAAGAAAA",
+        "AQQEACgAAAAAAAAAAgAAABsAAAADAAAALgAAAAYAAAAvAAAABgAAADAAAAAGAAAA"
+      ]
+    },
+    {
+      "transient_key": 159,
+      "reference_key_string": "AQQBABAAAAAAAAAAAgAAAC8AAAAGAAAA",
+      "curve_type": "kBSplineCurve",
+      "length_cm": 0.93791172122366018,
+      "midpoint": [
+        1.619071654812849,
+        -3.2385216040796525,
+        8.6043143672304723
+      ],
+      "tangent": [
+        0.49358714331497622,
+        -0.15964625838597912,
+        0.85491801018432079
+      ],
+      "start_vertex": [
+        1.3856406460551014,
+        -3.2000000000000011,
+        8.2
+      ],
+      "end_vertex": [
+        1.8475208614068022,
+        -3.3429062359632664,
+        9.0
+      ],
+      "adjacent_faces": [
+        "AQQHAEAAAAAAAAAAAgAAACUAAAADAAAALwAAAAYAAABIAAAABgAAAF8AAAAGAAAAYQAAAAYAAABkAAAABgAAACgAAAAGAAAA",
+        "AQQEACgAAAAAAAAAAgAAABsAAAADAAAALgAAAAYAAAAvAAAABgAAADAAAAAGAAAA"
+      ]
+    },
+    {
+      "transient_key": 158,
+      "reference_key_string": "AQQBABAAAAAAAAAAAgAAADAAAAAGAAAA",
+      "curve_type": "kCircleCurve",
+      "length_cm": 1.6755160819145576,
+      "midpoint": [
+        1.6000000000000003,
+        -3.2000000000000011,
+        9.0
+      ],
+      "tangent": [
+        -1.1102230246251565E-16,
+        0.0,
+        -1.0
+      ],
+      "start_vertex": [
+        1.3856406460551014,
+        -3.2000000000000011,
+        9.8
+      ],
+      "end_vertex": [
+        1.3856406460551014,
+        -3.2000000000000011,
+        8.2
+      ],
+      "adjacent_faces": [
+        "AQQIAEgAAAAAAAAAAgAAAB8AAAADAAAAZwAAAAYAAAA/AAAABgAAADsAAAAGAAAANQAAAAYAAAAwAAAABgAAACoAAAAGAAAAJAAAAAYAAAA=",
+        "AQQEACgAAAAAAAAAAgAAABsAAAADAAAALgAAAAYAAAAvAAAABgAAADAAAAAGAAAA"
+      ]
+    },
+    {
+      "transient_key": 164,
+      "reference_key_string": "AQQBABAAAAAAAAAAAgAAADMAAAAGAAAA",
+      "curve_type": "kBSplineCurve",
+      "length_cm": 0.93791172122366029,
+      "midpoint": [
+        1.1522096372973529,
+        -3.2385216040796529,
+        10.204314367230475
+      ],
+      "tangent": [
+        -0.4935871433149765,
+        -0.15964625838597876,
+        0.85491801018432056
+      ],
+      "start_vertex": [
+        1.3856406460551014,
+        -3.2000000000000011,
+        9.8
+      ],
+      "end_vertex": [
+        0.9237604307034,
+        -3.3429062359632664,
+        10.600000000000001
+      ],
+      "adjacent_faces": [
+        "AQQHAEAAAAAAAAAAAgAAACsAAAADAAAALgAAAAYAAAAzAAAABgAAAEMAAAAGAAAARQAAAAYAAABHAAAABgAAAEgAAAAGAAAA",
+        "AQQEACgAAAAAAAAAAgAAABsAAAADAAAAMwAAAAYAAAA1AAAABgAAADYAAAAGAAAA"
+      ]
+    },
+    {
+      "transient_key": 163,
+      "reference_key_string": "AQQBABAAAAAAAAAAAgAAADUAAAAGAAAA",
+      "curve_type": "kCircleCurve",
+      "length_cm": 1.6755160819145569,
+      "midpoint": [
+        0.79999999999999971,
+        -3.2000000000000011,
+        10.385640646055101
+      ],
+      "tangent": [
+        0.86602540378443871,
+        0.0,
+        -0.49999999999999972
+      ],
+      "start_vertex": [
+        -7.7715611723760958E-16,
+        -3.2000000000000011,
+        10.6
+      ],
+      "end_vertex": [
+        1.3856406460551014,
+        -3.2000000000000011,
+        9.8
+      ],
+      "adjacent_faces": [
+        "AQQIAEgAAAAAAAAAAgAAAB8AAAADAAAAZwAAAAYAAAA/AAAABgAAADsAAAAGAAAANQAAAAYAAAAwAAAABgAAACoAAAAGAAAAJAAAAAYAAAA=",
+        "AQQEACgAAAAAAAAAAgAAABsAAAADAAAAMwAAAAYAAAA1AAAABgAAADYAAAAGAAAA"
+      ]
+    },
+    {
+      "transient_key": 162,
+      "reference_key_string": "AQQBABAAAAAAAAAAAgAAADYAAAAGAAAA",
+      "curve_type": "kBSplineCurve",
+      "length_cm": 0.93791172122365862,
+      "midpoint": [
+        0.46686200080311191,
+        -3.2385216013769189,
+        10.6
+      ],
+      "tangent": [
+        -0.98717428745994817,
+        0.15964625325369727,
+        1.9566772472539324E-15
+      ],
+      "start_vertex": [
+        0.9237604307034,
+        -3.3429062359632664,
+        10.600000000000001
+      ],
+      "end_vertex": [
+        -7.7715611723760958E-16,
+        -3.2000000000000011,
+        10.6
+      ],
+      "adjacent_faces": [
+        "AQQHAEAAAAAAAAAAAgAAADEAAAADAAAANgAAAAYAAAA5AAAABgAAAEoAAAAGAAAATAAAAAYAAABNAAAABgAAAEMAAAAGAAAA",
+        "AQQEACgAAAAAAAAAAgAAABsAAAADAAAAMwAAAAYAAAA1AAAABgAAADYAAAAGAAAA"
+      ]
+    },
+    {
+      "transient_key": 168,
+      "reference_key_string": "AQQBABAAAAAAAAAAAgAAADkAAAAGAAAA",
+      "curve_type": "kBSplineCurve",
+      "length_cm": 0.93791172122365918,
+      "midpoint": [
+        -0.46686201751549511,
+        -3.2385216040796529,
+        10.6
+      ],
+      "tangent": [
+        -0.98717428662995288,
+        -0.15964625838598179,
+        5.3808624103111283E-15
+      ],
+      "start_vertex": [
+        -7.7715611723760958E-16,
+        -3.2000000000000011,
+        10.6
+      ],
+      "end_vertex": [
+        -0.923760430703402,
+        -3.3429062359632664,
+        10.6
+      ],
+      "adjacent_faces": [
+        "AQQHAEAAAAAAAAAAAgAAADEAAAADAAAANgAAAAYAAAA5AAAABgAAAEoAAAAGAAAATAAAAAYAAABNAAAABgAAAEMAAAAGAAAA",
+        "AQQEACgAAAAAAAAAAgAAABsAAAADAAAAOQAAAAYAAAA7AAAABgAAADwAAAAGAAAA"
+      ]
+    },
+    {
+      "transient_key": 167,
+      "reference_key_string": "AQQBABAAAAAAAAAAAgAAADsAAAAGAAAA",
+      "curve_type": "kCircleCurve",
+      "length_cm": 1.6755160819145569,
+      "midpoint": [
+        -0.80000000000000049,
+        -3.2000000000000011,
+        10.385640646055101
+      ],
+      "tangent": [
+        0.86602540378443849,
+        0.0,
+        0.50000000000000011
+      ],
+      "start_vertex": [
+        -1.3856406460551023,
+        -3.2000000000000011,
+        9.7999999999999989
+      ],
+      "end_vertex": [
+        -7.7715611723760958E-16,
+        -3.2000000000000011,
+        10.6
+      ],
+      "adjacent_faces": [
+        "AQQIAEgAAAAAAAAAAgAAAB8AAAADAAAAZwAAAAYAAAA/AAAABgAAADsAAAAGAAAANQAAAAYAAAAwAAAABgAAACoAAAAGAAAAJAAAAAYAAAA=",
+        "AQQEACgAAAAAAAAAAgAAABsAAAADAAAAOQAAAAYAAAA7AAAABgAAADwAAAAGAAAA"
+      ]
+    },
+    {
+      "transient_key": 166,
+      "reference_key_string": "AQQBABAAAAAAAAAAAgAAADwAAAAGAAAA",
+      "curve_type": "kBSplineCurve",
+      "length_cm": 0.93791172122365962,
+      "midpoint": [
+        -1.1522096456535458,
+        -3.23852160137692,
+        10.20431435275713
+      ],
+      "tangent": [
+        -0.4935871437299742,
+        0.15964625325369969,
+        -0.85491801090311659
+      ],
+      "start_vertex": [
+        -0.923760430703402,
+        -3.3429062359632664,
+        10.6
+      ],
+      "end_vertex": [
+        -1.3856406460551023,
+        -3.2000000000000011,
+        9.7999999999999989
+      ],
+      "adjacent_faces": [
+        "AQQHAEAAAAAAAAAAAgAAADcAAAADAAAAPAAAAAYAAAA+AAAABgAAAE8AAAAGAAAAUQAAAAYAAABSAAAABgAAAEoAAAAGAAAA",
+        "AQQEACgAAAAAAAAAAgAAABsAAAADAAAAOQAAAAYAAAA7AAAABgAAADwAAAAGAAAA"
+      ]
+    },
+    {
+      "transient_key": 172,
+      "reference_key_string": "AQQBABAAAAAAAAAAAgAAAD4AAAAGAAAA",
+      "curve_type": "kBSplineCurve",
+      "length_cm": 0.9379117212236584,
+      "midpoint": [
+        -1.6190716548128503,
+        -3.2385216040796529,
+        9.395685632769526
+      ],
+      "tangent": [
+        -0.49358714331497761,
+        -0.15964625838597826,
+        -0.85491801018432012
+      ],
+      "start_vertex": [
+        -1.3856406460551023,
+        -3.2000000000000011,
+        9.7999999999999989
+      ],
+      "end_vertex": [
+        -1.8475208614068024,
+        -3.3429062359632664,
+        9.0
+      ],
+      "adjacent_faces": [
+        "AQQHAEAAAAAAAAAAAgAAADcAAAADAAAAPAAAAAYAAAA+AAAABgAAAE8AAAAGAAAAUQAAAAYAAABSAAAABgAAAEoAAAAGAAAA",
+        "AQQEACgAAAAAAAAAAgAAABsAAAADAAAAPgAAAAYAAAA/AAAABgAAAEAAAAAGAAAA"
+      ]
+    },
+    {
+      "transient_key": 171,
+      "reference_key_string": "AQQBABAAAAAAAAAAAgAAAD8AAAAGAAAA",
+      "curve_type": "kCircleCurve",
+      "length_cm": 1.6755160819145554,
+      "midpoint": [
+        -1.6000000000000003,
+        -3.2000000000000011,
+        9.0
+      ],
+      "tangent": [
+        -1.2246467991473532E-16,
+        0.0,
+        1.0
+      ],
+      "start_vertex": [
+        -1.3856406460551018,
+        -3.2000000000000011,
+        8.2
+      ],
+      "end_vertex": [
+        -1.3856406460551023,
+        -3.2000000000000011,
+        9.7999999999999989
+      ],
+      "adjacent_faces": [
+        "AQQIAEgAAAAAAAAAAgAAAB8AAAADAAAAZwAAAAYAAAA/AAAABgAAADsAAAAGAAAANQAAAAYAAAAwAAAABgAAACoAAAAGAAAAJAAAAAYAAAA=",
+        "AQQEACgAAAAAAAAAAgAAABsAAAADAAAAPgAAAAYAAAA/AAAABgAAAEAAAAAGAAAA"
+      ]
+    },
+    {
+      "transient_key": 170,
+      "reference_key_string": "AQQBABAAAAAAAAAAAgAAAEAAAAAGAAAA",
+      "curve_type": "kBSplineCurve",
+      "length_cm": 0.93791172122366018,
+      "midpoint": [
+        -1.6190716464566584,
+        -3.2385216013769185,
+        8.6043143527571289
+      ],
+      "tangent": [
+        0.49358714372997159,
+        0.15964625325369822,
+        -0.85491801090311825
+      ],
+      "start_vertex": [
+        -1.8475208614068024,
+        -3.3429062359632664,
+        9.0
+      ],
+      "end_vertex": [
+        -1.3856406460551018,
+        -3.2000000000000011,
+        8.2
+      ],
+      "adjacent_faces": [
+        "AQQHAEAAAAAAAAAAAgAAAB0AAAADAAAAIwAAAAYAAABlAAAABgAAAFUAAAAGAAAAWQAAAAYAAABPAAAABgAAAEAAAAAGAAAA",
+        "AQQEACgAAAAAAAAAAgAAABsAAAADAAAAPgAAAAYAAAA/AAAABgAAAEAAAAAGAAAA"
+      ]
+    },
+    {
+      "transient_key": 177,
+      "reference_key_string": "AQQBABAAAAAAAAAAAgAAAEMAAAAGAAAA",
+      "curve_type": "kLineCurve",
+      "length_cm": 2.1141875280734692,
+      "midpoint": [
+        0.9237604307034,
+        -4.4000000000000012,
+        10.600000000000001
+      ],
+      "tangent": [
+        0.0,
+        -1.0,
+        0.0
+      ],
+      "start_vertex": [
+        0.9237604307034,
+        -3.3429062359632664,
+        10.600000000000001
+      ],
+      "end_vertex": [
+        0.9237604307034,
+        -5.4570937640367356,
+        10.600000000000001
+      ],
+      "adjacent_faces": [
+        "AQQHAEAAAAAAAAAAAgAAACsAAAADAAAALgAAAAYAAAAzAAAABgAAAEMAAAAGAAAARQAAAAYAAABHAAAABgAAAEgAAAAGAAAA",
+        "AQQHAEAAAAAAAAAAAgAAADEAAAADAAAANgAAAAYAAAA5AAAABgAAAEoAAAAGAAAATAAAAAYAAABNAAAABgAAAEMAAAAGAAAA"
+      ]
+    },
+    {
+      "transient_key": 176,
+      "reference_key_string": "AQQBABAAAAAAAAAAAgAAAEUAAAAGAAAA",
+      "curve_type": "kBSplineCurve",
+      "length_cm": 0.93791172122366051,
+      "midpoint": [
+        1.1522096456535444,
+        -5.561478398623084,
+        10.204314352757127
+      ],
+      "tangent": [
+        0.49358714372997503,
+        -0.15964625325369966,
+        -0.85491801090311614
+      ],
+      "start_vertex": [
+        0.9237604307034,
+        -5.4570937640367356,
+        10.600000000000001
+      ],
+      "end_vertex": [
+        1.3856406460551014,
+        -5.6000000000000014,
+        9.8
+      ],
+      "adjacent_faces": [
+        "AQQHAEAAAAAAAAAAAgAAACsAAAADAAAALgAAAAYAAAAzAAAABgAAAEMAAAAGAAAARQAAAAYAAABHAAAABgAAAEgAAAAGAAAA",
+        "AQQEACgAAAAAAAAAAgAAAEEAAAADAAAATQAAAAYAAABcAAAABgAAAEUAAAAGAAAA"
+      ]
+    },
+    {
+      "transient_key": 175,
+      "reference_key_string": "AQQBABAAAAAAAAAAAgAAAEcAAAAGAAAA",
+      "curve_type": "kBSplineCurve",
+      "length_cm": 0.93791172122366018,
+      "midpoint": [
+        1.6190716548128481,
+        -5.5614783959203509,
+        9.3956856327695277
+      ],
+      "tangent": [
+        0.49358714331497977,
+        0.15964625838597424,
+        -0.85491801018431968
+      ],
+      "start_vertex": [
+        1.3856406460551014,
+        -5.6000000000000014,
+        9.8
+      ],
+      "end_vertex": [
+        1.8475208614068022,
+        -5.4570937640367365,
+        9.0
+      ],
+      "adjacent_faces": [
+        "AQQHAEAAAAAAAAAAAgAAACsAAAADAAAALgAAAAYAAAAzAAAABgAAAEMAAAAGAAAARQAAAAYAAABHAAAABgAAAEgAAAAGAAAA",
+        "AQQEACgAAAAAAAAAAgAAAEEAAAADAAAARwAAAAYAAABeAAAABgAAAF8AAAAGAAAA"
+      ]
+    },
+    {
+      "transient_key": 174,
+      "reference_key_string": "AQQBABAAAAAAAAAAAgAAAEgAAAAGAAAA",
+      "curve_type": "kLineCurve",
+      "length_cm": 2.1141875280734697,
+      "midpoint": [
+        1.8475208614068022,
+        -4.4000000000000012,
+        9.0
+      ],
+      "tangent": [
+        0.0,
+        -1.0,
+        0.0
+      ],
+      "start_vertex": [
+        1.8475208614068022,
+        -3.3429062359632664,
+        9.0
+      ],
+      "end_vertex": [
+        1.8475208614068022,
+        -5.4570937640367365,
+        9.0
+      ],
+      "adjacent_faces": [
+        "AQQHAEAAAAAAAAAAAgAAACUAAAADAAAALwAAAAYAAABIAAAABgAAAF8AAAAGAAAAYQAAAAYAAABkAAAABgAAACgAAAAGAAAA",
+        "AQQHAEAAAAAAAAAAAgAAACsAAAADAAAALgAAAAYAAAAzAAAABgAAAEMAAAAGAAAARQAAAAYAAABHAAAABgAAAEgAAAAGAAAA"
+      ]
+    },
+    {
+      "transient_key": 181,
+      "reference_key_string": "AQQBABAAAAAAAAAAAgAAAEoAAAAGAAAA",
+      "curve_type": "kLineCurve",
+      "length_cm": 2.1141875280734692,
+      "midpoint": [
+        -0.92376043070340208,
+        -4.4000000000000012,
+        10.6
+      ],
+      "tangent": [
+        0.0,
+        -1.0,
+        0.0
+      ],
+      "start_vertex": [
+        -0.923760430703402,
+        -3.3429062359632664,
+        10.6
+      ],
+      "end_vertex": [
+        -0.923760430703402,
+        -5.4570937640367356,
+        10.6
+      ],
+      "adjacent_faces": [
+        "AQQHAEAAAAAAAAAAAgAAADEAAAADAAAANgAAAAYAAAA5AAAABgAAAEoAAAAGAAAATAAAAAYAAABNAAAABgAAAEMAAAAGAAAA",
+        "AQQHAEAAAAAAAAAAAgAAADcAAAADAAAAPAAAAAYAAAA+AAAABgAAAE8AAAAGAAAAUQAAAAYAAABSAAAABgAAAEoAAAAGAAAA"
+      ]
+    },
+    {
+      "transient_key": 180,
+      "reference_key_string": "AQQBABAAAAAAAAAAAgAAAEwAAAAGAAAA",
+      "curve_type": "kBSplineCurve",
+      "length_cm": 0.93791172122365907,
+      "midpoint": [
+        -0.46686200080311352,
+        -5.561478398623084,
+        10.599999999999998
+      ],
+      "tangent": [
+        0.98717428745994773,
+        -0.15964625325370019,
+        4.25865047931738E-15
+      ],
+      "start_vertex": [
+        -0.923760430703402,
+        -5.4570937640367356,
+        10.6
+      ],
+      "end_vertex": [
+        -7.7715611723760958E-16,
+        -5.6000000000000014,
+        10.6
+      ],
+      "adjacent_faces": [
+        "AQQHAEAAAAAAAAAAAgAAADEAAAADAAAANgAAAAYAAAA5AAAABgAAAEoAAAAGAAAATAAAAAYAAABNAAAABgAAAEMAAAAGAAAA",
+        "AQQEACgAAAAAAAAAAgAAAEEAAAADAAAATAAAAAYAAABSAAAABgAAAFsAAAAGAAAA"
+      ]
+    },
+    {
+      "transient_key": 179,
+      "reference_key_string": "AQQBABAAAAAAAAAAAgAAAE0AAAAGAAAA",
+      "curve_type": "kBSplineCurve",
+      "length_cm": 0.93791172122365862,
+      "midpoint": [
+        0.46686201751549378,
+        -5.56147839592035,
+        10.6
+      ],
+      "tangent": [
+        0.987174286629953,
+        0.15964625838598143,
+        -4.1147771372967479E-15
+      ],
+      "start_vertex": [
+        -7.7715611723760958E-16,
+        -5.6000000000000014,
+        10.6
+      ],
+      "end_vertex": [
+        0.9237604307034,
+        -5.4570937640367356,
+        10.600000000000001
+      ],
+      "adjacent_faces": [
+        "AQQHAEAAAAAAAAAAAgAAADEAAAADAAAANgAAAAYAAAA5AAAABgAAAEoAAAAGAAAATAAAAAYAAABNAAAABgAAAEMAAAAGAAAA",
+        "AQQEACgAAAAAAAAAAgAAAEEAAAADAAAATQAAAAYAAABcAAAABgAAAEUAAAAGAAAA"
+      ]
+    },
+    {
+      "transient_key": 185,
+      "reference_key_string": "AQQBABAAAAAAAAAAAgAAAE8AAAAGAAAA",
+      "curve_type": "kLineCurve",
+      "length_cm": 2.1141875280734697,
+      "midpoint": [
+        -1.8475208614068024,
+        -4.4000000000000012,
+        9.0
+      ],
+      "tangent": [
+        0.0,
+        -1.0,
+        0.0
+      ],
+      "start_vertex": [
+        -1.8475208614068024,
+        -3.3429062359632664,
+        9.0
+      ],
+      "end_vertex": [
+        -1.8475208614068024,
+        -5.4570937640367365,
+        9.0
+      ],
+      "adjacent_faces": [
+        "AQQHAEAAAAAAAAAAAgAAADcAAAADAAAAPAAAAAYAAAA+AAAABgAAAE8AAAAGAAAAUQAAAAYAAABSAAAABgAAAEoAAAAGAAAA",
+        "AQQHAEAAAAAAAAAAAgAAAB0AAAADAAAAIwAAAAYAAABlAAAABgAAAFUAAAAGAAAAWQAAAAYAAABPAAAABgAAAEAAAAAGAAAA"
+      ]
+    },
+    {
+      "transient_key": 184,
+      "reference_key_string": "AQQBABAAAAAAAAAAAgAAAFEAAAAGAAAA",
+      "curve_type": "kBSplineCurve",
+      "length_cm": 0.93791172122365785,
+      "midpoint": [
+        -1.6190716464566579,
+        -5.5614783986230822,
+        9.39568564724287
+      ],
+      "tangent": [
+        0.49358714372996859,
+        -0.15964625325369983,
+        0.85491801090311981
+      ],
+      "start_vertex": [
+        -1.8475208614068024,
+        -5.4570937640367365,
+        9.0
+      ],
+      "end_vertex": [
+        -1.3856406460551023,
+        -5.6000000000000014,
+        9.7999999999999989
+      ],
+      "adjacent_faces": [
+        "AQQHAEAAAAAAAAAAAgAAADcAAAADAAAAPAAAAAYAAAA+AAAABgAAAE8AAAAGAAAAUQAAAAYAAABSAAAABgAAAEoAAAAGAAAA",
+        "AQQEACgAAAAAAAAAAgAAAEEAAAADAAAAUQAAAAYAAABZAAAABgAAAFoAAAAGAAAA"
+      ]
+    },
+    {
+      "transient_key": 183,
+      "reference_key_string": "AQQBABAAAAAAAAAAAgAAAFIAAAAGAAAA",
+      "curve_type": "kBSplineCurve",
+      "length_cm": 0.93791172122365918,
+      "midpoint": [
+        -1.1522096372973545,
+        -5.5614783959203482,
+        10.204314367230472
+      ],
+      "tangent": [
+        0.49358714331497983,
+        0.15964625838598082,
+        0.85491801018431834
+      ],
+      "start_vertex": [
+        -1.3856406460551023,
+        -5.6000000000000014,
+        9.7999999999999989
+      ],
+      "end_vertex": [
+        -0.923760430703402,
+        -5.4570937640367356,
+        10.6
+      ],
+      "adjacent_faces": [
+        "AQQHAEAAAAAAAAAAAgAAADcAAAADAAAAPAAAAAYAAAA+AAAABgAAAE8AAAAGAAAAUQAAAAYAAABSAAAABgAAAEoAAAAGAAAA",
+        "AQQEACgAAAAAAAAAAgAAAEEAAAADAAAATAAAAAYAAABSAAAABgAAAFsAAAAGAAAA"
+      ]
+    },
+    {
+      "transient_key": 189,
+      "reference_key_string": "AQQBABAAAAAAAAAAAgAAAFUAAAAGAAAA",
+      "curve_type": "kBSplineCurve",
+      "length_cm": 0.93791172122365807,
+      "midpoint": [
+        -1.1522096456535449,
+        -5.561478398623084,
+        7.7956856472428733
+      ],
+      "tangent": [
+        -0.49358714372997481,
+        -0.15964625325370144,
+        0.85491801090311581
+      ],
+      "start_vertex": [
+        -0.9237604307034013,
+        -5.4570937640367365,
+        7.4
+      ],
+      "end_vertex": [
+        -1.3856406460551018,
+        -5.6000000000000014,
+        8.2
+      ],
+      "adjacent_faces": [
+        "AQQHAEAAAAAAAAAAAgAAAB0AAAADAAAAIwAAAAYAAABlAAAABgAAAFUAAAAGAAAAWQAAAAYAAABPAAAABgAAAEAAAAAGAAAA",
+        "AQQEACgAAAAAAAAAAgAAAEEAAAADAAAAVQAAAAYAAABXAAAABgAAAFgAAAAGAAAA"
+      ]
+    },
+    {
+      "transient_key": 188,
+      "reference_key_string": "AQQBABAAAAAAAAAAAgAAAFcAAAAGAAAA",
+      "curve_type": "kBSplineCurve",
+      "length_cm": 0.93791172122365918,
+      "midpoint": [
+        -0.466862017515495,
+        -5.5614783959203491,
+        7.3999999999999995
+      ],
+      "tangent": [
+        -0.98717428662995255,
+        0.15964625838598348,
+        -3.596833161972676E-15
+      ],
+      "start_vertex": [
+        0.0,
+        -5.6000000000000014,
+        7.4
+      ],
+      "end_vertex": [
+        -0.9237604307034013,
+        -5.4570937640367365,
+        7.4
+      ],
+      "adjacent_faces": [
+        "AQQHAEAAAAAAAAAAAgAAABwAAAADAAAAKQAAAAYAAABkAAAABgAAAGMAAAAGAAAAVwAAAAYAAABlAAAABgAAACEAAAAGAAAA",
+        "AQQEACgAAAAAAAAAAgAAAEEAAAADAAAAVQAAAAYAAABXAAAABgAAAFgAAAAGAAAA"
+      ]
+    },
+    {
+      "transient_key": 187,
+      "reference_key_string": "AQQBABAAAAAAAAAAAgAAAFgAAAAGAAAA",
+      "curve_type": "kCircleCurve",
+      "length_cm": 1.6755160819145565,
+      "midpoint": [
+        -0.80000000000000016,
+        -5.6000000000000014,
+        7.6143593539448986
+      ],
+      "tangent": [
+        0.8660254037844386,
+        0.0,
+        -0.50000000000000011
+      ],
+      "start_vertex": [
+        -1.3856406460551018,
+        -5.6000000000000014,
+        8.2
+      ],
+      "end_vertex": [
+        0.0,
+        -5.6000000000000014,
+        7.4
+      ],
+      "adjacent_faces": [
+        "AQQIAEgAAAAAAAAAAgAAABIAAAADAAAAFAAAAAYAAABiAAAABgAAAF4AAAAGAAAAXAAAAAYAAABbAAAABgAAAFoAAAAGAAAAWAAAAAYAAAA=",
+        "AQQEACgAAAAAAAAAAgAAAEEAAAADAAAAVQAAAAYAAABXAAAABgAAAFgAAAAGAAAA"
+      ]
+    },
+    {
+      "transient_key": 192,
+      "reference_key_string": "AQQBABAAAAAAAAAAAgAAAFkAAAAGAAAA",
+      "curve_type": "kBSplineCurve",
+      "length_cm": 0.93791172122365984,
+      "midpoint": [
+        -1.6190716548128496,
+        -5.5614783959203491,
+        8.6043143672304758
+      ],
+      "tangent": [
+        -0.49358714331497328,
+        0.15964625838597746,
+        0.85491801018432267
+      ],
+      "start_vertex": [
+        -1.3856406460551018,
+        -5.6000000000000014,
+        8.2
+      ],
+      "end_vertex": [
+        -1.8475208614068024,
+        -5.4570937640367365,
+        9.0
+      ],
+      "adjacent_faces": [
+        "AQQHAEAAAAAAAAAAAgAAAB0AAAADAAAAIwAAAAYAAABlAAAABgAAAFUAAAAGAAAAWQAAAAYAAABPAAAABgAAAEAAAAAGAAAA",
+        "AQQEACgAAAAAAAAAAgAAAEEAAAADAAAAUQAAAAYAAABZAAAABgAAAFoAAAAGAAAA"
+      ]
+    },
+    {
+      "transient_key": 191,
+      "reference_key_string": "AQQBABAAAAAAAAAAAgAAAFoAAAAGAAAA",
+      "curve_type": "kCircleCurve",
+      "length_cm": 1.6755160819145558,
+      "midpoint": [
+        -1.5999999999999999,
+        -5.6000000000000014,
+        9.0
+      ],
+      "tangent": [
+        1.1102230246251565E-16,
+        0.0,
+        -1.0
+      ],
+      "start_vertex": [
+        -1.3856406460551023,
+        -5.6000000000000014,
+        9.7999999999999989
+      ],
+      "end_vertex": [
+        -1.3856406460551018,
+        -5.6000000000000014,
+        8.2
+      ],
+      "adjacent_faces": [
+        "AQQIAEgAAAAAAAAAAgAAABIAAAADAAAAFAAAAAYAAABiAAAABgAAAF4AAAAGAAAAXAAAAAYAAABbAAAABgAAAFoAAAAGAAAAWAAAAAYAAAA=",
+        "AQQEACgAAAAAAAAAAgAAAEEAAAADAAAAUQAAAAYAAABZAAAABgAAAFoAAAAGAAAA"
+      ]
+    },
+    {
+      "transient_key": 194,
+      "reference_key_string": "AQQBABAAAAAAAAAAAgAAAFsAAAAGAAAA",
+      "curve_type": "kCircleCurve",
+      "length_cm": 1.6755160819145558,
+      "midpoint": [
+        -0.80000000000000049,
+        -5.6000000000000014,
+        10.385640646055101
+      ],
+      "tangent": [
+        -0.86602540378443849,
+        0.0,
+        -0.50000000000000033
+      ],
+      "start_vertex": [
+        -7.7715611723760958E-16,
+        -5.6000000000000014,
+        10.6
+      ],
+      "end_vertex": [
+        -1.3856406460551023,
+        -5.6000000000000014,
+        9.7999999999999989
+      ],
+      "adjacent_faces": [
+        "AQQIAEgAAAAAAAAAAgAAABIAAAADAAAAFAAAAAYAAABiAAAABgAAAF4AAAAGAAAAXAAAAAYAAABbAAAABgAAAFoAAAAGAAAAWAAAAAYAAAA=",
+        "AQQEACgAAAAAAAAAAgAAAEEAAAADAAAATAAAAAYAAABSAAAABgAAAFsAAAAGAAAA"
+      ]
+    },
+    {
+      "transient_key": 196,
+      "reference_key_string": "AQQBABAAAAAAAAAAAgAAAFwAAAAGAAAA",
+      "curve_type": "kCircleCurve",
+      "length_cm": 1.6755160819145571,
+      "midpoint": [
+        0.7999999999999996,
+        -5.6000000000000014,
+        10.385640646055101
+      ],
+      "tangent": [
+        -0.86602540378443882,
+        0.0,
+        0.49999999999999983
+      ],
+      "start_vertex": [
+        1.3856406460551014,
+        -5.6000000000000014,
+        9.8
+      ],
+      "end_vertex": [
+        -7.7715611723760958E-16,
+        -5.6000000000000014,
+        10.6
+      ],
+      "adjacent_faces": [
+        "AQQIAEgAAAAAAAAAAgAAABIAAAADAAAAFAAAAAYAAABiAAAABgAAAF4AAAAGAAAAXAAAAAYAAABbAAAABgAAAFoAAAAGAAAAWAAAAAYAAAA=",
+        "AQQEACgAAAAAAAAAAgAAAEEAAAADAAAATQAAAAYAAABcAAAABgAAAEUAAAAGAAAA"
+      ]
+    },
+    {
+      "transient_key": 199,
+      "reference_key_string": "AQQBABAAAAAAAAAAAgAAAF4AAAAGAAAA",
+      "curve_type": "kCircleCurve",
+      "length_cm": 1.6755160819145565,
+      "midpoint": [
+        1.5999999999999999,
+        -5.6000000000000014,
+        9.0
+      ],
+      "tangent": [
+        1.2246467991473532E-16,
+        0.0,
+        1.0
+      ],
+      "start_vertex": [
+        1.3856406460551014,
+        -5.6000000000000014,
+        8.2
+      ],
+      "end_vertex": [
+        1.3856406460551014,
+        -5.6000000000000014,
+        9.8
+      ],
+      "adjacent_faces": [
+        "AQQIAEgAAAAAAAAAAgAAABIAAAADAAAAFAAAAAYAAABiAAAABgAAAF4AAAAGAAAAXAAAAAYAAABbAAAABgAAAFoAAAAGAAAAWAAAAAYAAAA=",
+        "AQQEACgAAAAAAAAAAgAAAEEAAAADAAAARwAAAAYAAABeAAAABgAAAF8AAAAGAAAA"
+      ]
+    },
+    {
+      "transient_key": 198,
+      "reference_key_string": "AQQBABAAAAAAAAAAAgAAAF8AAAAGAAAA",
+      "curve_type": "kBSplineCurve",
+      "length_cm": 0.93791172122365973,
+      "midpoint": [
+        1.6190716464566579,
+        -5.5614783986230831,
+        8.6043143527571253
+      ],
+      "tangent": [
+        -0.49358714372997442,
+        -0.15964625325370113,
+        -0.85491801090311625
+      ],
+      "start_vertex": [
+        1.8475208614068022,
+        -5.4570937640367365,
+        9.0
+      ],
+      "end_vertex": [
+        1.3856406460551014,
+        -5.6000000000000014,
+        8.2
+      ],
+      "adjacent_faces": [
+        "AQQHAEAAAAAAAAAAAgAAACUAAAADAAAALwAAAAYAAABIAAAABgAAAF8AAAAGAAAAYQAAAAYAAABkAAAABgAAACgAAAAGAAAA",
+        "AQQEACgAAAAAAAAAAgAAAEEAAAADAAAARwAAAAYAAABeAAAABgAAAF8AAAAGAAAA"
+      ]
+    },
+    {
+      "transient_key": 203,
+      "reference_key_string": "AQQBABAAAAAAAAAAAgAAAGEAAAAGAAAA",
+      "curve_type": "kBSplineCurve",
+      "length_cm": 0.93791172122365862,
+      "midpoint": [
+        1.1522096372973545,
+        -5.56147839592035,
+        7.7956856327695263
+      ],
+      "tangent": [
+        -0.49358714331497616,
+        0.15964625838597676,
+        -0.85491801018432123
+      ],
+      "start_vertex": [
+        1.3856406460551014,
+        -5.6000000000000014,
+        8.2
+      ],
+      "end_vertex": [
+        0.92376043070340086,
+        -5.4570937640367365,
+        7.4
+      ],
+      "adjacent_faces": [
+        "AQQHAEAAAAAAAAAAAgAAACUAAAADAAAALwAAAAYAAABIAAAABgAAAF8AAAAGAAAAYQAAAAYAAABkAAAABgAAACgAAAAGAAAA",
+        "AQQEACgAAAAAAAAAAgAAAEEAAAADAAAAYQAAAAYAAABiAAAABgAAAGMAAAAGAAAA"
+      ]
+    },
+    {
+      "transient_key": 202,
+      "reference_key_string": "AQQBABAAAAAAAAAAAgAAAGIAAAAGAAAA",
+      "curve_type": "kCircleCurve",
+      "length_cm": 1.6755160819145558,
+      "midpoint": [
+        0.7999999999999996,
+        -5.6000000000000014,
+        7.6143593539448986
+      ],
+      "tangent": [
+        0.86602540378443882,
+        0.0,
+        0.49999999999999983
+      ],
+      "start_vertex": [
+        0.0,
+        -5.6000000000000014,
+        7.4
+      ],
+      "end_vertex": [
+        1.3856406460551014,
+        -5.6000000000000014,
+        8.2
+      ],
+      "adjacent_faces": [
+        "AQQIAEgAAAAAAAAAAgAAABIAAAADAAAAFAAAAAYAAABiAAAABgAAAF4AAAAGAAAAXAAAAAYAAABbAAAABgAAAFoAAAAGAAAAWAAAAAYAAAA=",
+        "AQQEACgAAAAAAAAAAgAAAEEAAAADAAAAYQAAAAYAAABiAAAABgAAAGMAAAAGAAAA"
+      ]
+    },
+    {
+      "transient_key": 201,
+      "reference_key_string": "AQQBABAAAAAAAAAAAgAAAGMAAAAGAAAA",
+      "curve_type": "kBSplineCurve",
+      "length_cm": 0.93791172122365862,
+      "midpoint": [
+        0.46686200080311269,
+        -5.561478398623084,
+        7.4
+      ],
+      "tangent": [
+        -0.98717428745994718,
+        -0.15964625325370305,
+        6.2728770573728944E-15
+      ],
+      "start_vertex": [
+        0.92376043070340086,
+        -5.4570937640367365,
+        7.4
+      ],
+      "end_vertex": [
+        0.0,
+        -5.6000000000000014,
+        7.4
+      ],
+      "adjacent_faces": [
+        "AQQHAEAAAAAAAAAAAgAAABwAAAADAAAAKQAAAAYAAABkAAAABgAAAGMAAAAGAAAAVwAAAAYAAABlAAAABgAAACEAAAAGAAAA",
+        "AQQEACgAAAAAAAAAAgAAAEEAAAADAAAAYQAAAAYAAABiAAAABgAAAGMAAAAGAAAA"
+      ]
+    },
+    {
+      "transient_key": 205,
+      "reference_key_string": "AQQBABAAAAAAAAAAAgAAAGQAAAAGAAAA",
+      "curve_type": "kLineCurve",
+      "length_cm": 2.11418752807347,
+      "midpoint": [
+        0.92376043070340086,
+        -4.4000000000000012,
+        7.4
+      ],
+      "tangent": [
+        0.0,
+        -1.0,
+        0.0
+      ],
+      "start_vertex": [
+        0.92376043070340086,
+        -3.342906235963266,
+        7.4
+      ],
+      "end_vertex": [
+        0.92376043070340086,
+        -5.4570937640367365,
+        7.4
+      ],
+      "adjacent_faces": [
+        "AQQHAEAAAAAAAAAAAgAAABwAAAADAAAAKQAAAAYAAABkAAAABgAAAGMAAAAGAAAAVwAAAAYAAABlAAAABgAAACEAAAAGAAAA",
+        "AQQHAEAAAAAAAAAAAgAAACUAAAADAAAALwAAAAYAAABIAAAABgAAAF8AAAAGAAAAYQAAAAYAAABkAAAABgAAACgAAAAGAAAA"
+      ]
+    },
+    {
+      "transient_key": 207,
+      "reference_key_string": "AQQBABAAAAAAAAAAAgAAAGUAAAAGAAAA",
+      "curve_type": "kLineCurve",
+      "length_cm": 2.11418752807347,
+      "midpoint": [
+        -0.9237604307034013,
+        -4.4000000000000012,
+        7.4
+      ],
+      "tangent": [
+        0.0,
+        -1.0,
+        0.0
+      ],
+      "start_vertex": [
+        -0.9237604307034013,
+        -3.342906235963266,
+        7.4
+      ],
+      "end_vertex": [
+        -0.9237604307034013,
+        -5.4570937640367365,
+        7.4
+      ],
+      "adjacent_faces": [
+        "AQQHAEAAAAAAAAAAAgAAAB0AAAADAAAAIwAAAAYAAABlAAAABgAAAFUAAAAGAAAAWQAAAAYAAABPAAAABgAAAEAAAAAGAAAA",
+        "AQQHAEAAAAAAAAAAAgAAABwAAAADAAAAKQAAAAYAAABkAAAABgAAAGMAAAAGAAAAVwAAAAYAAABlAAAABgAAACEAAAAGAAAA"
+      ]
+    },
+    {
+      "transient_key": 211,
+      "reference_key_string": "AQQBABAAAAAAAAAAAgAAAGcAAAAGAAAA",
+      "curve_type": "kCircleCurve",
+      "length_cm": 5.3407075111026492,
+      "midpoint": [
+        0.85000000000000009,
+        -3.2000000000000011,
+        9.0
+      ],
+      "tangent": [
+        1.2246467991473532E-16,
+        0.0,
+        -1.0
+      ],
+      "start_vertex": [
+        -0.85000000000000009,
+        -3.2000000000000011,
+        9.0
+      ],
+      "end_vertex": [
+        -0.85000000000000009,
+        -3.2000000000000011,
+        9.0
+      ],
+      "radius_cm": 0.85000000000000009,
+      "adjacent_faces": [
+        "AQQDACAAAAAAAAAAAgAAABgAAAADAAAAagAAAAYAAABnAAAABgAAAA==",
+        "AQQIAEgAAAAAAAAAAgAAAB8AAAADAAAAZwAAAAYAAAA/AAAABgAAADsAAAAGAAAANQAAAAYAAAAwAAAABgAAACoAAAAGAAAAJAAAAAYAAAA="
+      ]
+    },
+    {
+      "transient_key": 213,
+      "reference_key_string": "AQQBABAAAAAAAAAAAgAAAGoAAAAGAAAA",
+      "curve_type": "kCircleCurve",
+      "length_cm": 5.3407075111026492,
+      "midpoint": [
+        -0.85000000000000009,
+        -2.0,
+        9.0
+      ],
+      "tangent": [
+        0.0,
+        -8.8817841970012563E-16,
+        1.0
+      ],
+      "start_vertex": [
+        0.85000000000000009,
+        -2.0,
+        9.0
+      ],
+      "end_vertex": [
+        0.85000000000000009,
+        -2.0,
+        9.0
+      ],
+      "radius_cm": 0.85000000000000009,
+      "adjacent_faces": [
+        "AQQDACAAAAAAAAAAAgAAAGgAAAADAAAAagAAAAYAAAB5AAAABgAAAA==",
+        "AQQDACAAAAAAAAAAAgAAABgAAAADAAAAagAAAAYAAABnAAAABgAAAA=="
+      ]
+    },
+    {
+      "transient_key": 216,
+      "reference_key_string": "AQQBABAAAAAAAAAAAgAAAG4AAAAGAAAA",
+      "curve_type": "kCircleCurve",
+      "length_cm": 4.0840704496667311,
+      "midpoint": [
+        -0.65,
+        -5.4000000000000012,
+        9.0
+      ],
+      "tangent": [
+        0.0,
+        0.0,
+        1.0
+      ],
+      "start_vertex": [
+        0.65,
+        -5.4000000000000012,
+        9.0
+      ],
+      "end_vertex": [
+        0.65,
+        -5.4000000000000012,
+        9.0
+      ],
+      "radius_cm": 0.65,
+      "adjacent_faces": [
+        "AQQDACAAAAAAAAAAAgAAAGwAAAADAAAAbgAAAAYAAAB2AAAABgAAAA==",
+        "AQQDACAAAAAAAAAAAgAAAGsAAAADAAAAbgAAAAYAAABxAAAABgAAAA=="
+      ]
+    },
+    {
+      "transient_key": 215,
+      "reference_key_string": "AQQBABAAAAAAAAAAAgAAAHEAAAAGAAAA",
+      "curve_type": "kCircleCurve",
+      "length_cm": 4.0840704496667311,
+      "midpoint": [
+        -0.65,
+        -2.0,
+        9.0
+      ],
+      "tangent": [
+        0.0,
+        -8.8817841970012563E-16,
+        1.0
+      ],
+      "start_vertex": [
+        0.65,
+        -2.0,
+        9.0
+      ],
+      "end_vertex": [
+        0.65,
+        -2.0,
+        9.0
+      ],
+      "radius_cm": 0.65,
+      "adjacent_faces": [
+        "AQQDACAAAAAAAAAAAgAAAG8AAAADAAAAcQAAAAYAAAB0AAAABgAAAA==",
+        "AQQDACAAAAAAAAAAAgAAAGsAAAADAAAAbgAAAAYAAABxAAAABgAAAA=="
+      ]
+    },
+    {
+      "transient_key": 218,
+      "reference_key_string": "AQQBABAAAAAAAAAAAgAAAHQAAAAGAAAA",
+      "curve_type": "kCircleCurve",
+      "length_cm": 4.0840704496667311,
+      "midpoint": [
+        -0.65,
+        -4.4408920985006262E-16,
+        7.0
+      ],
+      "tangent": [
+        0.0,
+        1.0,
+        0.0
+      ],
+      "start_vertex": [
+        0.65,
+        -3.6448979685160807E-16,
+        7.0
+      ],
+      "end_vertex": [
+        0.65,
+        -3.6448979685160807E-16,
+        7.0
+      ],
+      "radius_cm": 0.65,
+      "adjacent_faces": [
+        "AQQDACAAAAAAAAAAAgAAAHIAAAADAAAAdAAAAAYAAACgAAAABgAAAA==",
+        "AQQDACAAAAAAAAAAAgAAAG8AAAADAAAAcQAAAAYAAAB0AAAABgAAAA=="
+      ]
+    },
+    {
+      "transient_key": 220,
+      "reference_key_string": "AQQBABAAAAAAAAAAAgAAAHYAAAAGAAAA",
+      "curve_type": "kCircleCurve",
+      "length_cm": 5.3407075111026492,
+      "midpoint": [
+        -0.85000000000000009,
+        -5.4000000000000012,
+        9.0
+      ],
+      "tangent": [
+        0.0,
+        -8.8817841970012563E-16,
+        1.0
+      ],
+      "start_vertex": [
+        0.85000000000000009,
+        -5.4000000000000012,
+        9.0
+      ],
+      "end_vertex": [
+        0.85000000000000009,
+        -5.4000000000000012,
+        9.0
+      ],
+      "radius_cm": 0.85000000000000009,
+      "adjacent_faces": [
+        "AQQDACAAAAAAAAAAAgAAABgAAAADAAAAGgAAAAYAAAB2AAAABgAAAA==",
+        "AQQDACAAAAAAAAAAAgAAAGwAAAADAAAAbgAAAAYAAAB2AAAABgAAAA=="
+      ]
+    },
+    {
+      "transient_key": 222,
+      "reference_key_string": "AQQBABAAAAAAAAAAAgAAAHkAAAAGAAAA",
+      "curve_type": "kCircleCurve",
+      "length_cm": 5.3407075111026492,
+      "midpoint": [
+        -0.85000000000000009,
+        -4.4408920985006262E-16,
+        7.0
+      ],
+      "tangent": [
+        0.0,
+        1.0,
+        0.0
+      ],
+      "start_vertex": [
+        0.85000000000000009,
+        -3.3999766977516057E-16,
+        7.0
+      ],
+      "end_vertex": [
+        0.85000000000000009,
+        -3.3999766977516057E-16,
+        7.0
+      ],
+      "radius_cm": 0.85000000000000009,
+      "adjacent_faces": [
+        "AQQDACAAAAAAAAAAAgAAAHcAAAADAAAAeQAAAAYAAACiAAAABgAAAA==",
+        "AQQDACAAAAAAAAAAAgAAAGgAAAADAAAAagAAAAYAAAB5AAAABgAAAA=="
+      ]
+    },
+    {
+      "transient_key": 226,
+      "reference_key_string": "AQQBABAAAAAAAAAAAgAAAH0AAAAGAAAA",
+      "curve_type": "kCircleCurve",
+      "length_cm": 7.774727760286499,
+      "midpoint": [
+        -1.2373863542433767,
+        0.0,
+        3.0
+      ],
+      "tangent": [
+        0.0,
+        1.0,
+        0.0
+      ],
+      "start_vertex": [
+        1.2373863542433767,
+        -1.5153111915395461E-16,
+        3.0
+      ],
+      "end_vertex": [
+        1.2373863542433767,
+        -1.5153111915395461E-16,
+        3.0
+      ],
+      "radius_cm": 1.2373863542433767,
+      "adjacent_faces": [
+        "AQQDACAAAAAAAAAAAgAAAHsAAAADAAAAhgAAAAYAAAB9AAAABgAAAA==",
+        "AQQDACAAAAAAAAAAAgAAAHoAAAADAAAAfQAAAAYAAACAAAAABgAAAA=="
+      ]
+    },
+    {
+      "transient_key": 225,
+      "reference_key_string": "AQQBABAAAAAAAAAAAgAAAIAAAAAGAAAA",
+      "curve_type": "kCircleCurve",
+      "length_cm": 8.3505912057981959,
+      "midpoint": [
+        -1.3290378681424935,
+        -5.9021137672421163E-16,
+        2.94
+      ],
+      "tangent": [
+        4.4408920985006262E-16,
+        -1.0,
+        0.0
+      ],
+      "start_vertex": [
+        1.3290378681424935,
+        1.6275482177978444E-16,
+        2.94
+      ],
+      "end_vertex": [
+        1.3290378681424935,
+        1.6275482177978444E-16,
+        2.94
+      ],
+      "radius_cm": 1.3290378681424935,
+      "adjacent_faces": [
+        "AQQDACAAAAAAAAAAAgAAAH4AAAADAAAAgwAAAAYAAACAAAAABgAAAA==",
+        "AQQDACAAAAAAAAAAAgAAAHoAAAADAAAAfQAAAAYAAACAAAAABgAAAA=="
+      ]
+    },
+    {
+      "transient_key": 228,
+      "reference_key_string": "AQQBABAAAAAAAAAAAgAAAIMAAAAGAAAA",
+      "curve_type": "kCircleCurve",
+      "length_cm": 8.1681408993334621,
+      "midpoint": [
+        -7.9602041944577967E-17,
+        1.3,
+        2.1999999999999997
+      ],
+      "tangent": [
+        1.0,
+        6.123233995736766E-17,
+        0.0
+      ],
+      "start_vertex": [
+        0.0,
+        -1.3,
+        2.2000000000000006
+      ],
+      "end_vertex": [
+        0.0,
+        -1.3,
+        2.2000000000000006
+      ],
+      "radius_cm": 1.3,
+      "adjacent_faces": [
+        "AQQDACAAAAAAAAAAAgAAAIEAAAADAAAAmAAAAAYAAACDAAAABgAAAA==",
+        "AQQDACAAAAAAAAAAAgAAAH4AAAADAAAAgwAAAAYAAACAAAAABgAAAA=="
+      ]
+    },
+    {
+      "transient_key": 230,
+      "reference_key_string": "AQQBABAAAAAAAAAAAgAAAIYAAAAGAAAA",
+      "curve_type": "kCircleCurve",
+      "length_cm": 5.9690260418206069,
+      "midpoint": [
+        -0.95000000000000007,
+        0.0,
+        3.0
+      ],
+      "tangent": [
+        0.0,
+        1.0,
+        0.0
+      ],
+      "start_vertex": [
+        0.95000000000000007,
+        1.1633760361312585E-16,
+        3.0
+      ],
+      "end_vertex": [
+        0.95000000000000007,
+        1.1633760361312585E-16,
+        3.0
+      ],
+      "radius_cm": 0.95000000000000007,
+      "adjacent_faces": [
+        "AQQDACAAAAAAAAAAAgAAAHsAAAADAAAAhgAAAAYAAAB9AAAABgAAAA==",
+        "AQQDACAAAAAAAAAAAgAAAIQAAAADAAAAogAAAAYAAACGAAAABgAAAA=="
+      ]
+    },
+    {
+      "transient_key": 233,
+      "reference_key_string": "AQQBABAAAAAAAAAAAgAAAIoAAAAGAAAA",
+      "curve_type": "kCircleCurve",
+      "length_cm": 9.26769832808989,
+      "midpoint": [
+        -1.475,
+        0.0,
+        0.2
+      ],
+      "tangent": [
+        0.0,
+        1.0,
+        0.0
+      ],
+      "start_vertex": [
+        1.475,
+        -1.8062943718880065E-16,
+        0.2
+      ],
+      "end_vertex": [
+        1.475,
+        -1.8062943718880065E-16,
+        0.2
+      ],
+      "radius_cm": 1.475,
+      "adjacent_faces": [
+        "AQQDACAAAAAAAAAAAgAAAIgAAAADAAAAkAAAAAYAAACKAAAABgAAAA==",
+        "AQQDACAAAAAAAAAAAgAAAIcAAAADAAAAigAAAAYAAACNAAAABgAAAA=="
+      ]
+    },
+    {
+      "transient_key": 232,
+      "reference_key_string": "AQQBABAAAAAAAAAAAgAAAI0AAAAGAAAA",
+      "curve_type": "kCircleCurve",
+      "length_cm": 9.89601685880785,
+      "midpoint": [
+        -1.5750000000000002,
+        0.0,
+        0.1
+      ],
+      "tangent": [
+        0.0,
+        -1.0,
+        0.0
+      ],
+      "start_vertex": [
+        1.5750000000000002,
+        1.9287550072702443E-16,
+        0.1
+      ],
+      "end_vertex": [
+        1.5750000000000002,
+        1.9287550072702443E-16,
+        0.1
+      ],
+      "radius_cm": 1.5750000000000002,
+      "adjacent_faces": [
+        "AQQDACAAAAAAAAAAAgAAAIsAAAADAAAAkwAAAAYAAACNAAAABgAAAA==",
+        "AQQDACAAAAAAAAAAAgAAAIcAAAADAAAAigAAAAYAAACNAAAABgAAAA=="
+      ]
+    },
+    {
+      "transient_key": 235,
+      "reference_key_string": "AQQBABAAAAAAAAAAAgAAAJAAAAAGAAAA",
+      "curve_type": "kCircleCurve",
+      "length_cm": 9.1106186954104018,
+      "midpoint": [
+        -1.4500000000000002,
+        -6.4392935428259087E-16,
+        0.2
+      ],
+      "tangent": [
+        4.4408920985006262E-16,
+        -1.0,
+        0.0
+      ],
+      "start_vertex": [
+        1.4500000000000002,
+        1.7756792130424471E-16,
+        0.2
+      ],
+      "end_vertex": [
+        1.4500000000000002,
+        1.7756792130424471E-16,
+        0.2
+      ],
+      "radius_cm": 1.4500000000000002,
+      "adjacent_faces": [
+        "AQQDACAAAAAAAAAAAgAAAIgAAAADAAAAkAAAAAYAAACKAAAABgAAAA==",
+        "AQQDACAAAAAAAAAAAgAAAI4AAAADAAAApQAAAAYAAACQAAAABgAAAA=="
+      ]
+    },
+    {
+      "transient_key": 237,
+      "reference_key_string": "AQQBABAAAAAAAAAAAgAAAJMAAAAGAAAA",
+      "curve_type": "kCircleCurve",
+      "length_cm": 9.89601685880785,
+      "midpoint": [
+        -1.5750000000000002,
+        0.0,
+        0.0
+      ],
+      "tangent": [
+        0.0,
+        1.0,
+        0.0
+      ],
+      "start_vertex": [
+        1.5750000000000002,
+        1.9287550072702443E-16,
+        0.0
+      ],
+      "end_vertex": [
+        1.5750000000000002,
+        1.9287550072702443E-16,
+        0.0
+      ],
+      "radius_cm": 1.5750000000000002,
+      "adjacent_faces": [
+        "AQQDACAAAAAAAAAAAgAAAJEAAAADAAAAtAAAAAYAAACTAAAABgAAAA==",
+        "AQQDACAAAAAAAAAAAgAAAIsAAAADAAAAkwAAAAYAAACNAAAABgAAAA=="
+      ]
+    },
+    {
+      "transient_key": 240,
+      "reference_key_string": "AQQBABAAAAAAAAAAAgAAAJYAAAAGAAAA",
+      "curve_type": "kCircleCurve",
+      "length_cm": 8.1681408993334621,
+      "midpoint": [
+        2.3880612583373386E-16,
+        -1.3,
+        1.2999999999999985
+      ],
+      "tangent": [
+        -1.0,
+        -1.8369701987210297E-16,
+        0.0
+      ],
+      "start_vertex": [
+        0.0,
+        1.2999999999999998,
+        1.2999999999999998
+      ],
+      "end_vertex": [
+        0.0,
+        1.2999999999999998,
+        1.2999999999999998
+      ],
+      "radius_cm": 1.3,
+      "adjacent_faces": [
+        "AQQEACgAAAAAAAAAAgAAAIEAAAADAAAAnAAAAAYAAACdAAAABgAAAJYAAAAGAAAA",
+        "AQQDACAAAAAAAAAAAgAAAJQAAAADAAAAlgAAAAYAAACYAAAABgAAAA=="
+      ]
+    },
+    {
+      "transient_key": 239,
+      "reference_key_string": "AQQBABAAAAAAAAAAAgAAAJgAAAAGAAAA",
+      "curve_type": "kCircleCurve",
+      "length_cm": 8.1681408993334621,
+      "midpoint": [
+        -7.9602041944577967E-17,
+        -1.3,
+        2.100000000000001
+      ],
+      "tangent": [
+        1.0,
+        -6.123233995736766E-17,
+        0.0
+      ],
+      "start_vertex": [
+        0.0,
+        1.2999999999999998,
+        2.0999999999999996
+      ],
+      "end_vertex": [
+        0.0,
+        1.2999999999999998,
+        2.0999999999999996
+      ],
+      "radius_cm": 1.3,
+      "adjacent_faces": [
+        "AQQDACAAAAAAAAAAAgAAAIEAAAADAAAAmAAAAAYAAACDAAAABgAAAA==",
+        "AQQDACAAAAAAAAAAAgAAAJQAAAADAAAAlgAAAAYAAACYAAAABgAAAA=="
+      ]
+    },
+    {
+      "transient_key": 243,
+      "reference_key_string": "AQQBABAAAAAAAAAAAgAAAJwAAAAGAAAA",
+      "curve_type": "kCircleCurve",
+      "length_cm": 4.0840704496667311,
+      "midpoint": [
+        -7.9602041944577967E-17,
+        -1.3,
+        1.2
+      ],
+      "tangent": [
+        -1.0,
+        6.123233995736766E-17,
+        0.0
+      ],
+      "start_vertex": [
+        1.3,
+        1.5919882599690906E-16,
+        1.2
+      ],
+      "end_vertex": [
+        -1.3,
+        -1.5919882599690906E-16,
+        1.2
+      ],
+      "adjacent_faces": [
+        "AQQEACgAAAAAAAAAAgAAAIEAAAADAAAAnAAAAAYAAACdAAAABgAAAJYAAAAGAAAA",
+        "AQQEACgAAAAAAAAAAgAAAJkAAAADAAAAnAAAAAYAAACdAAAABgAAAKcAAAAGAAAA"
+      ]
+    },
+    {
+      "transient_key": 242,
+      "reference_key_string": "AQQBABAAAAAAAAAAAgAAAJ0AAAAGAAAA",
+      "curve_type": "kCircleCurve",
+      "length_cm": 4.0840704496667311,
+      "midpoint": [
+        -3.6826002834711867E-16,
+        1.3,
+        1.2
+      ],
+      "tangent": [
+        1.0,
+        2.83276944882399E-16,
+        0.0
+      ],
+      "start_vertex": [
+        -1.3,
+        -1.5919882599690906E-16,
+        1.2
+      ],
+      "end_vertex": [
+        1.3,
+        1.5919882599690906E-16,
+        1.2
+      ],
+      "adjacent_faces": [
+        "AQQEACgAAAAAAAAAAgAAAIEAAAADAAAAnAAAAAYAAACdAAAABgAAAJYAAAAGAAAA",
+        "AQQEACgAAAAAAAAAAgAAAJkAAAADAAAAnAAAAAYAAACdAAAABgAAAKcAAAAGAAAA"
+      ]
+    },
+    {
+      "transient_key": 245,
+      "reference_key_string": "AQQBABAAAAAAAAAAAgAAAKAAAAAGAAAA",
+      "curve_type": "kCircleCurve",
+      "length_cm": 4.0840704496667311,
+      "midpoint": [
+        0.65,
+        0.0,
+        3.0
+      ],
+      "tangent": [
+        0.0,
+        1.0,
+        0.0
+      ],
+      "start_vertex": [
+        -0.65,
+        -7.9599412998454529E-17,
+        3.0
+      ],
+      "end_vertex": [
+        -0.65,
+        -7.9599412998454529E-17,
+        3.0
+      ],
+      "radius_cm": 0.65,
+      "adjacent_faces": [
+        "AQQDACAAAAAAAAAAAgAAAJ4AAAADAAAAoAAAAAYAAACyAAAABgAAAA==",
+        "AQQDACAAAAAAAAAAAgAAAHIAAAADAAAAdAAAAAYAAACgAAAABgAAAA=="
+      ]
+    },
+    {
+      "transient_key": 247,
+      "reference_key_string": "AQQBABAAAAAAAAAAAgAAAKIAAAAGAAAA",
+      "curve_type": "kCircleCurve",
+      "length_cm": 5.3407075111026492,
+      "midpoint": [
+        -0.85000000000000009,
+        0.0,
+        3.1
+      ],
+      "tangent": [
+        0.0,
+        1.0,
+        0.0
+      ],
+      "start_vertex": [
+        0.85000000000000009,
+        -1.0409154007490207E-16,
+        3.1
+      ],
+      "end_vertex": [
+        0.85000000000000009,
+        -1.0409154007490207E-16,
+        3.1
+      ],
+      "radius_cm": 0.85000000000000009,
+      "adjacent_faces": [
+        "AQQDACAAAAAAAAAAAgAAAIQAAAADAAAAogAAAAYAAACGAAAABgAAAA==",
+        "AQQDACAAAAAAAAAAAgAAAHcAAAADAAAAeQAAAAYAAACiAAAABgAAAA=="
+      ]
+    },
+    {
+      "transient_key": 249,
+      "reference_key_string": "AQQBABAAAAAAAAAAAgAAAKUAAAAGAAAA",
+      "curve_type": "kCircleCurve",
+      "length_cm": 8.4823001646924414,
+      "midpoint": [
+        -1.35,
+        0.0,
+        0.30000000000000004
+      ],
+      "tangent": [
+        0.0,
+        1.0,
+        0.0
+      ],
+      "start_vertex": [
+        1.35,
+        -1.6532185776602093E-16,
+        0.30000000000000004
+      ],
+      "end_vertex": [
+        1.35,
+        -1.6532185776602093E-16,
+        0.30000000000000004
+      ],
+      "radius_cm": 1.35,
+      "adjacent_faces": [
+        "AQQDACAAAAAAAAAAAgAAAKMAAAADAAAApwAAAAYAAAClAAAABgAAAA==",
+        "AQQDACAAAAAAAAAAAgAAAI4AAAADAAAApQAAAAYAAACQAAAABgAAAA=="
+      ]
+    },
+    {
+      "transient_key": 251,
+      "reference_key_string": "AQQBABAAAAAAAAAAAgAAAKcAAAAGAAAA",
+      "curve_type": "kCircleCurve",
+      "length_cm": 8.4823001646924414,
+      "midpoint": [
+        1.35,
+        0.0,
+        1.1133974596215561
+      ],
+      "tangent": [
+        0.0,
+        1.0,
+        0.0
+      ],
+      "start_vertex": [
+        -1.35,
+        -1.6532185776602093E-16,
+        1.1133974596215561
+      ],
+      "end_vertex": [
+        -1.35,
+        -1.6532185776602093E-16,
+        1.1133974596215561
+      ],
+      "radius_cm": 1.35,
+      "adjacent_faces": [
+        "AQQDACAAAAAAAAAAAgAAAKMAAAADAAAApwAAAAYAAAClAAAABgAAAA==",
+        "AQQEACgAAAAAAAAAAgAAAJkAAAADAAAAnAAAAAYAAACdAAAABgAAAKcAAAAGAAAA"
+      ]
+    },
+    {
+      "transient_key": 256,
+      "reference_key_string": "AQQBABAAAAAAAAAAAgAAAKsAAAAGAAAA",
+      "curve_type": "kCircleCurve",
+      "length_cm": 7.8539816339744828,
+      "midpoint": [
+        -1.25,
+        0.0,
+        0.1
+      ],
+      "tangent": [
+        0.0,
+        1.0,
+        0.0
+      ],
+      "start_vertex": [
+        1.25,
+        1.5307579422779716E-16,
+        0.1
+      ],
+      "end_vertex": [
+        1.25,
+        1.5307579422779716E-16,
+        0.1
+      ],
+      "radius_cm": 1.25,
+      "adjacent_faces": [
+        "AQQDACAAAAAAAAAAAgAAAKgAAAADAAAAqwAAAAYAAACuAAAABgAAAA==",
+        "AQQDACAAAAAAAAAAAgAAAKkAAAADAAAAsAAAAAYAAACrAAAABgAAAA=="
+      ]
+    },
+    {
+      "transient_key": 255,
+      "reference_key_string": "AQQBABAAAAAAAAAAAgAAAK4AAAAGAAAA",
+      "curve_type": "kCircleCurve",
+      "length_cm": 9.26769832808989,
+      "midpoint": [
+        -1.475,
+        0.0,
+        0.1
+      ],
+      "tangent": [
+        0.0,
+        1.0,
+        0.0
+      ],
+      "start_vertex": [
+        1.475,
+        1.8062943718880065E-16,
+        0.1
+      ],
+      "end_vertex": [
+        1.475,
+        1.8062943718880065E-16,
+        0.1
+      ],
+      "radius_cm": 1.475,
+      "adjacent_faces": [
+        "AQQDACAAAAAAAAAAAgAAAKgAAAADAAAAqwAAAAYAAACuAAAABgAAAA==",
+        "AQQDACAAAAAAAAAAAgAAAKwAAAADAAAArgAAAAYAAAC0AAAABgAAAA=="
+      ]
+    },
+    {
+      "transient_key": 258,
+      "reference_key_string": "AQQBABAAAAAAAAAAAgAAALAAAAAGAAAA",
+      "curve_type": "kCircleCurve",
+      "length_cm": 7.8539816339744828,
+      "midpoint": [
+        -1.25,
+        0.0,
+        1.0999999999999999
+      ],
+      "tangent": [
+        0.0,
+        1.0,
+        0.0
+      ],
+      "start_vertex": [
+        1.25,
+        1.5307579422779716E-16,
+        1.0999999999999999
+      ],
+      "end_vertex": [
+        1.25,
+        1.5307579422779716E-16,
+        1.0999999999999999
+      ],
+      "radius_cm": 1.25,
+      "adjacent_faces": [
+        "AQQDACAAAAAAAAAAAgAAAAUAAAADAAAABwAAAAYAAACwAAAABgAAAA==",
+        "AQQDACAAAAAAAAAAAgAAAKkAAAADAAAAsAAAAAYAAACrAAAABgAAAA=="
+      ]
+    },
+    {
+      "transient_key": 260,
+      "reference_key_string": "AQQBABAAAAAAAAAAAgAAALIAAAAGAAAA",
+      "curve_type": "kCircleCurve",
+      "length_cm": 5.3407075111026492,
+      "midpoint": [
+        -0.85000000000000009,
+        0.0,
+        3.0
+      ],
+      "tangent": [
+        0.0,
+        1.0,
+        0.0
+      ],
+      "start_vertex": [
+        0.85000000000000009,
+        1.0409154007490207E-16,
+        3.0
+      ],
+      "end_vertex": [
+        0.85000000000000009,
+        1.0409154007490207E-16,
+        3.0
+      ],
+      "radius_cm": 0.85000000000000009,
+      "adjacent_faces": [
+        "AQQDACAAAAAAAAAAAgAAAJ4AAAADAAAAoAAAAAYAAACyAAAABgAAAA==",
+        "AQQDACAAAAAAAAAAAgAAAAwAAAADAAAAsgAAAAYAAAAOAAAABgAAAA=="
+      ]
+    },
+    {
+      "transient_key": 264,
+      "reference_key_string": "AQQBABAAAAAAAAAAAgAAALQAAAAGAAAA",
+      "curve_type": "kCircleCurve",
+      "length_cm": 9.26769832808989,
+      "midpoint": [
+        -1.475,
+        0.0,
+        0.0
+      ],
+      "tangent": [
+        0.0,
+        -1.0,
+        0.0
+      ],
+      "start_vertex": [
+        1.475,
+        1.8062943718880065E-16,
+        0.0
+      ],
+      "end_vertex": [
+        1.475,
+        1.8062943718880065E-16,
+        0.0
+      ],
+      "radius_cm": 1.475,
+      "adjacent_faces": [
+        "AQQDACAAAAAAAAAAAgAAAJEAAAADAAAAtAAAAAYAAACTAAAABgAAAA==",
+        "AQQDACAAAAAAAAAAAgAAAKwAAAADAAAArgAAAAYAAAC0AAAABgAAAA=="
+      ]
+    }
+  ],
+  "work_planes": [
+    {
+      "entity_type": "WorkPlane",
+      "work_feature_name": "YZ Plane",
+      "surface_type": "kPlaneSurface",
+      "area_cm2": 0.0001,
+      "center": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "normal": [
+        1.0,
+        0.0,
+        0.0
+      ],
+      "reference_key_string": "EAIAABAAAAAJAAAAAAAAAIAAAAAAAAAA"
+    },
+    {
+      "entity_type": "WorkPlane",
+      "work_feature_name": "XZ Plane",
+      "surface_type": "kPlaneSurface",
+      "area_cm2": 0.0001,
+      "center": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "normal": [
+        0.0,
+        1.0,
+        0.0
+      ],
+      "reference_key_string": "EAIAABAAAAAKAAAAAAAAAIAAAAAAAAAA"
+    },
+    {
+      "entity_type": "WorkPlane",
+      "work_feature_name": "XY Plane",
+      "surface_type": "kPlaneSurface",
+      "area_cm2": 0.0001,
+      "center": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "normal": [
+        0.0,
+        0.0,
+        1.0
+      ],
+      "reference_key_string": "EAIAABAAAAALAAAAAAAAAIAAAAAAAAAA"
+    }
+  ],
+  "work_axes": [
+    {
+      "entity_type": "WorkAxis",
+      "work_feature_name": "X Axis",
+      "direction": [
+        1.0,
+        0.0,
+        0.0
+      ],
+      "root_point": [
+        -1.0,
+        0.0,
+        0.0
+      ],
+      "reference_key_string": "EAIAABAAAAAMAAAAAAAAAIAAAAAAAAAA"
+    },
+    {
+      "entity_type": "WorkAxis",
+      "work_feature_name": "Y Axis",
+      "direction": [
+        0.0,
+        1.0,
+        0.0
+      ],
+      "root_point": [
+        0.0,
+        -1.0,
+        0.0
+      ],
+      "reference_key_string": "EAIAABAAAAANAAAAAAAAAIAAAAAAAAAA"
+    },
+    {
+      "entity_type": "WorkAxis",
+      "work_feature_name": "Z Axis",
+      "direction": [
+        0.0,
+        0.0,
+        1.0
+      ],
+      "root_point": [
+        0.0,
+        0.0,
+        -1.0
+      ],
+      "reference_key_string": "EAIAABAAAAAOAAAAAAAAAIAAAAAAAAAA"
+    }
+  ],
+  "bodies": [
+    {
+      "body_name": "Solid1",
+      "volume_cm3": 36.530159475816205
+    }
+  ],
+  "connection_points": [],
+  "feature_graph": [
+    {
+      "feature_name": "tabel_9_M26.ipt:1",
+      "feature_type": "Other",
+      "suppressed": false,
+      "parent_features": [],
+      "child_features": []
+    },
+    {
+      "feature_name": "STDMoer_M26_INV8.ipt:1",
+      "feature_type": "Other",
+      "suppressed": false,
+      "parent_features": [],
+      "child_features": []
+    },
+    {
+      "feature_name": "Extrusion2",
+      "feature_type": "Extrude",
+      "operation": "kJoinOperation",
+      "suppressed": false,
+      "parent_features": [],
+      "child_features": []
+    }
+  ]
+}

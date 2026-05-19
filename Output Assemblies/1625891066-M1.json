@@ -1,0 +1,410 @@
+﻿{
+  "assembly_metadata": {
+    "assembly_name": "1625891066-M1.iam",
+    "full_file_name": "C:\\Users\\hrish\\Downloads\\Assemblies for Training ML model\\Assembly 3\\1625891066-M1.iam",
+    "internal_name": "{08A8BF50-460B-9ACC-15A1-449948C3B98E}",
+    "total_occurrences": 2,
+    "total_constraints": 3
+  },
+  "physics": {
+    "mass_kg": 0.038114126239779972,
+    "center_of_mass": [
+      17.899572771663177,
+      -6.8157246864209391,
+      12.337356571004747
+    ],
+    "inertia_tensor": [
+      0.69767151741048294,
+      0.029397495332683321,
+      0.7013475925420134,
+      -0.0019614598151838436,
+      -5.7643815284791345E-06,
+      -1.0803424829646247E-05
+    ]
+  },
+  "assembly_graph": {
+    "nodes": [
+      {
+        "node_id": "1625891066:1",
+        "file_name": "C:\\Users\\hrish\\Downloads\\Assemblies for Training ML model\\Assembly 3\\1625891066.ipt",
+        "component_type": "kPartDocumentObject",
+        "grounded": false,
+        "suppressed": false,
+        "visible": true,
+        "adaptive": false,
+        "flexible": false,
+        "dof_translation": 3,
+        "dof_rotation": 3,
+        "fully_constrained": false,
+        "transform": {
+          "rotation_matrix": [
+            [
+              -0.99999136339817807,
+              0.0029388095957211206,
+              -0.0029387969056231789
+            ],
+            [
+              0.0029388095963157651,
+              -4.3344998404294835E-13,
+              -0.99999568168977
+            ],
+            [
+              -0.0029387969050314439,
+              -0.99999568168975894,
+              -8.6366014075969085E-06
+            ]
+          ],
+          "translation_cm": [
+            18.324741679958816,
+            -0.81702637006633294,
+            13.338610385194251
+          ]
+        }
+      },
+      {
+        "node_id": "0298100030:1",
+        "file_name": "E:\\Atlas Copco\\Assembly 1\\0298100030.ipt",
+        "component_type": "kPartDocumentObject",
+        "grounded": false,
+        "suppressed": false,
+        "visible": true,
+        "adaptive": false,
+        "flexible": false,
+        "dof_translation": 0,
+        "dof_rotation": 0,
+        "fully_constrained": true,
+        "transform": {
+          "rotation_matrix": [
+            [
+              0.86748732906570292,
+              -0.49745059793229918,
+              0.0029387969056252658
+            ],
+            [
+              -0.0025450837675116194,
+              0.0014694047977824732,
+              0.99999568168975317
+            ],
+            [
+              -0.49745276806855737,
+              -0.86749106247058072,
+              8.6366014083345488E-06
+            ]
+          ],
+          "translation_cm": [
+            16.977016225678643,
+            -1.0430579839003857,
+            12.334645341264368
+          ]
+        }
+      }
+    ],
+    "constraint_edges": [
+      {
+        "constraint_name": "Mate:1",
+        "constraint_type": "kMateConstraint",
+        "suppressed": false,
+        "health_status": "kUpToDateHealth",
+        "node_one_id": "0298100030:1",
+        "node_two_id": "1625891066:1",
+        "offset_cm": 0.0,
+        "solution": "kNoSolutionType",
+        "entity_one": {
+          "entity_type": "67119520",
+          "proxy_context_occurrence": "0298100030:1",
+          "owner_document": "E:\\Atlas Copco\\Assembly 1\\0298100030.ipt",
+          "reference_key_string": "AQQIAEgAAAAAAAAAAgAAAAEAAAADAAAABAAAAAYAAAAIAAAABgAAAAsAAAAGAAAADgAAAAYAAAARAAAABgAAABQAAAAGAAAAFgAAAAYAAAA=",
+          "context_key_string": "nsIrpNQR6AFgAC2z7in7sAQAAB5AAADIMgIotS/9IIFFAwBkBQABAADtN0PA0xEdDmAAALgylIewAAABAQAAsS28CdARH+wACNywOz6oCQIBAACyBAAAAFQAZQBzAHQAPBr8MaZBEfo08i+VfkoCJwD/////AAAAAAAABgBICM1Q4SAAYOo/XxjmxA==",
+          "surface_type": "kPlaneSurface",
+          "area_cm2": 0.32907597322020776,
+          "face_normal_at_center": [
+            2.1038073348719705E-32,
+            6.1481127594432E-33,
+            1.0
+          ],
+          "face_point_at_center": [
+            2.2204460492503131E-16,
+            -7.3552275381416621E-16,
+            0.080000000000000043
+          ],
+          "face_bbox_min": [
+            -0.48999999999999988,
+            -0.565803263805834,
+            0.080000000000000016
+          ],
+          "face_bbox_max": [
+            0.49000000000000032,
+            0.56580326380583246,
+            0.080000000000000043
+          ],
+          "loops": [
+            {
+              "is_outer": false,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAAAQAAAAGAAAA"
+              ]
+            },
+            {
+              "is_outer": true,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAAAgAAAAGAAAA",
+                "AQQBABAAAAAAAAAAAgAAAAsAAAAGAAAA",
+                "AQQBABAAAAAAAAAAAgAAAA4AAAAGAAAA",
+                "AQQBABAAAAAAAAAAAgAAABEAAAAGAAAA",
+                "AQQBABAAAAAAAAAAAgAAABQAAAAGAAAA",
+                "AQQBABAAAAAAAAAAAgAAABYAAAAGAAAA"
+              ]
+            }
+          ]
+        },
+        "entity_two": {
+          "entity_type": "67119520",
+          "proxy_context_occurrence": "1625891066:1",
+          "owner_document": "C:\\Users\\hrish\\Downloads\\Assemblies for Training ML model\\Assembly 3\\1625891066.ipt",
+          "reference_key_string": "AQQIAEgAAAAAAAAAAgAAAAEAAAADAAAABAAAAAYAAAAKAAAABgAAAA0AAAAGAAAAEAAAAAYAAAAUAAAABgAAABcAAAAGAAAAGAAAAAYAAAA=",
+          "context_key_string": "nsIrpNQR6AFgAC2z7in7sAQAAB5AAADIMgIotS/9IIFFAwBkBQABAADtN0PA0xEdDmAAALgylIewAAABAQAAsS28CdARH+wACNywOz6oCQIBAACyBAAAAFQAZQBzAHQAs7iew4hBJ1QYkcyO+BnBBgD/////AAAAAAAABgBICM1Q4SAAYOo/XxjmxA==",
+          "surface_type": "kPlaneSurface",
+          "area_cm2": 4.077256661176917,
+          "face_normal_at_center": [
+            0.0,
+            0.0,
+            1.0
+          ],
+          "face_point_at_center": [
+            1.3999999999999992,
+            1.0,
+            0.15000000000000002
+          ],
+          "face_bbox_min": [
+            0.29999999999999893,
+            -3.4694469519536142E-17,
+            0.14999999999999897
+          ],
+          "face_bbox_max": [
+            2.4999999999999996,
+            2.0,
+            0.15000000000000219
+          ],
+          "loops": [
+            {
+              "is_outer": false,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAAAQAAAAGAAAA"
+              ]
+            },
+            {
+              "is_outer": true,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAAAoAAAAGAAAA",
+                "AQQBABAAAAAAAAAAAgAAAA0AAAAGAAAA",
+                "AQQBABAAAAAAAAAAAgAAABAAAAAGAAAA",
+                "AQQBABAAAAAAAAAAAgAAABQAAAAGAAAA",
+                "AQQBABAAAAAAAAAAAgAAABcAAAAGAAAA",
+                "AQQBABAAAAAAAAAAAgAAABgAAAAGAAAA"
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "constraint_name": "Mate:2",
+        "constraint_type": "kMateConstraint",
+        "suppressed": false,
+        "health_status": "kUpToDateHealth",
+        "node_one_id": "0298100030:1",
+        "node_two_id": "1625891066:1",
+        "offset_cm": 0.0,
+        "solution": "kOpposedSolutionType",
+        "entity_one": {
+          "entity_type": "67119520",
+          "proxy_context_occurrence": "0298100030:1",
+          "owner_document": "E:\\Atlas Copco\\Assembly 1\\0298100030.ipt",
+          "reference_key_string": "AQQDACAAAAAAAAAAAgAAABcAAAADAAAAGgAAAAYAAAAdAAAABgAAAA==",
+          "context_key_string": "nsIrpNQR6AFgAC2z7in7sAQAAB5AAADIMgIotS/9IIFFAwBkBQABAADtN0PA0xEdDmAAALgylIewAAABAQAAsS28CdARH+wACNywOz6oCQIBAACyBAAAAFQAZQBzAHQAPBr8MaZBEfo08i+VfkoCJwD/////AAAAAAAABgBICM1Q4SAAYOo/XxjmxA==",
+          "surface_type": "kCylinderSurface",
+          "area_cm2": 1.8849555921538761,
+          "face_normal_at_center": [
+            -1.0,
+            0.0,
+            0.0
+          ],
+          "face_point_at_center": [
+            0.30000000000000004,
+            0.0,
+            -1.02
+          ],
+          "face_bbox_min": [
+            -0.30000000000000004,
+            -0.30000000000000004,
+            -1.52
+          ],
+          "face_bbox_max": [
+            0.30000000000000004,
+            0.30000000000000004,
+            -0.52
+          ],
+          "radius_cm": 0.30000000000000004,
+          "axis": [
+            0.0,
+            0.0,
+            1.0
+          ],
+          "loops": [
+            {
+              "is_outer": true,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAABoAAAAGAAAA"
+              ]
+            },
+            {
+              "is_outer": true,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAAB0AAAAGAAAA"
+              ]
+            }
+          ]
+        },
+        "entity_two": {
+          "entity_type": "67119520",
+          "proxy_context_occurrence": "1625891066:1",
+          "owner_document": "C:\\Users\\hrish\\Downloads\\Assemblies for Training ML model\\Assembly 3\\1625891066.ipt",
+          "reference_key_string": "AQQDACAAAAAAAAAAAgAAABoAAAADAAAABAAAAAYAAAAcAAAABgAAAA==",
+          "context_key_string": "nsIrpNQR6AFgAC2z7in7sAQAAB5AAADIMgIotS/9IIFFAwBkBQABAADtN0PA0xEdDmAAALgylIewAAABAQAAsS28CdARH+wACNywOz6oCQIBAACyBAAAAFQAZQBzAHQAs7iew4hBJ1QYkcyO+BnBBgD/////AAAAAAAABgBICM1Q4SAAYOo/XxjmxA==",
+          "surface_type": "kCylinderSurface",
+          "area_cm2": 0.28274333882308145,
+          "face_normal_at_center": [
+            -1.0,
+            -8.881784197001206E-16,
+            -5.3869193469673462E-15
+          ],
+          "face_point_at_center": [
+            1.6500000000000614,
+            1.0000000000000033,
+            0.075000000000002232
+          ],
+          "face_bbox_min": [
+            1.0500000000000609,
+            0.70000000000000284,
+            -1.0609642917776257E-15
+          ],
+          "face_bbox_max": [
+            1.6500000000000619,
+            1.3000000000000032,
+            0.15000000000000219
+          ],
+          "radius_cm": 0.30000000000000004,
+          "axis": [
+            -5.3869193469673454E-15,
+            -2.2086132087834102E-16,
+            1.0
+          ],
+          "loops": [
+            {
+              "is_outer": true,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAAAQAAAAGAAAA"
+              ]
+            },
+            {
+              "is_outer": true,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAABwAAAAGAAAA"
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "constraint_name": "Flush:1",
+        "constraint_type": "kFlushConstraint",
+        "suppressed": false,
+        "health_status": "kUpToDateHealth",
+        "node_one_id": "0298100030:1",
+        "node_two_id": "1625891066:1",
+        "offset_cm": 0.55,
+        "entity_one": {
+          "entity_type": "67119520",
+          "proxy_context_occurrence": "0298100030:1",
+          "owner_document": "E:\\Atlas Copco\\Assembly 1\\0298100030.ipt",
+          "reference_key_string": "AQQGADgAAAAAAAAAAgAAAB4AAAADAAAAIwAAAAYAAAAlAAAABgAAACgAAAAGAAAAKgAAAAYAAAArAAAABgAAAA==",
+          "context_key_string": "nsIrpNQR6AFgAC2z7in7sAQAAB5AAADIMgIotS/9IIFFAwBkBQABAADtN0PA0xEdDmAAALgylIewAAABAQAAsS28CdARH+wACNywOz6oCQIBAACyBAAAAFQAZQBzAHQAPBr8MaZBEfo08i+VfkoCJwD/////AAAAAAAABgBICM1Q4SAAYOo/XxjmxA==",
+          "surface_type": "kPlaneSurface",
+          "area_cm2": 0.71944797228403545,
+          "face_normal_at_center": [
+            -0.49999999999999994,
+            -0.86602540378443871,
+            0.0
+          ],
+          "face_point_at_center": [
+            -0.22499999999999995,
+            -0.38971143170299738,
+            -0.76
+          ],
+          "face_bbox_min": [
+            -0.45,
+            -0.51961524227066314,
+            -1.52
+          ],
+          "face_bbox_max": [
+            0.0,
+            -0.25980762113533162,
+            0.0
+          ],
+          "loops": [
+            {
+              "is_outer": true,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAACMAAAAGAAAA",
+                "AQQBABAAAAAAAAAAAgAAACUAAAAGAAAA",
+                "AQQBABAAAAAAAAAAAgAAACgAAAAGAAAA",
+                "AQQBABAAAAAAAAAAAgAAACoAAAAGAAAA",
+                "AQQBABAAAAAAAAAAAgAAACsAAAAGAAAA"
+              ]
+            }
+          ]
+        },
+        "entity_two": {
+          "entity_type": "67119520",
+          "proxy_context_occurrence": "1625891066:1",
+          "owner_document": "C:\\Users\\hrish\\Downloads\\Assemblies for Training ML model\\Assembly 3\\1625891066.ipt",
+          "reference_key_string": "AQQFADAAAAAAAAAAAgAAAAgAAAADAAAAHgAAAAYAAAAYAAAABgAAACEAAAAGAAAAIgAAAAYAAAA=",
+          "context_key_string": "nsIrpNQR6AFgAC2z7in7sAQAAB5AAADIMgIotS/9IIFFAwBkBQABAADtN0PA0xEdDmAAALgylIewAAABAQAAsS28CdARH+wACNywOz6oCQIBAACyBAAAAFQAZQBzAHQAs7iew4hBJ1QYkcyO+BnBBgD/////AAAAAAAABgBICM1Q4SAAYOo/XxjmxA==",
+          "surface_type": "kPlaneSurface",
+          "area_cm2": 0.3,
+          "face_normal_at_center": [
+            7.88860905221012E-32,
+            -1.0,
+            0.0
+          ],
+          "face_point_at_center": [
+            1.2999999999999996,
+            1.0255191767873152E-31,
+            0.075000000000000011
+          ],
+          "face_bbox_min": [
+            0.29999999999999982,
+            0.0,
+            0.0
+          ],
+          "face_bbox_max": [
+            2.2999999999999994,
+            1.814380082008327E-31,
+            0.15000000000000002
+          ],
+          "loops": [
+            {
+              "is_outer": true,
+              "edge_reference_keys": [
+                "AQQBABAAAAAAAAAAAgAAAB4AAAAGAAAA",
+                "AQQBABAAAAAAAAAAAgAAABgAAAAGAAAA",
+                "AQQBABAAAAAAAAAAAgAAACEAAAAGAAAA",
+                "AQQBABAAAAAAAAAAAgAAACIAAAAGAAAA"
+              ]
+            }
+          ]
+        }
+      }
+    ],
+    "joint_edges": []
+  }
+}

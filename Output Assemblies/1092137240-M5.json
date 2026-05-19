@@ -1,0 +1,210 @@
+﻿{
+  "assembly_metadata": {
+    "assembly_name": "1092137240-M5.iam",
+    "full_file_name": "C:\\Users\\hrish\\Downloads\\Assemblies for Training ML model\\Assembly 76\\Workspaces\\1092137240-M1\\1092137240-M5.iam",
+    "internal_name": "{31829A2B-4029-855D-67BC-0395441A08F3}",
+    "total_occurrences": 4,
+    "total_constraints": 0
+  },
+  "physics": {
+    "mass_kg": 1.5105453946785208,
+    "center_of_mass": [
+      -0.017459231980218964,
+      1.2287165379367821,
+      -0.73642614320461985
+    ],
+    "inertia_tensor": [
+      3.7410640816212832,
+      2576.9509445870704,
+      2578.2067430597735,
+      -0.015359500187884777,
+      -1.075627644173234,
+      -0.020137704662363334
+    ]
+  },
+  "assembly_graph": {
+    "nodes": [
+      {
+        "node_id": "1092137240-M6:1",
+        "file_name": "C:\\Users\\hrish\\Downloads\\Assemblies for Training ML model\\Assembly 76\\Workspaces\\1092137240-M1\\1092137240-M6.ipt",
+        "component_type": "kPartDocumentObject",
+        "grounded": true,
+        "suppressed": false,
+        "visible": true,
+        "adaptive": false,
+        "flexible": false,
+        "dof_translation": 0,
+        "dof_rotation": 0,
+        "fully_constrained": false,
+        "transform": {
+          "rotation_matrix": [
+            [
+              -5.5077701901100784E-16,
+              -7.023001708803076E-17,
+              -1.0000000000000007
+            ],
+            [
+              -1.0000000000000009,
+              1.0832082631724281E-32,
+              1.661000043636166E-15
+            ],
+            [
+              4.1046679490996176E-16,
+              1.0000000000000009,
+              -5.6352229280216438E-17
+            ]
+          ],
+          "translation_cm": [
+            3.8750147871613794E-14,
+            0.0,
+            0.0
+          ]
+        }
+      },
+      {
+        "node_id": "0298010600-M1-00:1",
+        "file_name": "C:\\Users\\hrish\\Downloads\\Assemblies for Training ML model\\Assembly 76\\Workspaces\\1092137240-M1\\0298010600-M1-00.ipt",
+        "component_type": "kPartDocumentObject",
+        "grounded": false,
+        "suppressed": false,
+        "visible": true,
+        "adaptive": false,
+        "flexible": false,
+        "dof_translation": 0,
+        "dof_rotation": 0,
+        "fully_constrained": true,
+        "transform": {
+          "rotation_matrix": [
+            [
+              0.86602540378443893,
+              -0.50000000000000067,
+              5.5077701901100784E-16
+            ],
+            [
+              -1.4690844034546647E-15,
+              7.7747125988183865E-16,
+              1.0000000000000009
+            ],
+            [
+              -0.50000000000000089,
+              -0.86602540378443915,
+              -4.7169913486732929E-16
+            ]
+          ],
+          "translation_cm": [
+            65.500000000000085,
+            0.24999999999989067,
+            -1.5000000000000036
+          ]
+        }
+      },
+      {
+        "node_id": "0298010600-M1-00:2",
+        "file_name": "C:\\Users\\hrish\\Downloads\\Assemblies for Training ML model\\Assembly 76\\Workspaces\\1092137240-M1\\0298010600-M1-00.ipt",
+        "component_type": "kPartDocumentObject",
+        "grounded": false,
+        "suppressed": false,
+        "visible": true,
+        "adaptive": false,
+        "flexible": false,
+        "dof_translation": 0,
+        "dof_rotation": 0,
+        "fully_constrained": true,
+        "transform": {
+          "rotation_matrix": [
+            [
+              0.86602540378443893,
+              -0.50000000000000067,
+              5.5077701901100794E-16
+            ],
+            [
+              -1.4690844034546641E-15,
+              7.7747125988183856E-16,
+              1.0000000000000009
+            ],
+            [
+              -0.50000000000000089,
+              -0.86602540378443915,
+              -4.7169913486732938E-16
+            ]
+          ],
+          "translation_cm": [
+            -6.4999999999999725,
+            0.25000000000001021,
+            -1.5000000000000018
+          ]
+        }
+      },
+      {
+        "node_id": "0298010600-M1-00:3",
+        "file_name": "C:\\Users\\hrish\\Downloads\\Assemblies for Training ML model\\Assembly 76\\Workspaces\\1092137240-M1\\0298010600-M1-00.ipt",
+        "component_type": "kPartDocumentObject",
+        "grounded": false,
+        "suppressed": false,
+        "visible": true,
+        "adaptive": false,
+        "flexible": false,
+        "dof_translation": 0,
+        "dof_rotation": 0,
+        "fully_constrained": true,
+        "transform": {
+          "rotation_matrix": [
+            [
+              0.86602540378443893,
+              -0.50000000000000067,
+              5.5077701901100794E-16
+            ],
+            [
+              -1.4690844034546641E-15,
+              7.7747125988183856E-16,
+              1.0000000000000009
+            ],
+            [
+              -0.50000000000000089,
+              -0.86602540378443915,
+              -4.7169913486732938E-16
+            ]
+          ],
+          "translation_cm": [
+            -65.5,
+            0.25000000000010825,
+            -1.4999999999999989
+          ]
+        }
+      }
+    ],
+    "constraint_edges": [],
+    "joint_edges": [
+      {
+        "joint_name": "Rigid:1",
+        "joint_type": "kRigidJointType",
+        "health_status": "kUpToDateHealth",
+        "suppressed": false,
+        "node_one_id": "0298010600-M1-00:1",
+        "node_two_id": "1092137240-M6:1",
+        "has_linear_limit": false,
+        "has_angular_limit": false
+      },
+      {
+        "joint_name": "Rigid:2",
+        "joint_type": "kRigidJointType",
+        "health_status": "kUpToDateHealth",
+        "suppressed": false,
+        "node_one_id": "0298010600-M1-00:2",
+        "node_two_id": "1092137240-M6:1",
+        "has_linear_limit": false,
+        "has_angular_limit": false
+      },
+      {
+        "joint_name": "Rigid:3",
+        "joint_type": "kRigidJointType",
+        "health_status": "kUpToDateHealth",
+        "suppressed": false,
+        "node_one_id": "0298010600-M1-00:3",
+        "node_two_id": "1092137240-M6:1",
+        "has_linear_limit": false,
+        "has_angular_limit": false
+      }
+    ]
+  }
+}
